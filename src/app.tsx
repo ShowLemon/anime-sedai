@@ -1,4 +1,4 @@
-import { useMemo, useRef, useState, useEffect } from "react"
+import { useCallback, useMemo, useRef, useState, useEffect } from "react"
 import animeData, { getAnimeTitle } from "../anime-data"
 import { domToBlob } from "modern-screenshot"
 import { toast } from "sonner"
@@ -6,7 +6,7 @@ import { usePersistState } from "./hooks"
 import { useI18n } from "./i18n-context"
 import { LanguageToggle } from "./LanguageToggle"
 import { getPromptTemplate } from "./i18n"
-import { searchIndex, type SearchItem } from "./search-index"
+import type { SearchItem } from "./search-index"
 import { buildPrompt } from "./prompt"
 import { Changelog } from "./changelog"
 
@@ -104,6 +104,32 @@ export const App = () => {
   const [pickerYear, setPickerYear] = useState<string | null>(null)
   const [pickerQuery, setPickerQuery] = useState("")
 
+  /** 搜索索引（约 600KB）：懒加载，首次用到时才拉取，不进首屏 */
+  const [searchIndex, setSearchIndex] = useState<SearchItem[] | null>(null)
+  const [indexLoading, setIndexLoading] = useState(false)
+  const indexPromise = useRef<Promise<SearchItem[]> | null>(null)
+
+  const ensureIndex = useCallback(() => {
+    if (indexPromise.current) return indexPromise.current
+    setIndexLoading(true)
+    const p = import("./search-index")
+      .then((m) => {
+        setSearchIndex(m.searchIndex)
+        setIndexLoading(false)
+        return m.searchIndex
+      })
+      .catch((err) => {
+        setIndexLoading(false)
+        indexPromise.current = null
+        throw err
+      })
+    indexPromise.current = p
+    return p
+  }, [])
+
+  /** 用户从搜索/面板追加进表格的作品。持久化保存，首屏没有索引也能渲染 */
+  const [extras, setExtras] = usePersistState<SearchItem[]>("animeExtras", [])
+
   const visibleYears = useMemo(() => {
     if (yearRange === "all") {
       return allYears
@@ -115,6 +141,7 @@ export const App = () => {
   /** 年份 -> 搜索索引里的作品，避免每次渲染都全量遍历 */
   const searchByYear = useMemo(() => {
     const map = new Map<number, SearchItem[]>()
+    if (!searchIndex) return map
     for (const item of searchIndex) {
       const list = map.get(item.year)
       if (list) {
@@ -124,9 +151,9 @@ export const App = () => {
       }
     }
     return map
-  }, [])
+  }, [searchIndex])
 
-  /** 每年实际展示的作品 = 默认名单 + 用户通过搜索追加进来的 */
+  /** 每年实际展示的作品 = 默认名单 + 用户追加的（只看 extras，不依赖索引） */
   const itemsByYear = useMemo(() => {
     const map = new Map<
       string,
@@ -135,8 +162,12 @@ export const App = () => {
     for (const year of visibleYears) {
       const base = animeData[year] || []
       const baseKeys = new Set(base.map((item) => item.titleZh))
-      const extra = (searchByYear.get(Number(year)) || []).filter((item) => {
-        return ratings[year + ":" + item.titleZh] !== undefined && !baseKeys.has(item.titleZh)
+      const extra = extras.filter((item) => {
+        return (
+          String(item.year) === year &&
+          !baseKeys.has(item.titleZh) &&
+          ratings[year + ":" + item.titleZh] !== undefined
+        )
       })
       map.set(year, [
         ...base.map((item) => ({ ...item, key: year + ":" + item.titleZh })),
@@ -144,7 +175,7 @@ export const App = () => {
       ])
     }
     return map
-  }, [visibleYears, searchByYear, ratings])
+  }, [visibleYears, extras, ratings])
 
   const visibleAnimeKeys = useMemo(() => {
     const keys: string[] = []
@@ -182,7 +213,7 @@ export const App = () => {
 
   const searchResults = useMemo(() => {
     const q = query.trim().toLowerCase()
-    if (!q) return []
+    if (!q || !searchIndex) return []
     return searchIndex
       .filter((item) => {
         return (
@@ -192,7 +223,7 @@ export const App = () => {
         )
       })
       .slice(0, 40)
-  }, [query])
+  }, [query, searchIndex])
 
   /** 当年全部作品（供按年选择面板使用） */
   const pickerItems = useMemo(() => {
@@ -225,6 +256,11 @@ export const App = () => {
       return
     }
     setRatings((prev) => ({ ...prev, [key]: 1 }))
+    setExtras((prev) =>
+      prev.some((x) => x.year === item.year && x.titleZh === item.titleZh)
+        ? prev
+        : [...prev, item]
+    )
     setQuery("")
     window.setTimeout(() => flashCell(key), 150)
   }
@@ -336,9 +372,17 @@ export const App = () => {
               <input
                 value={query}
                 onChange={(e) => setQuery(e.currentTarget.value)}
+                onFocus={() => {
+                  ensureIndex().catch(() => {})
+                }}
                 placeholder="搜索全部作品（中文 / 英文 / 日文）"
-                className="w-full border rounded px-2 py-1 text-sm bg-white"
+                className="w-full border rounded px-2 py-1 text-sm bg-white pr-24"
               />
+              {indexLoading && (
+                <span className="absolute right-2 top-1/2 -translate-y-1/2 text-xs text-zinc-400">
+                  索引加载中…
+                </span>
+              )}
               {searchResults.length > 0 && (
                 <div className="absolute left-0 right-0 top-full mt-1 z-20 max-h-80 overflow-y-auto border rounded bg-white shadow-lg text-sm">
                   {searchResults.map((item) => {
@@ -512,7 +556,12 @@ export const App = () => {
                         className="remove text-xs text-zinc-400 hover:text-blue-600 border rounded px-1.5 py-0.5 whitespace-nowrap"
                         onClick={() => {
                           setPickerQuery("")
-                          setPickerYear(pickerYear === year ? null : year)
+                          if (pickerYear === year) {
+                            setPickerYear(null)
+                          } else {
+                            ensureIndex().catch(() => {})
+                            setPickerYear(year)
+                          }
                         }}
                         title={year + " 年全部作品"}
                       >
@@ -729,6 +778,18 @@ export const App = () => {
                         })
                       } else {
                         setRatings((prev) => ({ ...prev, [key]: 1 }))
+                        const inBase = (animeData[pickerYear] || []).some(
+                          (x) => x.titleZh === item.titleZh
+                        )
+                        if (!inBase) {
+                          setExtras((prev) =>
+                            prev.some(
+                              (x) => x.year === item.year && x.titleZh === item.titleZh
+                            )
+                              ? prev
+                              : [...prev, item]
+                          )
+                        }
                       }
                     }}
                     className={
@@ -745,7 +806,7 @@ export const App = () => {
               })}
               {pickerItems.length === 0 && (
                 <div className="col-span-full text-center text-sm text-zinc-400 py-8">
-                  没有匹配的作品
+                  {indexLoading ? "正在加载作品索引…" : "没有匹配的作品"}
                 </div>
               )}
             </div>
