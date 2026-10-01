@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+﻿name: Deploy to GitHub Pages
 
 on:
   push:
@@ -27,8 +27,7 @@ jobs:
 
       - run: npm ci
 
-      # 仓库名是 <user>.github.io 时部署在根路径，否则在 /<repo>/ 子路径
-      - name: Build
+      # 浠撳簱鍚嶆槸 <user>.github.io 鏃堕儴缃插湪鏍硅矾寰勶紝鍚﹀垯鍦?/<repo>/ 瀛愯矾寰?      - name: Build
         run: |
           if [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
             export VITE_BASE="/"
@@ -39,6 +38,8 @@ jobs:
           npm run build
 
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true # Pages 未启用时自动启用（避免首次部署失败）
 
       - uses: actions/upload-pages-artifact@v3
         with:
