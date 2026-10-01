@@ -1,4 +1,4 @@
-﻿name: Deploy to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -27,7 +27,8 @@ jobs:
 
       - run: npm ci
 
-      # 浠撳簱鍚嶆槸 <user>.github.io 鏃堕儴缃插湪鏍硅矾寰勶紝鍚﹀垯鍦?/<repo>/ 瀛愯矾寰?      - name: Build
+      # Repo named <user>.github.io deploys at root, otherwise under /<repo>/
+      - name: Build
         run: |
           if [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
             export VITE_BASE="/"
@@ -37,9 +38,10 @@ jobs:
           echo "VITE_BASE=$VITE_BASE"
           npm run build
 
+      # enablement: true 会在 Pages 尚未启用时自动启用，避免首次部署失败
       - uses: actions/configure-pages@v5
         with:
-          enablement: true # Pages 未启用时自动启用（避免首次部署失败）
+          enablement: true
 
       - uses: actions/upload-pages-artifact@v3
         with:
