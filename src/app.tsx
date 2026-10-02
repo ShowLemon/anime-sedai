@@ -359,26 +359,60 @@ export const App = () => {
 
   /** 导出：评级 + 追加作品 + 进度，一个 JSON 文件 */
   const exportData = () => {
-    const payload = {
-      version: 3,
-      exportedAt: new Date().toISOString(),
-      ratings,
-      extras,
-      progress: reviewProgress,
-    }
-    const blob = new Blob([JSON.stringify(payload, null, 2)], {
-      type: "application/json",
-    })
+    const blob = new Blob([exportJson], { type: "application/json" })
     const url = URL.createObjectURL(blob)
     const a = document.createElement("a")
     a.href = url
     a.download = `anime-sedai-${new Date().toISOString().slice(0, 10)}.json`
     a.click()
     URL.revokeObjectURL(url)
+    // 这里无法得知下载有没有真的落盘（DSH 内置浏览器会拦掉所有下载），
+    // 所以文案只说明「已发起」并指向兜底入口，不承诺成功。
     toast.success(t("exportDone"))
   }
 
+  /** 全选文本域内容，方便手动 Ctrl+C —— 手动复制不受剪贴板权限限制 */
+  const selectAllData = () => {
+    const el = dataTextareaRef.current
+    if (!el) return
+    el.focus()
+    el.select()
+    toast.success(t("selectAllHint"))
+  }
+
+  const copyData = async () => {
+    try {
+      await navigator.clipboard.writeText(exportJson)
+      toast.success(t("copySuccess"))
+    } catch (e) {
+      toast.error(
+        t("copyFailed", { error: e instanceof Error ? e.message : String(e) })
+      )
+    }
+  }
+
   const importFileRef = useRef<HTMLInputElement>(null)
+  const dataTextareaRef = useRef<HTMLTextAreaElement>(null)
+
+  /** 「查看记录」面板：下载被环境拦掉时，手动复制数据的兜底通道 */
+  const [showData, setShowData] = useState(false)
+
+  /** 导出内容。导出文件和「查看记录」面板共用同一份，保证两者永远一致 */
+  const exportJson = useMemo(
+    () =>
+      JSON.stringify(
+        {
+          version: 3,
+          exportedAt: new Date().toISOString(),
+          ratings,
+          extras,
+          progress: reviewProgress,
+        },
+        null,
+        2
+      ),
+    [ratings, extras, reviewProgress]
+  )
 
   /** 导入：与现有数据合并，同一个 key 以导入的为准 */
   const importData = async (file: File) => {
@@ -860,6 +894,14 @@ export const App = () => {
           <button
             type="button"
             className="border rounded-md px-4 py-2 inline-flex"
+            onClick={() => setShowData(true)}
+          >
+            {t("viewData")}
+          </button>
+
+          <button
+            type="button"
+            className="border rounded-md px-4 py-2 inline-flex"
             onClick={() => importFileRef.current?.click()}
           >
             {t("importData")}
@@ -951,6 +993,67 @@ export const App = () => {
 
         <Changelog />
       </div>
+
+      {showData && (
+        <div
+          className="fixed inset-0 z-30 bg-black/30 flex items-start justify-center p-4 pt-16"
+          onClick={() => setShowData(false)}
+        >
+          <div
+            className="bg-white rounded-lg shadow-xl w-full max-w-2xl max-h-[80vh] flex flex-col"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="flex items-start gap-3 p-3 border-b">
+              <span className="font-semibold whitespace-nowrap">
+                {t("viewData")}
+              </span>
+              <span className="flex-1 text-xs text-zinc-500 leading-relaxed">
+                {t("viewDataHint")}
+              </span>
+              <button
+                type="button"
+                className="text-sm text-zinc-500 hover:bg-zinc-100 px-2 py-1 rounded shrink-0"
+                onClick={() => setShowData(false)}
+              >
+                {t("close")}
+              </button>
+            </div>
+            <div className="flex flex-col gap-2 p-3 overflow-y-auto">
+              <textarea
+                ref={dataTextareaRef}
+                readOnly
+                value={exportJson}
+                rows={14}
+                spellCheck={false}
+                className="w-full border rounded p-2 text-xs font-mono resize-none outline-none focus:ring-2 focus:ring-pink-500"
+              />
+              <div className="flex flex-wrap gap-2">
+                <button
+                  type="button"
+                  className="border rounded-md px-3 py-1.5 text-sm hover:bg-zinc-100"
+                  onClick={selectAllData}
+                >
+                  {t("selectAllText")}
+                </button>
+                <button
+                  type="button"
+                  className="border rounded-md px-3 py-1.5 text-sm hover:bg-zinc-100"
+                  onClick={copyData}
+                >
+                  {t("copy")}
+                </button>
+                <button
+                  type="button"
+                  className="border rounded-md px-3 py-1.5 text-sm hover:bg-zinc-100"
+                  onClick={exportData}
+                >
+                  {t("exportData")}
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
 
       {pickerYear && (
         <div
