@@ -1,0 +1,6294 @@
+{
+ "2000": [
+  {
+   "titleZh": "犬夜叉",
+   "titleJa": "犬夜叉",
+   "titleEn": "InuYasha",
+   "bgmId": 2784,
+   "aniListId": 249,
+   "date": "2000-10-16"
+  },
+  {
+   "titleZh": "游戏王－怪兽之决斗",
+   "titleJa": "遊☆戯☆王デュエルモンスターズ",
+   "titleEn": "Yu-Gi-Oh!",
+   "bgmId": 6390,
+   "aniListId": 481,
+   "date": "2000-04-18"
+  },
+  {
+   "titleZh": "纯情房东俏房客",
+   "titleJa": "ラブひな",
+   "titleEn": "Love Hina",
+   "bgmId": 2121,
+   "aniListId": 189,
+   "date": "2000-04-19"
+  },
+  {
+   "titleZh": "数码宝贝大冒险02",
+   "titleJa": "デジモンアドベンチャー02",
+   "titleEn": "Digimon: Digital Monsters 02",
+   "bgmId": 3129,
+   "aniListId": 1313,
+   "date": "2000-04-02"
+  },
+  {
+   "titleZh": "幻影死神",
+   "titleJa": "ブギーポップは笑わない Boogiepop Phantom",
+   "titleEn": "Boogiepop Phantom",
+   "bgmId": 3769,
+   "aniListId": 369,
+   "date": "2000-01-05"
+  },
+  {
+   "titleZh": "樱花大战",
+   "titleJa": "サクラ大戦",
+   "titleEn": "Sakura Wars",
+   "bgmId": 2060,
+   "aniListId": 561,
+   "date": "2000-04-08"
+  },
+  {
+   "titleZh": "我家也有外星人",
+   "titleJa": "NieA_7",
+   "titleEn": "NieA_7",
+   "bgmId": 3795,
+   "aniListId": 800,
+   "date": "2000-04-26"
+  },
+  {
+   "titleZh": "最游记",
+   "titleJa": "幻想魔伝 最遊記",
+   "titleEn": "Saiyuki",
+   "bgmId": 5977,
+   "aniListId": 129,
+   "date": "2000-04-04"
+  },
+  {
+   "titleZh": "随风舞月影兰",
+   "titleJa": "風まかせ月影蘭",
+   "titleEn": "Carried by the Wind: Tsukikage Ran",
+   "bgmId": 4047,
+   "aniListId": 606,
+   "date": "2000-01-26"
+  },
+  {
+   "titleZh": "星界的战旗",
+   "titleJa": "星界の戦旗",
+   "titleEn": "Banner of the Stars",
+   "bgmId": 9617,
+   "aniListId": 396,
+   "date": "2000-04-14"
+  },
+  {
+   "titleZh": "第一神拳",
+   "titleJa": "はじめの一歩",
+   "titleEn": "Hajime no Ippo: The Fighting!",
+   "bgmId": 10419,
+   "aniListId": 263,
+   "date": "2000-10-03"
+  },
+  {
+   "titleZh": "沉默的未知",
+   "titleJa": "アルジェントソーマ",
+   "titleEn": "Argento Soma",
+   "bgmId": 2440,
+   "aniListId": 285,
+   "date": "2000-10-05"
+  },
+  {
+   "titleZh": "宝可梦: 超梦! 我就在这里",
+   "titleJa": "ポケットモンスター ミュウツー! 我ハココニ在リ",
+   "titleEn": "Pokémon: Mewtwo Returns",
+   "bgmId": 27883,
+   "aniListId": 1709,
+   "date": "2000-12-30"
+  },
+  {
+   "titleZh": "小魔女DoReMi ♯",
+   "titleJa": "おジャ魔女どれみ♯",
+   "titleEn": "Ojamajo Doremi Sharp",
+   "bgmId": 14876,
+   "aniListId": 351,
+   "date": "2000-02-06"
+  },
+  {
+   "titleZh": "万有引力",
+   "titleJa": "グラビテーション",
+   "titleEn": "Gravitation TV",
+   "bgmId": 2912,
+   "aniListId": 243,
+   "date": "2000-10-04"
+  },
+  {
+   "titleZh": "暗之末裔",
+   "titleJa": "闇の末裔",
+   "titleEn": "Descendants of Darkness",
+   "bgmId": 2908,
+   "aniListId": 553,
+   "date": "2000-10-02"
+  },
+  {
+   "titleZh": "学校怪谈",
+   "titleJa": "学校の怪談",
+   "titleEn": "Ghost Stories",
+   "bgmId": 20431,
+   "aniListId": 1281,
+   "date": "2000-10-22"
+  },
+  {
+   "titleZh": "银河冒险战记",
+   "titleJa": "ヴァンドレッド",
+   "titleEn": "Vandread",
+   "bgmId": 8700,
+   "aniListId": 180,
+   "date": "2000-10-03"
+  },
+  {
+   "titleZh": "Da!Da!Da!",
+   "titleJa": "だぁ!だぁ!だぁ!",
+   "titleEn": "Daa! Daa! Daa!",
+   "bgmId": 3768,
+   "aniListId": 233,
+   "date": "2000-03-28"
+  },
+  {
+   "titleZh": "咕噜咕噜魔法阵 心跳传说",
+   "titleJa": "ドキドキ♡伝説 魔法陣グルグル",
+   "titleEn": "Magical Circle Guru Guru 2",
+   "bgmId": 3149,
+   "aniListId": 332,
+   "date": "2000-04-04"
+  },
+  {
+   "titleZh": "星界的断章 诞生",
+   "titleJa": "星界の断章 誕生",
+   "titleEn": "Passage of the Stars: Birth",
+   "bgmId": 34515,
+   "aniListId": 1124,
+   "date": "2000-04-07"
+  },
+  {
+   "titleZh": "哈姆太郎",
+   "titleJa": "とっとこハム太郎",
+   "titleEn": "Hamtaro",
+   "bgmId": 18513,
+   "aniListId": 508,
+   "date": "2000-07-07"
+  },
+  {
+   "titleZh": "人造人电脑奇侠",
+   "titleJa": "人造人間キカイダーTHE ANIMATION",
+   "titleEn": "Android Kikaider - The Animation",
+   "bgmId": 18457,
+   "aniListId": 598,
+   "date": "2000-10-16"
+  },
+  {
+   "titleZh": "Brigadoon 麻玲与苍蓝剑士",
+   "titleJa": "BRIGADOON まりんとメラン",
+   "titleEn": "Brigadoon",
+   "bgmId": 10420,
+   "aniListId": 1450,
+   "date": "2000-07-21"
+  },
+  {
+   "titleZh": "袖珍女侍小梅",
+   "titleJa": "HAND MAID メイ",
+   "titleEn": "Hand Maid May",
+   "bgmId": 38965,
+   "aniListId": 318,
+   "date": "2000-07-26"
+  },
+  {
+   "titleZh": "鲁邦三世 一美元的战争",
+   "titleJa": "ルパン三世 1$マネーウォーズ",
+   "titleEn": "Lupin the 3rd: Missed By A Dollar",
+   "bgmId": 84988,
+   "aniListId": 1422,
+   "date": "2000-07-28"
+  },
+  {
+   "titleZh": "向阳之树",
+   "titleJa": "陽だまりの樹",
+   "titleEn": "Hidamari no Ki",
+   "bgmId": 37232,
+   "aniListId": 2694,
+   "date": "2000-04-04"
+  },
+  {
+   "titleZh": "GEAR战士电童",
+   "titleJa": "GEAR戦士電童",
+   "titleEn": "GEAR Senshi Dendoh",
+   "bgmId": 10418,
+   "aniListId": 2484,
+   "date": "2000-10-04"
+  },
+  {
+   "titleZh": "梦幻妖子",
+   "titleJa": "妖しのセレス",
+   "titleEn": "Ceres, Celestial Legend",
+   "bgmId": 6375,
+   "aniListId": 104,
+   "date": "2000-04-20"
+  },
+  {
+   "titleZh": "地球守护者",
+   "titleJa": "ゲートキーパーズ",
+   "titleEn": "Gate Keepers",
+   "bgmId": 19039,
+   "aniListId": 127,
+   "date": "2000-04-03"
+  }
+ ],
+ "2001": [
+  {
+   "titleZh": "棋魂",
+   "titleJa": "ヒカルの碁",
+   "titleEn": "Hikaru no Go",
+   "bgmId": 605,
+   "aniListId": 135,
+   "date": "2001-10-10"
+  },
+  {
+   "titleZh": "水果篮子",
+   "titleJa": "フルーツバスケット",
+   "titleEn": "Fruits Basket",
+   "bgmId": 880,
+   "aniListId": 120,
+   "date": "2001-07-05"
+  },
+  {
+   "titleZh": "皇家国教骑士团",
+   "titleJa": "HELLSING",
+   "titleEn": "Hellsing",
+   "bgmId": 2216,
+   "aniListId": 270,
+   "date": "2001-10-18"
+  },
+  {
+   "titleZh": "网球王子",
+   "titleJa": "テニスの王子様",
+   "titleEn": "The Prince of Tennis",
+   "bgmId": 1939,
+   "aniListId": 22,
+   "date": "2001-10-10"
+  },
+  {
+   "titleZh": "热带雨林的爆笑生活",
+   "titleJa": "ジャングルはいつもハレのちグゥ",
+   "titleEn": "Haré+Guu",
+   "bgmId": 3291,
+   "aniListId": 253,
+   "date": "2001-04-03"
+  },
+  {
+   "titleZh": "数码宝贝驯兽师之王",
+   "titleJa": "デジモンテイマーズ",
+   "titleEn": "Digimon Tamers",
+   "bgmId": 3130,
+   "aniListId": 874,
+   "date": "2001-04-01"
+  },
+  {
+   "titleZh": "黑街二人组",
+   "titleJa": "ノワール",
+   "titleEn": "Noir",
+   "bgmId": 788,
+   "aniListId": 272,
+   "date": "2001-04-05"
+  },
+  {
+   "titleZh": "魔力女管家",
+   "titleJa": "まほろまてぃっく",
+   "titleEn": "Mahoromatic: Automatic Maiden",
+   "bgmId": 2141,
+   "aniListId": 276,
+   "date": "2001-10-05"
+  },
+  {
+   "titleZh": "通灵王",
+   "titleJa": "シャーマンキング",
+   "titleEn": "Shaman King",
+   "bgmId": 4190,
+   "aniListId": 154,
+   "date": "2001-07-04"
+  },
+  {
+   "titleZh": "X战记",
+   "titleJa": "X -エックス-",
+   "titleEn": "X (TV)",
+   "bgmId": 532,
+   "aniListId": 156,
+   "date": "2001-10-03"
+  },
+  {
+   "titleZh": "妹妹公主",
+   "titleJa": "シスター・プリンセス",
+   "titleEn": "Sister Princess",
+   "bgmId": 3690,
+   "aniListId": 836,
+   "date": "2001-04-04"
+  },
+  {
+   "titleZh": "分身战士",
+   "titleJa": "スクライド",
+   "titleEn": "s-CRY-ed",
+   "bgmId": 10276,
+   "aniListId": 168,
+   "date": "2001-07-04"
+  },
+  {
+   "titleZh": "逮捕令 第二季",
+   "titleJa": "逮捕しちゃうぞ Second Season",
+   "titleEn": "You're Under Arrest: Fast & Furious",
+   "bgmId": 2076,
+   "aniListId": 2014,
+   "date": "2001-04-07"
+  },
+  {
+   "titleZh": "银河天使",
+   "titleJa": "ギャラクシーエンジェル",
+   "titleEn": "Galaxy Angel",
+   "bgmId": 4634,
+   "aniListId": 383,
+   "date": "2001-04-07"
+  },
+  {
+   "titleZh": "刃牙",
+   "titleJa": "グラップラー刃牙",
+   "titleEn": "Baki the Grappler",
+   "bgmId": 62893,
+   "aniListId": 287,
+   "date": "2001-01-08"
+  },
+  {
+   "titleZh": "代号17",
+   "titleJa": "フィギュア17 つばさ&ヒカル",
+   "titleEn": "Figure 17: Tsubasa & Hikaru",
+   "bgmId": 10376,
+   "aniListId": 1126,
+   "date": "2001-05-27"
+  },
+  {
+   "titleZh": "青春草莓蛋",
+   "titleJa": "あぃまぃみぃ! ストロベリー・エッグ",
+   "titleEn": "I My Me! Strawberry Eggs",
+   "bgmId": 24062,
+   "aniListId": 509,
+   "date": "2001-07-04"
+  },
+  {
+   "titleZh": "花右京女仆队",
+   "titleJa": "花右京メイド隊",
+   "titleEn": "Hanaukyou Maid-tai",
+   "bgmId": 19538,
+   "aniListId": 403,
+   "date": "2001-04-12"
+  },
+  {
+   "titleZh": "漫画同人会",
+   "titleJa": "こみっくパーティー",
+   "titleEn": "Comic Party",
+   "bgmId": 2077,
+   "aniListId": 289,
+   "date": "2001-04-01"
+  },
+  {
+   "titleZh": "宝可梦 水晶: 雷公 雷的传说",
+   "titleJa": "ポケットモンスタークリスタル ライコウ雷の伝説",
+   "titleEn": "Pokémon: The Legend of Thunder!",
+   "bgmId": 27886,
+   "aniListId": 1525,
+   "date": "2001-12-30"
+  },
+  {
+   "titleZh": "小小雪精灵",
+   "titleJa": "ちっちゃな雪使いシュガー",
+   "titleEn": "A Little Snow Fairy Sugar",
+   "bgmId": 2414,
+   "aniListId": 831,
+   "date": "2001-10-02"
+  },
+  {
+   "titleZh": "爆旋陀螺",
+   "titleJa": "爆転シュート ベイブレード",
+   "titleEn": "Beyblade",
+   "bgmId": 9348,
+   "aniListId": 288,
+   "date": "2001-01-08"
+  },
+  {
+   "titleZh": "天使领域",
+   "titleJa": "機動天使エンジェリックレイヤー",
+   "titleEn": "Angelic Layer",
+   "bgmId": 4011,
+   "aniListId": 52,
+   "date": "2001-04-01"
+  },
+  {
+   "titleZh": "足球小将GOAL!",
+   "titleJa": "キャプテン翼",
+   "titleEn": "Captain Tsubasa",
+   "bgmId": 47764,
+   "aniListId": 1614,
+   "date": "2001-10-07"
+  },
+  {
+   "titleZh": "魔法战士李维",
+   "titleJa": "魔法戦士リウイ",
+   "titleEn": "Rune Soldier",
+   "bgmId": 14041,
+   "aniListId": 1164,
+   "date": "2001-04-03"
+  },
+  {
+   "titleZh": "圣石小子",
+   "titleJa": "GROOVE ADVENTURE RAVE",
+   "titleEn": "Rave Master",
+   "bgmId": 8544,
+   "aniListId": 246,
+   "date": "2001-10-13"
+  },
+  {
+   "titleZh": "人造人009",
+   "titleJa": "サイボーグ009 THE CYBORG SOLDIER",
+   "titleEn": "Cyborg 009: The Cyborg Soldier",
+   "bgmId": 13607,
+   "aniListId": 1678,
+   "date": "2001-10-14"
+  },
+  {
+   "titleZh": "地球少女Arjuna",
+   "titleJa": "地球少女アルジュナ",
+   "titleEn": "Arjuna",
+   "bgmId": 19418,
+   "aniListId": 812,
+   "date": "2001-01-09"
+  },
+  {
+   "titleZh": "星之卡比",
+   "titleJa": "星のカービィ",
+   "titleEn": "Kirby: Right Back at Ya!",
+   "bgmId": 30182,
+   "aniListId": 2390,
+   "date": "2001-10-06"
+  },
+  {
+   "titleZh": "七虹香电击大作战",
+   "titleJa": "ナジカ電撃作戦",
+   "titleEn": "Najica Blitz Tactics",
+   "bgmId": 2935,
+   "aniListId": 321,
+   "date": "2001-10-04"
+  }
+ ],
+ "2002": [
+  {
+   "titleZh": "攻壳机动队 STAND ALONE COMPLEX",
+   "titleJa": "攻殻機動隊 STAND ALONE COMPLEX",
+   "titleEn": "Ghost in the Shell: Stand Alone Complex",
+   "bgmId": 324,
+   "aniListId": 467,
+   "date": "2002-10-01"
+  },
+  {
+   "titleZh": "火影忍者",
+   "titleJa": "NARUTO -ナルト-",
+   "titleEn": "Naruto",
+   "bgmId": 3425,
+   "aniListId": 20,
+   "date": "2002-10-03"
+  },
+  {
+   "titleZh": "人形电脑天使心",
+   "titleJa": "ちょびっツ",
+   "titleEn": "Chobits",
+   "bgmId": 12,
+   "aniListId": 59,
+   "date": "2002-04-02"
+  },
+  {
+   "titleZh": "全金属狂潮",
+   "titleJa": "フルメタル・パニック!",
+   "titleEn": "Full Metal Panic!",
+   "bgmId": 334,
+   "aniListId": 71,
+   "date": "2002-01-15"
+  },
+  {
+   "titleZh": "十二国记",
+   "titleJa": "十二国記",
+   "titleEn": "The Twelve Kingdoms",
+   "bgmId": 1856,
+   "aniListId": 153,
+   "date": "2002-04-09"
+  },
+  {
+   "titleZh": "笑园漫画大王",
+   "titleJa": "あずまんが大王 THE ANIMATION",
+   "titleEn": "Azumanga Daioh",
+   "bgmId": 977,
+   "aniListId": 66,
+   "date": "2002-04-08"
+  },
+  {
+   "titleZh": "机动战士高达SEED",
+   "titleJa": "機動戦士ガンダムSEED",
+   "titleEn": "Mobile Suit Gundam Seed",
+   "bgmId": 1860,
+   "aniListId": 93,
+   "date": "2002-10-05"
+  },
+  {
+   "titleZh": "灰羽联盟",
+   "titleJa": "灰羽連盟",
+   "titleEn": "Haibane Renmei",
+   "bgmId": 893,
+   "aniListId": 387,
+   "date": "2002-10-09"
+  },
+  {
+   "titleZh": "最终兵器彼女",
+   "titleJa": "最終兵器彼女",
+   "titleEn": "She, The Ultimate Weapon",
+   "bgmId": 1931,
+   "aniListId": 529,
+   "date": "2002-07-02"
+  },
+  {
+   "titleZh": "翼神传说",
+   "titleJa": "ラーゼフォン",
+   "titleEn": "RahXephon",
+   "bgmId": 1030,
+   "aniListId": 165,
+   "date": "2002-01-21"
+  },
+  {
+   "titleZh": "宝可梦 超世代",
+   "titleJa": "ポケットモンスター アドバンスジェネレーション",
+   "titleEn": "Pokémon the Series: Ruby and Sapphire",
+   "bgmId": 3020,
+   "aniListId": 1564,
+   "date": "2002-11-21"
+  },
+  {
+   "titleZh": "拜托了老师",
+   "titleJa": "おねがい☆ティーチャー",
+   "titleEn": "Please☆Teacher!",
+   "bgmId": 297,
+   "aniListId": 195,
+   "date": "2002-01-10"
+  },
+  {
+   "titleZh": "数码宝贝无限地带",
+   "titleJa": "デジモンフロンティア",
+   "titleEn": "Digimon Frontier",
+   "bgmId": 3131,
+   "aniListId": 1132,
+   "date": "2002-04-07"
+  },
+  {
+   "titleZh": "Kanon",
+   "titleJa": "Kanon",
+   "titleEn": "Kanon",
+   "bgmId": 1077,
+   "aniListId": 144,
+   "date": "2002-01-30"
+  },
+  {
+   "titleZh": "萩萩公主",
+   "titleJa": "プリンセスチュチュ",
+   "titleEn": "Princess Tutu",
+   "bgmId": 5694,
+   "aniListId": 721,
+   "date": "2002-08-16"
+  },
+  {
+   "titleZh": "青出于蓝",
+   "titleJa": "藍より青し",
+   "titleEn": "Ai Yori Aoshi",
+   "bgmId": 836,
+   "aniListId": 53,
+   "date": "2002-04-10"
+  },
+  {
+   "titleZh": "安倍桥魔法☆商店街",
+   "titleJa": "アベノ橋魔法☆商店街",
+   "titleEn": "Magical Shopping Arcade Abenobashi",
+   "bgmId": 6937,
+   "aniListId": 306,
+   "date": "2002-04-04"
+  },
+  {
+   "titleZh": "闪灵二人组",
+   "titleJa": "GetBackers -奪還屋-",
+   "titleEn": "GetBackers",
+   "bgmId": 7217,
+   "aniListId": 132,
+   "date": "2002-10-05"
+  },
+  {
+   "titleZh": "推理之绊",
+   "titleJa": "スパイラル ～推理の絆～",
+   "titleEn": "Spiral: Bond of Reasoning",
+   "bgmId": 2174,
+   "aniListId": 341,
+   "date": "2002-10-01"
+  },
+  {
+   "titleZh": "返乡战士",
+   "titleJa": "OVERMANキングゲイナー",
+   "titleEn": "OVERMAN King Gainer",
+   "bgmId": 7931,
+   "aniListId": 1792,
+   "date": "2002-09-07"
+  },
+  {
+   "titleZh": ".hack//时空",
+   "titleJa": ".hack//SIGN",
+   "titleEn": ".hack//SIGN",
+   "bgmId": 1997,
+   "aniListId": 48,
+   "date": "2002-04-03"
+  },
+  {
+   "titleZh": "东京猫猫",
+   "titleJa": "東京ミュウミュウ",
+   "titleEn": "Tokyo Mew Mew",
+   "bgmId": 19615,
+   "aniListId": 687,
+   "date": "2002-04-06"
+  },
+  {
+   "titleZh": "魔女猎人罗宾",
+   "titleJa": "Witch Hunter ROBIN",
+   "titleEn": "Witch Hunter ROBIN",
+   "bgmId": 1951,
+   "aniListId": 7,
+   "date": "2002-07-02"
+  },
+  {
+   "titleZh": "天使特警",
+   "titleJa": "キディ・グレイド",
+   "titleEn": "Kiddy Grade",
+   "bgmId": 3815,
+   "aniListId": 274,
+   "date": "2002-10-08"
+  },
+  {
+   "titleZh": "花田少年史",
+   "titleJa": "花田少年史",
+   "titleEn": "Hanada Shounen-shi",
+   "bgmId": 8748,
+   "aniListId": 2004,
+   "date": "2002-10-01"
+  },
+  {
+   "titleZh": "寻找满月",
+   "titleJa": "満月をさがして",
+   "titleEn": "Looking for the Full Moon",
+   "bgmId": 10406,
+   "aniListId": 122,
+   "date": "2002-04-06"
+  },
+  {
+   "titleZh": "迷糊天使",
+   "titleJa": "ぴたテン",
+   "titleEn": "Pita-Ten",
+   "bgmId": 4542,
+   "aniListId": 162,
+   "date": "2002-04-07"
+  },
+  {
+   "titleZh": "魔法咪路咪路",
+   "titleJa": "わがまま☆フェアリー ミルモでポン!",
+   "titleEn": "Mirmo Zibang!",
+   "bgmId": 23443,
+   "aniListId": 1744,
+   "date": "2002-04-06"
+  },
+  {
+   "titleZh": "圆盘皇女",
+   "titleJa": "円盤皇女ワるきゅーレ",
+   "titleEn": "UFO Ultramaiden Valkyrie",
+   "bgmId": 4383,
+   "aniListId": 1127,
+   "date": "2002-07-04"
+  },
+  {
+   "titleZh": "我们这一家",
+   "titleJa": "あたしンち",
+   "titleEn": "Atashin'chi",
+   "bgmId": 40388,
+   "aniListId": 3006,
+   "date": "2002-04-19"
+  }
+ ],
+ "2003": [
+  {
+   "titleZh": "钢之炼金术师",
+   "titleJa": "鋼の錬金術師",
+   "titleEn": "Fullmetal Alchemist",
+   "bgmId": 315,
+   "aniListId": 121,
+   "date": "2003-10-04"
+  },
+  {
+   "titleZh": "奇诺之旅",
+   "titleJa": "キノの旅 -the Beautiful World-",
+   "titleEn": "Kino's Journey",
+   "bgmId": 1948,
+   "aniListId": 486,
+   "date": "2003-04-08"
+  },
+  {
+   "titleZh": "星空清理者",
+   "titleJa": "プラネテス",
+   "titleEn": "Planetes",
+   "bgmId": 2734,
+   "aniListId": 329,
+   "date": "2003-10-04"
+  },
+  {
+   "titleZh": "神枪少女",
+   "titleJa": "GUNSLINGER GIRL",
+   "titleEn": "Gunslinger Girl",
+   "bgmId": 3304,
+   "aniListId": 134,
+   "date": "2003-10-08"
+  },
+  {
+   "titleZh": "最终流放",
+   "titleJa": "LAST EXILE",
+   "titleEn": "Last Exile",
+   "bgmId": 921,
+   "aniListId": 97,
+   "date": "2003-04-07"
+  },
+  {
+   "titleZh": "百变之星",
+   "titleJa": "カレイドスター",
+   "titleEn": "Kaleido Star",
+   "bgmId": 4163,
+   "aniListId": 427,
+   "date": "2003-04-03"
+  },
+  {
+   "titleZh": "初音岛",
+   "titleJa": "D.C. 〜ダ・カーポ〜",
+   "titleEn": "D.C.~Da Capo~",
+   "bgmId": 2063,
+   "aniListId": 62,
+   "date": "2003-07-05"
+  },
+  {
+   "titleZh": "铳墓",
+   "titleJa": "ガングレイヴ",
+   "titleEn": "Gungrave",
+   "bgmId": 1805,
+   "aniListId": 267,
+   "date": "2003-10-06"
+  },
+  {
+   "titleZh": "真月谭月姬",
+   "titleJa": "真月譚 月姫",
+   "titleEn": "Lunar Legend Tsukihime",
+   "bgmId": 1899,
+   "aniListId": 169,
+   "date": "2003-10-09"
+  },
+  {
+   "titleZh": "你所期望的永远",
+   "titleJa": "君が望む永遠",
+   "titleEn": "Rumbling Hearts",
+   "bgmId": 1650,
+   "aniListId": 147,
+   "date": "2003-10-04"
+  },
+  {
+   "titleZh": "圣枪修女",
+   "titleJa": "クロノクルセイド",
+   "titleEn": "Chrono Crusade",
+   "bgmId": 1926,
+   "aniListId": 60,
+   "date": "2003-11-24"
+  },
+  {
+   "titleZh": "读或死 TV",
+   "titleJa": "R.O.D -THE TV-",
+   "titleEn": "R.O.D -THE TV-",
+   "bgmId": 1850,
+   "aniListId": 209,
+   "date": "2003-09-01"
+  },
+  {
+   "titleZh": "狼雨",
+   "titleJa": "WOLF'S RAIN",
+   "titleEn": "Wolf's Rain",
+   "bgmId": 1983,
+   "aniListId": 202,
+   "date": "2003-01-06"
+  },
+  {
+   "titleZh": "一骑当千",
+   "titleJa": "一騎当千",
+   "titleEn": "Battle Vixens: Ikki Tousen",
+   "bgmId": 3909,
+   "aniListId": 257,
+   "date": "2003-07-30"
+  },
+  {
+   "titleZh": "废弃公主",
+   "titleJa": "スクラップド・プリンセス",
+   "titleEn": "Scrapped Princess",
+   "bgmId": 2092,
+   "aniListId": 167,
+   "date": "2003-04-08"
+  },
+  {
+   "titleZh": "机魂末世录",
+   "titleJa": "TEXHNOLYZE",
+   "titleEn": "Texhnolyze",
+   "bgmId": 10416,
+   "aniListId": 26,
+   "date": "2003-04-16"
+  },
+  {
+   "titleZh": "暗与帽子与书之旅人",
+   "titleJa": "ヤミと帽子と本の旅人",
+   "titleEn": "YAMIBO: Darkness, the Hat, and Travelers of the Books",
+   "bgmId": 1906,
+   "aniListId": 497,
+   "date": "2003-10-03"
+  },
+  {
+   "titleZh": "铁臂阿童木",
+   "titleJa": "ASTRO BOY 鉄腕アトム",
+   "titleEn": "Astro Boy (2003)",
+   "bgmId": 28288,
+   "aniListId": 971,
+   "date": "2003-04-06"
+  },
+  {
+   "titleZh": "拜托了双子星",
+   "titleJa": "おねがい☆ツインズ",
+   "titleEn": "Please☆Twins!",
+   "bgmId": 1852,
+   "aniListId": 196,
+   "date": "2003-07-15"
+  },
+  {
+   "titleZh": "天使怪盗",
+   "titleJa": "D・N・ANGEL",
+   "titleEn": "D.N.Angel",
+   "bgmId": 1978,
+   "aniListId": 61,
+   "date": "2003-04-03"
+  },
+  {
+   "titleZh": "人鱼之森",
+   "titleJa": "高橋留美子劇場 人魚の森",
+   "titleEn": "Mermaid Forest (TV)",
+   "bgmId": 1947,
+   "aniListId": 620,
+   "date": "2003-10-04"
+  },
+  {
+   "titleZh": "明日的娜嘉",
+   "titleJa": "明日のナージャ",
+   "titleEn": "Ashita no Nadja",
+   "bgmId": 9564,
+   "aniListId": 1946,
+   "date": "2003-02-02"
+  },
+  {
+   "titleZh": "新撰组异闻录 铁",
+   "titleJa": "PEACE MAKER 鐵",
+   "titleEn": "Peacemaker",
+   "bgmId": 1930,
+   "aniListId": 161,
+   "date": "2003-10-07"
+  },
+  {
+   "titleZh": "爱的魔法",
+   "titleJa": "まぶらほ",
+   "titleEn": "Maburaho",
+   "bgmId": 4370,
+   "aniListId": 193,
+   "date": "2003-10-14"
+  },
+  {
+   "titleZh": "魁！！库洛马迪高校",
+   "titleJa": "魁!!クロマティ高校",
+   "titleEn": "Cromartie High School",
+   "bgmId": 4043,
+   "aniListId": 114,
+   "date": "2003-10-02"
+  },
+  {
+   "titleZh": "京极夏彦 巷说百物语",
+   "titleJa": "京極夏彦 巷説百物語",
+   "titleEn": "Requiem from the Darkness",
+   "bgmId": 3620,
+   "aniListId": 279,
+   "date": "2003-10-03"
+  },
+  {
+   "titleZh": "金色的卡修",
+   "titleJa": "金色のガッシュベル!!",
+   "titleEn": "Zatch Bell!",
+   "bgmId": 3754,
+   "aniListId": 250,
+   "date": "2003-04-06"
+  },
+  {
+   "titleZh": "魔法使的条件",
+   "titleJa": "魔法遣いに大切なこと",
+   "titleEn": "Someday's Dreamers",
+   "bgmId": 3395,
+   "aniListId": 273,
+   "date": "2003-01-10"
+  },
+  {
+   "titleZh": "宇宙星路",
+   "titleJa": "宇宙のステルヴィア",
+   "titleEn": "Stellvia of the Universe",
+   "bgmId": 2326,
+   "aniListId": 113,
+   "date": "2003-04-02"
+  },
+  {
+   "titleZh": "人鱼的旋律",
+   "titleJa": "マーメイドメロディー ぴちぴちピッチ",
+   "titleEn": "Mermaid Melody: Pichi Pichi Pitch",
+   "bgmId": 30515,
+   "aniListId": 521,
+   "date": "2003-04-05"
+  }
+ ],
+ "2004": [
+  {
+   "titleZh": "混沌武士",
+   "titleJa": "サムライチャンプルー",
+   "titleEn": "Samurai Champloo",
+   "bgmId": 254,
+   "aniListId": 205,
+   "date": "2004-05-19"
+  },
+  {
+   "titleZh": "怪物",
+   "titleJa": "MONSTER",
+   "titleEn": "Monster",
+   "bgmId": 1959,
+   "aniListId": 19,
+   "date": "2004-04-06"
+  },
+  {
+   "titleZh": "妖精的旋律",
+   "titleJa": "エルフェンリート",
+   "titleEn": "Elfen Lied",
+   "bgmId": 536,
+   "aniListId": 226,
+   "date": "2004-07-25"
+  },
+  {
+   "titleZh": "死神",
+   "titleJa": "BLEACH",
+   "titleEn": "Bleach",
+   "bgmId": 1600,
+   "aniListId": 269,
+   "date": "2004-10-05"
+  },
+  {
+   "titleZh": "妄想代理人",
+   "titleJa": "妄想代理人",
+   "titleEn": "Paranoia Agent",
+   "bgmId": 843,
+   "aniListId": 323,
+   "date": "2004-02-02"
+  },
+  {
+   "titleZh": "校园迷糊大王",
+   "titleJa": "スクールランブル",
+   "titleEn": "School Rumble",
+   "bgmId": 440,
+   "aniListId": 24,
+   "date": "2004-10-05"
+  },
+  {
+   "titleZh": "蔷薇少女",
+   "titleJa": "ローゼンメイデン",
+   "titleEn": "Rozen Maiden",
+   "bgmId": 1025,
+   "aniListId": 64,
+   "date": "2004-10-07"
+  },
+  {
+   "titleZh": "现视研",
+   "titleJa": "げんしけん",
+   "titleEn": "Genshiken",
+   "bgmId": 928,
+   "aniListId": 240,
+   "date": "2004-10-10"
+  },
+  {
+   "titleZh": "魔法少女奈叶",
+   "titleJa": "魔法少女リリカルなのは",
+   "titleEn": "Magical Girl Lyrical Nanoha",
+   "bgmId": 1262,
+   "aniListId": 76,
+   "date": "2004-10-01"
+  },
+  {
+   "titleZh": "苍穹之法芙娜",
+   "titleJa": "蒼穹のファフナー",
+   "titleEn": "Fafner",
+   "bgmId": 2936,
+   "aniListId": 75,
+   "date": "2004-07-04"
+  },
+  {
+   "titleZh": "圣母在上",
+   "titleJa": "マリア様がみてる",
+   "titleEn": "Maria Watches Over Us",
+   "bgmId": 4214,
+   "aniListId": 158,
+   "date": "2004-01-07"
+  },
+  {
+   "titleZh": "神无月的巫女",
+   "titleJa": "神無月の巫女",
+   "titleEn": "Destiny of the Shrine Maiden",
+   "bgmId": 2451,
+   "aniListId": 143,
+   "date": "2004-10-01"
+  },
+  {
+   "titleZh": "摇滚新乐团",
+   "titleJa": "BECK",
+   "titleEn": "Beck: Mongolian Chop Squad",
+   "bgmId": 4035,
+   "aniListId": 57,
+   "date": "2004-10-06"
+  },
+  {
+   "titleZh": "舞-HiME",
+   "titleJa": "舞-HiME",
+   "titleEn": "My-HiME",
+   "bgmId": 1027,
+   "aniListId": 98,
+   "date": "2004-09-30"
+  },
+  {
+   "titleZh": "Keroro军曹",
+   "titleJa": "ケロロ軍曹",
+   "titleEn": "Sgt. Frog",
+   "bgmId": 1849,
+   "aniListId": 516,
+   "date": "2004-04-03"
+  },
+  {
+   "titleZh": "游戏王－怪兽之决斗GX",
+   "titleJa": "遊☆戯☆王デュエルモンスターズGX",
+   "titleEn": "Yu-Gi-Oh! GX",
+   "bgmId": 3711,
+   "aniListId": 482,
+   "date": "2004-10-06"
+  },
+  {
+   "titleZh": "风人物语",
+   "titleJa": "風人物語",
+   "titleEn": "Windy Tales",
+   "bgmId": 2710,
+   "aniListId": 1524,
+   "date": "2004-09-11"
+  },
+  {
+   "titleZh": "杀戮都市",
+   "titleJa": "GANTZ 〜the first stage〜",
+   "titleEn": "Gantz",
+   "bgmId": 2750,
+   "aniListId": 384,
+   "date": "2004-04-12"
+  },
+  {
+   "titleZh": "恋风",
+   "titleJa": "恋風",
+   "titleEn": "Koi Kaze",
+   "bgmId": 9731,
+   "aniListId": 634,
+   "date": "2004-04-01"
+  },
+  {
+   "titleZh": "爱丽丝学园",
+   "titleJa": "学園アリス",
+   "titleEn": "Gakuen Alice",
+   "bgmId": 2257,
+   "aniListId": 74,
+   "date": "2004-10-30"
+  },
+  {
+   "titleZh": "头文字D Fourth Stage",
+   "titleJa": "頭文字D Fourth Stage",
+   "titleEn": "Initial D 4th Stage",
+   "bgmId": 3816,
+   "aniListId": 18,
+   "date": "2004-04-17"
+  },
+  {
+   "titleZh": "岩窟王",
+   "titleJa": "巖窟王",
+   "titleEn": "Gankutsuou: The Count of Monte Cristo",
+   "bgmId": 2903,
+   "aniListId": 239,
+   "date": "2004-10-05"
+  },
+  {
+   "titleZh": "今天开始做魔王",
+   "titleJa": "今日から㋮王!",
+   "titleEn": "Kyo Kara Maoh! - God (?) Save Our King!",
+   "bgmId": 895,
+   "aniListId": 251,
+   "date": "2004-04-03"
+  },
+  {
+   "titleZh": "月咏 -MOON PHASE-",
+   "titleJa": "月詠 -MOON PHASE-",
+   "titleEn": "MoonPhase",
+   "bgmId": 973,
+   "aniListId": 343,
+   "date": "2004-10-04"
+  },
+  {
+   "titleZh": "美鸟日记",
+   "titleJa": "美鳥の日々",
+   "titleEn": "Midori Days",
+   "bgmId": 2126,
+   "aniListId": 330,
+   "date": "2004-04-03"
+  },
+  {
+   "titleZh": "光之美少女",
+   "titleJa": "ふたりはプリキュア",
+   "titleEn": "Precure",
+   "bgmId": 4243,
+   "aniListId": 603,
+   "date": "2004-02-01"
+  },
+  {
+   "titleZh": "MADLAX",
+   "titleJa": "MADLAX",
+   "titleEn": "Madlax",
+   "bgmId": 1418,
+   "aniListId": 252,
+   "date": "2004-04-05"
+  },
+  {
+   "titleZh": "天上天下",
+   "titleJa": "天上天下",
+   "titleEn": "Tenjho Tenge",
+   "bgmId": 4371,
+   "aniListId": 174,
+   "date": "2004-04-01"
+  },
+  {
+   "titleZh": "双恋",
+   "titleJa": "双恋",
+   "titleEn": "Futakoi",
+   "bgmId": 2642,
+   "aniListId": 125,
+   "date": "2004-10-06"
+  },
+  {
+   "titleZh": "库拉乌 幻之记忆",
+   "titleJa": "KURAU Phantom Memory",
+   "titleEn": "Kurau Phantom Memory",
+   "bgmId": 4140,
+   "aniListId": 483,
+   "date": "2004-06-24"
+  }
+ ],
+ "2005": [
+  {
+   "titleZh": "虫师",
+   "titleJa": "蟲師",
+   "titleEn": "MUSHI-SHI",
+   "bgmId": 340,
+   "aniListId": 457,
+   "date": "2005-10-22"
+  },
+  {
+   "titleZh": "AIR",
+   "titleJa": "AIR",
+   "titleEn": "Air",
+   "bgmId": 234,
+   "aniListId": 101,
+   "date": "2005-01-06"
+  },
+  {
+   "titleZh": "灼眼的夏娜",
+   "titleJa": "灼眼のシャナ",
+   "titleEn": "Shakugan no Shana",
+   "bgmId": 490,
+   "aniListId": 355,
+   "date": "2005-10-05"
+  },
+  {
+   "titleZh": "蜂蜜与四叶草",
+   "titleJa": "ハチミツとクローバー",
+   "titleEn": "Honey and Clover",
+   "bgmId": 847,
+   "aniListId": 16,
+   "date": "2005-04-14"
+  },
+  {
+   "titleZh": "水星领航员",
+   "titleJa": "ARIA The ANIMATION",
+   "titleEn": "ARIA The ANIMATION",
+   "bgmId": 531,
+   "aniListId": 477,
+   "date": "2005-10-06"
+  },
+  {
+   "titleZh": "地狱少女",
+   "titleJa": "地獄少女",
+   "titleEn": "Hell Girl",
+   "bgmId": 1260,
+   "aniListId": 228,
+   "date": "2005-10-04"
+  },
+  {
+   "titleZh": "哆啦A梦",
+   "titleJa": "ドラえもん",
+   "titleEn": "Doraemon (2005)",
+   "bgmId": 18692,
+   "aniListId": 8687,
+   "date": "2005-04-15"
+  },
+  {
+   "titleZh": "交响诗篇",
+   "titleJa": "交響詩篇エウレカセブン",
+   "titleEn": "Eureka Seven",
+   "bgmId": 1266,
+   "aniListId": 237,
+   "date": "2005-04-17"
+  },
+  {
+   "titleZh": "草莓棉花糖",
+   "titleJa": "苺ましまろ",
+   "titleEn": "Strawberry Marshmallow",
+   "bgmId": 284,
+   "aniListId": 488,
+   "date": "2005-07-14"
+  },
+  {
+   "titleZh": "甲贺忍法帖",
+   "titleJa": "バジリスク ～甲賀忍法帖～",
+   "titleEn": "Basilisk",
+   "bgmId": 3916,
+   "aniListId": 67,
+   "date": "2005-04-12"
+  },
+  {
+   "titleZh": "斗牌传说",
+   "titleJa": "闘牌伝説アカギ 〜闇に舞い降りた天才〜",
+   "titleEn": "Akagi",
+   "bgmId": 2059,
+   "aniListId": 658,
+   "date": "2005-10-04"
+  },
+  {
+   "titleZh": "翼·年代记",
+   "titleJa": "ツバサ・クロニクル",
+   "titleEn": "Tsubasa RESERVoir CHRoNiCLE",
+   "bgmId": 2891,
+   "aniListId": 177,
+   "date": "2005-04-09"
+  },
+  {
+   "titleZh": "双恋 Alternative",
+   "titleJa": "フタコイ オルタナティブ",
+   "titleEn": "Futakoi Alternative",
+   "bgmId": 2643,
+   "aniListId": 126,
+   "date": "2005-04-06"
+  },
+  {
+   "titleZh": "不可思议的教室",
+   "titleJa": "ぱにぽにだっしゅ!",
+   "titleEn": "Pani Poni Dash!",
+   "bgmId": 1617,
+   "aniListId": 490,
+   "date": "2005-07-03"
+  },
+  {
+   "titleZh": "神是中学生",
+   "titleJa": "かみちゅ!",
+   "titleEn": "Kamichu!",
+   "bgmId": 4235,
+   "aniListId": 489,
+   "date": "2005-06-29"
+  },
+  {
+   "titleZh": "我的女神",
+   "titleJa": "ああっ女神さまっ",
+   "titleEn": "Oh! My Goddess (TV)",
+   "bgmId": 4217,
+   "aniListId": 50,
+   "date": "2005-01-06"
+  },
+  {
+   "titleZh": "BLOOD+",
+   "titleJa": "BLOOD+",
+   "titleEn": "Blood+",
+   "bgmId": 981,
+   "aniListId": 150,
+   "date": "2005-10-08"
+  },
+  {
+   "titleZh": "草莓100%",
+   "titleJa": "いちご100%",
+   "titleEn": "Strawberry 100%",
+   "bgmId": 1415,
+   "aniListId": 248,
+   "date": "2005-04-05"
+  },
+  {
+   "titleZh": "SHUFFLE!",
+   "titleJa": "SHUFFLE!",
+   "titleEn": "SHUFFLE!",
+   "bgmId": 2937,
+   "aniListId": 79,
+   "date": "2005-07-07"
+  },
+  {
+   "titleZh": "速写者",
+   "titleJa": "SPEED GRAPHER",
+   "titleEn": "Speed Grapher",
+   "bgmId": 3825,
+   "aniListId": 198,
+   "date": "2005-04-07"
+  },
+  {
+   "titleZh": "武器种族传说",
+   "titleJa": "エレメンタル ジェレイド",
+   "titleEn": "Elemental Gelade",
+   "bgmId": 2293,
+   "aniListId": 1250,
+   "date": "2005-04-05"
+  },
+  {
+   "titleZh": "圣魔之血",
+   "titleJa": "トリニティ・ブラッド",
+   "titleEn": "Trinity Blood",
+   "bgmId": 1982,
+   "aniListId": 27,
+   "date": "2005-04-28"
+  },
+  {
+   "titleZh": "我的主人爱作怪",
+   "titleJa": "これが私の御主人様",
+   "titleEn": "He is My Master",
+   "bgmId": 6389,
+   "aniListId": 412,
+   "date": "2005-04-07"
+  },
+  {
+   "titleZh": "舞-乙HiME",
+   "titleJa": "舞-乙HiME",
+   "titleEn": "My-Otome",
+   "bgmId": 1028,
+   "aniListId": 99,
+   "date": "2005-10-06"
+  },
+  {
+   "titleZh": "枪心剑刃",
+   "titleJa": "ガン×ソード",
+   "titleEn": "Gun x Sword",
+   "bgmId": 8539,
+   "aniListId": 411,
+   "date": "2005-07-04"
+  },
+  {
+   "titleZh": "创圣的大天使",
+   "titleJa": "創聖のアクエリオン",
+   "titleEn": "Aquarion",
+   "bgmId": 1763,
+   "aniListId": 478,
+   "date": "2005-04-05"
+  },
+  {
+   "titleZh": "黑猫",
+   "titleJa": "BLACK CAT",
+   "titleEn": "Black Cat",
+   "bgmId": 2300,
+   "aniListId": 68,
+   "date": "2005-10-06"
+  },
+  {
+   "titleZh": "到另一个你的身边去",
+   "titleJa": "ノエイン もうひとりの君へ",
+   "titleEn": "Noein: To Your Other Self",
+   "bgmId": 2314,
+   "aniListId": 584,
+   "date": "2005-10-11"
+  },
+  {
+   "titleZh": "波子汽水",
+   "titleJa": "ラムネ",
+   "titleEn": "Lamune",
+   "bgmId": 10506,
+   "aniListId": 670,
+   "date": "2005-10-10"
+  },
+  {
+   "titleZh": "魔法老师涅吉！",
+   "titleJa": "魔法先生ネギま!",
+   "titleEn": "Negima!",
+   "bgmId": 17119,
+   "aniListId": 157,
+   "date": "2005-01-05"
+  }
+ ],
+ "2006": [
+  {
+   "titleZh": "死亡笔记",
+   "titleJa": "DEATH NOTE",
+   "titleEn": "Death Note",
+   "bgmId": 1773,
+   "aniListId": 1535,
+   "date": "2006-10-04"
+  },
+  {
+   "titleZh": "凉宫春日的忧郁",
+   "titleJa": "涼宮ハルヒの憂鬱",
+   "titleEn": "The Melancholy of Haruhi Suzumiya",
+   "bgmId": 485,
+   "aniListId": 849,
+   "date": "2006-04-02"
+  },
+  {
+   "titleZh": "寒蝉鸣泣之时",
+   "titleJa": "ひぐらしのなく頃に",
+   "titleEn": "When They Cry",
+   "bgmId": 289,
+   "aniListId": 934,
+   "date": "2006-04-04"
+  },
+  {
+   "titleZh": "银魂",
+   "titleJa": "銀魂",
+   "titleEn": "Gintama",
+   "bgmId": 247,
+   "aniListId": 918,
+   "date": "2006-04-04"
+  },
+  {
+   "titleZh": "Fate/stay night",
+   "titleJa": "Fate/stay night",
+   "titleEn": "Fate/stay night",
+   "bgmId": 290,
+   "aniListId": 356,
+   "date": "2006-01-06"
+  },
+  {
+   "titleZh": "欢迎加入NHK！",
+   "titleJa": "N・H・Kにようこそ！",
+   "titleEn": "Welcome to the N-H-K",
+   "bgmId": 995,
+   "aniListId": 1210,
+   "date": "2006-07-09"
+  },
+  {
+   "titleZh": "零之使魔",
+   "titleJa": "ゼロの使い魔",
+   "titleEn": "The Familiar of Zero",
+   "bgmId": 1880,
+   "aniListId": 1195,
+   "date": "2006-07-02"
+  },
+  {
+   "titleZh": "娜娜",
+   "titleJa": "NANA－ナナ－",
+   "titleEn": "NANA",
+   "bgmId": 486,
+   "aniListId": 877,
+   "date": "2006-04-05"
+  },
+  {
+   "titleZh": "×××HOLiC",
+   "titleJa": "×××HOLiC",
+   "titleEn": "xxxHOLiC",
+   "bgmId": 2439,
+   "aniListId": 861,
+   "date": "2006-04-06"
+  },
+  {
+   "titleZh": "樱兰高校男公关部",
+   "titleJa": "桜蘭高校ホスト部",
+   "titleEn": "Ouran High School Host Club",
+   "bgmId": 1487,
+   "aniListId": 853,
+   "date": "2006-04-04"
+  },
+  {
+   "titleZh": "家庭教师HITMAN REBORN!",
+   "titleJa": "家庭教師ヒットマンREBORN!",
+   "titleEn": "REBORN!",
+   "bgmId": 4562,
+   "aniListId": 1604,
+   "date": "2006-10-07"
+  },
+  {
+   "titleZh": "传颂之物",
+   "titleJa": "うたわれるもの",
+   "titleEn": "Utawarerumono",
+   "bgmId": 1044,
+   "aniListId": 856,
+   "date": "2006-04-03"
+  },
+  {
+   "titleZh": "死亡代理人",
+   "titleJa": "Ergo Proxy",
+   "titleEn": "Ergo Proxy",
+   "bgmId": 837,
+   "aniListId": 790,
+   "date": "2006-02-25"
+  },
+  {
+   "titleZh": "驱魔少年",
+   "titleJa": "D.Gray-man",
+   "titleEn": "D.Gray-man",
+   "bgmId": 488,
+   "aniListId": 1482,
+   "date": "2006-10-03"
+  },
+  {
+   "titleZh": "惊爆草莓",
+   "titleJa": "ストロベリー・パニック",
+   "titleEn": "Strawberry Panic",
+   "bgmId": 2813,
+   "aniListId": 855,
+   "date": "2006-04-03"
+  },
+  {
+   "titleZh": "怪 ～ayakashi ～",
+   "titleJa": "怪 〜ayakashi〜",
+   "titleEn": "Ayakashi: Samurai Horror Tales",
+   "bgmId": 976,
+   "aniListId": 586,
+   "date": "2006-01-12"
+  },
+  {
+   "titleZh": "宝可梦 钻石&珍珠",
+   "titleJa": "ポケットモンスター ダイヤモンド&パール",
+   "titleEn": "Pokémon the Series: Diamond and Pearl",
+   "bgmId": 3021,
+   "aniListId": 1565,
+   "date": "2006-09-28"
+  },
+  {
+   "titleZh": "奇幻贵公子",
+   "titleJa": "ゴーストハント",
+   "titleEn": "Ghost Hunt",
+   "bgmId": 1531,
+   "aniListId": 1571,
+   "date": "2006-10-03"
+  },
+  {
+   "titleZh": "兽爪",
+   "titleJa": "ケモノヅメ",
+   "titleEn": "Kemonozume",
+   "bgmId": 4237,
+   "aniListId": 1454,
+   "date": "2006-08-05"
+  },
+  {
+   "titleZh": "少女爱上姐姐",
+   "titleJa": "乙女はお姉さまに恋してる",
+   "titleEn": "Otoboku: Maidens are Falling for Me",
+   "bgmId": 3828,
+   "aniListId": 1569,
+   "date": "2006-10-07"
+  },
+  {
+   "titleZh": "仰望半月的夜空",
+   "titleJa": "半分の月がのぼる空",
+   "titleEn": "Looking Up at the Half-Moon",
+   "bgmId": 1839,
+   "aniListId": 587,
+   "date": "2006-01-12"
+  },
+  {
+   "titleZh": "调酒师",
+   "titleJa": "バーテンダー",
+   "titleEn": "Bartender",
+   "bgmId": 2281,
+   "aniListId": 1589,
+   "date": "2006-10-14"
+  },
+  {
+   "titleZh": "我们的存在",
+   "titleJa": "僕等がいた",
+   "titleEn": "We Were There",
+   "bgmId": 1275,
+   "aniListId": 1222,
+   "date": "2006-07-05"
+  },
+  {
+   "titleZh": "彩云国物语",
+   "titleJa": "彩雲国物語",
+   "titleEn": "The Story of Saiunkoku",
+   "bgmId": 2010,
+   "aniListId": 957,
+   "date": "2006-04-08"
+  },
+  {
+   "titleZh": "西蒙",
+   "titleJa": "シムーン",
+   "titleEn": "Simoun",
+   "bgmId": 3755,
+   "aniListId": 879,
+   "date": "2006-04-03"
+  },
+  {
+   "titleZh": "结界师",
+   "titleJa": "結界師",
+   "titleEn": "Kekkaishi",
+   "bgmId": 3156,
+   "aniListId": 1606,
+   "date": "2006-10-16"
+  },
+  {
+   "titleZh": "备长炭",
+   "titleJa": "びんちょうタン",
+   "titleEn": "Binchou-tan",
+   "bgmId": 3152,
+   "aniListId": 750,
+   "date": "2006-02-02"
+  },
+  {
+   "titleZh": "双面骑士",
+   "titleJa": "シュヴァリエ 〜Le Chevalier D'Eon〜",
+   "titleEn": "Le Chevalier D'Eon",
+   "bgmId": 2083,
+   "aniListId": 20461,
+   "date": "2006-08-19"
+  },
+  {
+   "titleZh": "贫穷姐妹物语",
+   "titleJa": "貧乏姉妹物語",
+   "titleEn": "Binbou Shimai Monogatari",
+   "bgmId": 7397,
+   "aniListId": 1214,
+   "date": "2006-06-29"
+  },
+  {
+   "titleZh": "ZEGAPAIN",
+   "titleJa": "ゼーガペイン",
+   "titleEn": "Zegapain",
+   "bgmId": 1147,
+   "aniListId": 878,
+   "date": "2006-04-06"
+  }
+ ],
+ "2007": [
+  {
+   "titleZh": "CLANNAD",
+   "titleJa": "CLANNAD -クラナド-",
+   "titleEn": "Clannad",
+   "bgmId": 51,
+   "aniListId": 2167,
+   "date": "2007-10-04"
+  },
+  {
+   "titleZh": "幸运星",
+   "titleJa": "らき☆すた",
+   "titleEn": "Lucky☆Star",
+   "bgmId": 276,
+   "aniListId": 1887,
+   "date": "2007-04-08"
+  },
+  {
+   "titleZh": "天元突破 红莲螺岩",
+   "titleJa": "天元突破グレンラガン",
+   "titleEn": "Gurren Lagann",
+   "bgmId": 770,
+   "aniListId": 2001,
+   "date": "2007-04-01"
+  },
+  {
+   "titleZh": "永生之酒",
+   "titleJa": "BACCANO! -バッカーノ!-",
+   "titleEn": "Baccano!",
+   "bgmId": 965,
+   "aniListId": 2251,
+   "date": "2007-07-26"
+  },
+  {
+   "titleZh": "DARKER THAN BLACK -黑之契约者-",
+   "titleJa": "DARKER THAN BLACK -黒の契約者-",
+   "titleEn": "Darker than Black",
+   "bgmId": 292,
+   "aniListId": 2025,
+   "date": "2007-04-05"
+  },
+  {
+   "titleZh": "日在校园",
+   "titleJa": "School Days",
+   "titleEn": "School Days (TV)",
+   "bgmId": 827,
+   "aniListId": 2476,
+   "date": "2007-07-03"
+  },
+  {
+   "titleZh": "悠久之翼",
+   "titleJa": "ef - a tale of memories.",
+   "titleEn": "ef ~ A Tale of Memories",
+   "bgmId": 799,
+   "aniListId": 2924,
+   "date": "2007-10-06"
+  },
+  {
+   "titleZh": "南家三姐妹",
+   "titleJa": "みなみけ",
+   "titleEn": "Minami-ke",
+   "bgmId": 283,
+   "aniListId": 2963,
+   "date": "2007-10-07"
+  },
+  {
+   "titleZh": "火影忍者疾风传",
+   "titleJa": "NARUTO -ナルト- 疾風伝",
+   "titleEn": "Naruto: Shippuden",
+   "bgmId": 2782,
+   "aniListId": 1735,
+   "date": "2007-02-15"
+  },
+  {
+   "titleZh": "赌博默示录",
+   "titleJa": "逆境無頼カイジ Ultimate Survivor",
+   "titleEn": "Kaiji - Ultimate Survivor",
+   "bgmId": 3892,
+   "aniListId": 3002,
+   "date": "2007-10-02"
+  },
+  {
+   "titleZh": "再见绝望先生",
+   "titleJa": "さよなら絶望先生",
+   "titleEn": "Sayonara, Zetsubou-Sensei",
+   "bgmId": 299,
+   "aniListId": 2605,
+   "date": "2007-07-07"
+  },
+  {
+   "titleZh": "电脑线圈",
+   "titleJa": "電脳コイル",
+   "titleEn": "Den-noh Coil",
+   "bgmId": 794,
+   "aniListId": 2164,
+   "date": "2007-05-12"
+  },
+  {
+   "titleZh": "旋风管家",
+   "titleJa": "ハヤテのごとく!",
+   "titleEn": "Hayate the Combat Butler",
+   "bgmId": 808,
+   "aniListId": 2026,
+   "date": "2007-04-01"
+  },
+  {
+   "titleZh": "濑户的花嫁",
+   "titleJa": "瀬戸の花嫁",
+   "titleEn": "My Bride is a Mermaid",
+   "bgmId": 805,
+   "aniListId": 2104,
+   "date": "2007-04-01"
+  },
+  {
+   "titleZh": "机动战士高达00",
+   "titleJa": "機動戦士ガンダム00",
+   "titleEn": "Mobile Suit Gundam 00",
+   "bgmId": 286,
+   "aniListId": 2581,
+   "date": "2007-10-06"
+  },
+  {
+   "titleZh": "物怪",
+   "titleJa": "モノノ怪",
+   "titleEn": "Mononoke",
+   "bgmId": 2496,
+   "aniListId": 2246,
+   "date": "2007-07-12"
+  },
+  {
+   "titleZh": "大剑",
+   "titleJa": "CLAYMORE",
+   "titleEn": "Claymore",
+   "bgmId": 982,
+   "aniListId": 1818,
+   "date": "2007-04-03"
+  },
+  {
+   "titleZh": "sola",
+   "titleJa": "sola",
+   "titleEn": "sola",
+   "bgmId": 798,
+   "aniListId": 1965,
+   "date": "2007-04-06"
+  },
+  {
+   "titleZh": "交响情人梦",
+   "titleJa": "のだめカンタービレ",
+   "titleEn": "Nodame Cantabile",
+   "bgmId": 443,
+   "aniListId": 1698,
+   "date": "2007-01-11"
+  },
+  {
+   "titleZh": "地球防卫少年",
+   "titleJa": "ぼくらの",
+   "titleEn": "Bokurano",
+   "bgmId": 467,
+   "aniListId": 1690,
+   "date": "2007-04-08"
+  },
+  {
+   "titleZh": "向阳素描",
+   "titleJa": "ひだまりスケッチ",
+   "titleEn": "Hidamari Sketch",
+   "bgmId": 896,
+   "aniListId": 1852,
+   "date": "2007-01-11"
+  },
+  {
+   "titleZh": "精灵守护者",
+   "titleJa": "精霊の守り人",
+   "titleEn": "Moribito: Guardian of the Spirit",
+   "bgmId": 1976,
+   "aniListId": 1827,
+   "date": "2007-04-07"
+  },
+  {
+   "titleZh": "守护甜心！",
+   "titleJa": "しゅごキャラ!",
+   "titleEn": "Shugo Chara!",
+   "bgmId": 2427,
+   "aniListId": 2923,
+   "date": "2007-10-06"
+  },
+  {
+   "titleZh": "萝莉的时间",
+   "titleJa": "こどものじかん",
+   "titleEn": "Kodomo no Jikan",
+   "bgmId": 2482,
+   "aniListId": 2403,
+   "date": "2007-10-11"
+  },
+  {
+   "titleZh": "剑豪生死斗",
+   "titleJa": "シグルイ",
+   "titleEn": "Shigurui: Death Frenzy",
+   "bgmId": 4010,
+   "aniListId": 2216,
+   "date": "2007-07-19"
+  },
+  {
+   "titleZh": "王牌投手 振臂高挥",
+   "titleJa": "おおきく振りかぶって",
+   "titleEn": "Big Windup!",
+   "bgmId": 1267,
+   "aniListId": 2159,
+   "date": "2007-04-12"
+  },
+  {
+   "titleZh": "我自己；你自己",
+   "titleJa": "Myself ; Yourself",
+   "titleEn": "Myself; Yourself",
+   "bgmId": 306,
+   "aniListId": 2926,
+   "date": "2007-10-02"
+  },
+  {
+   "titleZh": "风之圣痕",
+   "titleJa": "風のスティグマ",
+   "titleEn": "Kaze no Stigma",
+   "bgmId": 2396,
+   "aniListId": 1691,
+   "date": "2007-04-11"
+  },
+  {
+   "titleZh": "萌菌物语",
+   "titleJa": "もやしもん",
+   "titleEn": "Moyashimon",
+   "bgmId": 3012,
+   "aniListId": 3001,
+   "date": "2007-10-11"
+  },
+  {
+   "titleZh": "竹剑少女",
+   "titleJa": "バンブーブレード -BAMBOO BLADE-",
+   "titleEn": "Bamboo Blade",
+   "bgmId": 1272,
+   "aniListId": 2986,
+   "date": "2007-10-01"
+  }
+ ],
+ "2008": [
+  {
+   "titleZh": "龙与虎",
+   "titleJa": "とらドラ！",
+   "titleEn": "Toradora!",
+   "bgmId": 909,
+   "aniListId": 4224,
+   "date": "2008-10-01"
+  },
+  {
+   "titleZh": "魔法禁书目录",
+   "titleJa": "とある魔術の禁書目録",
+   "titleEn": "A Certain Magical Index",
+   "bgmId": 1014,
+   "aniListId": 4654,
+   "date": "2008-10-04"
+  },
+  {
+   "titleZh": "狼与香辛料",
+   "titleJa": "狼と香辛料",
+   "titleEn": "Spice and Wolf",
+   "bgmId": 282,
+   "aniListId": 2966,
+   "date": "2008-01-08"
+  },
+  {
+   "titleZh": "夏目友人帐",
+   "titleJa": "夏目友人帳",
+   "titleEn": "Natsume's Book of Friends Season 1",
+   "bgmId": 259,
+   "aniListId": 4081,
+   "date": "2008-07-07"
+  },
+  {
+   "titleZh": "出包王女",
+   "titleJa": "To LOVEる -とらぶる-",
+   "titleEn": "To Love Ru",
+   "bgmId": 849,
+   "aniListId": 3455,
+   "date": "2008-04-03"
+  },
+  {
+   "titleZh": "真实之泪",
+   "titleJa": "true tears",
+   "titleEn": "True Tears",
+   "bgmId": 309,
+   "aniListId": 2129,
+   "date": "2008-01-05"
+  },
+  {
+   "titleZh": "食灵-零-",
+   "titleJa": "喰霊-零-",
+   "titleEn": "Ga-Rei-Zero",
+   "bgmId": 885,
+   "aniListId": 4725,
+   "date": "2008-10-05"
+  },
+  {
+   "titleZh": "噬魂师",
+   "titleJa": "SOUL EATER",
+   "titleEn": "Soul Eater",
+   "bgmId": 866,
+   "aniListId": 3588,
+   "date": "2008-04-07"
+  },
+  {
+   "titleZh": "黑执事",
+   "titleJa": "黒執事",
+   "titleEn": "Black Butler",
+   "bgmId": 883,
+   "aniListId": 4898,
+   "date": "2008-10-02"
+  },
+  {
+   "titleZh": "神薙",
+   "titleJa": "かんなぎ",
+   "titleEn": "Kannagi: Crazy Shrine Maidens",
+   "bgmId": 902,
+   "aniListId": 3958,
+   "date": "2008-10-04"
+  },
+  {
+   "titleZh": "我的狐仙女友",
+   "titleJa": "かのこん",
+   "titleEn": "Kanokon: The Girl Who Cried Fox",
+   "bgmId": 2810,
+   "aniListId": 3503,
+   "date": "2008-04-05"
+  },
+  {
+   "titleZh": "强袭魔女",
+   "titleJa": "ストライクウィッチーズ",
+   "titleEn": "Strike Witches",
+   "bgmId": 698,
+   "aniListId": 3667,
+   "date": "2008-07-03"
+  },
+  {
+   "titleZh": "超时空要塞Frontier",
+   "titleJa": "マクロスFrontier",
+   "titleEn": "Macross Frontier",
+   "bgmId": 236,
+   "aniListId": 3572,
+   "date": "2008-04-03"
+  },
+  {
+   "titleZh": "海马",
+   "titleJa": "カイバ",
+   "titleEn": "Kaiba",
+   "bgmId": 1625,
+   "aniListId": 3701,
+   "date": "2008-04-10"
+  },
+  {
+   "titleZh": "死后文",
+   "titleJa": "シゴフミ",
+   "titleEn": "Shigofumi",
+   "bgmId": 281,
+   "aniListId": 3420,
+   "date": "2008-01-05"
+  },
+  {
+   "titleZh": "夕阳染红的街道",
+   "titleJa": "あかね色に染まる坂",
+   "titleEn": "The Hill Dyed Rose Madder",
+   "bgmId": 1271,
+   "aniListId": 4744,
+   "date": "2008-10-02"
+  },
+  {
+   "titleZh": "十字架与吸血鬼",
+   "titleJa": "ロザリオとバンパイア",
+   "titleEn": "Rosario + Vampire",
+   "bgmId": 2474,
+   "aniListId": 2993,
+   "date": "2008-01-03"
+  },
+  {
+   "titleZh": "混沌头",
+   "titleJa": "CHAOS;HEAD",
+   "titleEn": "ChäoS;HEAd",
+   "bgmId": 884,
+   "aniListId": 4975,
+   "date": "2008-10-09"
+  },
+  {
+   "titleZh": "游戏王5D's",
+   "titleJa": "遊☆戯☆王5D's",
+   "titleEn": "Yu-Gi-Oh! 5D's",
+   "bgmId": 1609,
+   "aniListId": 3972,
+   "date": "2008-04-02"
+  },
+  {
+   "titleZh": "魍魉之匣",
+   "titleJa": "魍魎の匣",
+   "titleEn": "Mouryou no Hako",
+   "bgmId": 916,
+   "aniListId": 4879,
+   "date": "2008-10-07"
+  },
+  {
+   "titleZh": "记忆女神的女儿们",
+   "titleJa": "Mnemosyne —ムネモシュネの娘たち—",
+   "titleEn": "RIN ~Daughters of Mnemosyne~",
+   "bgmId": 1257,
+   "aniListId": 3342,
+   "date": "2008-02-03"
+  },
+  {
+   "titleZh": "鹡鸰女神",
+   "titleJa": "セキレイ",
+   "titleEn": "Sekirei",
+   "bgmId": 325,
+   "aniListId": 4063,
+   "date": "2008-07-02"
+  },
+  {
+   "titleZh": "图书馆战争",
+   "titleJa": "図書館戦争",
+   "titleEn": "Library War",
+   "bgmId": 294,
+   "aniListId": 3613,
+   "date": "2008-04-10"
+  },
+  {
+   "titleZh": "SA特优生",
+   "titleJa": "S・A～スペシャル・エー～",
+   "titleEn": "S.A: Special A",
+   "bgmId": 1963,
+   "aniListId": 3470,
+   "date": "2008-04-05"
+  },
+  {
+   "titleZh": "吸血鬼骑士",
+   "titleJa": "ヴァンパイア騎士",
+   "titleEn": "Vampire Knight",
+   "bgmId": 1970,
+   "aniListId": 3457,
+   "date": "2008-04-07"
+  },
+  {
+   "titleZh": "乃木坂春香的秘密",
+   "titleJa": "乃木坂春香の秘密",
+   "titleEn": "Haruka Nogizaka's Secret",
+   "bgmId": 762,
+   "aniListId": 3467,
+   "date": "2008-07-10"
+  },
+  {
+   "titleZh": "道子与哈金",
+   "titleJa": "ミチコとハッチン",
+   "titleEn": "Michiko & Hatchin",
+   "bgmId": 919,
+   "aniListId": 4087,
+   "date": "2008-10-15"
+  },
+  {
+   "titleZh": "恋姬无双",
+   "titleJa": "恋姫†無双",
+   "titleEn": "Koihime†Musou",
+   "bgmId": 811,
+   "aniListId": 4262,
+   "date": "2008-07-08"
+  },
+  {
+   "titleZh": "今天的五年二班",
+   "titleJa": "今日の5の2",
+   "titleEn": "Kyou no Go no Ni (2008)",
+   "bgmId": 3413,
+   "aniListId": 4903,
+   "date": "2008-10-05"
+  },
+  {
+   "titleZh": "我家有个狐仙大人",
+   "titleJa": "我が家のお稲荷さま。",
+   "titleEn": "Our Home's Fox Deity",
+   "bgmId": 317,
+   "aniListId": 3322,
+   "date": "2008-04-06"
+  }
+ ],
+ "2009": [
+  {
+   "titleZh": "轻音少女",
+   "titleJa": "けいおん！",
+   "titleEn": "K-ON!",
+   "bgmId": 1424,
+   "aniListId": 5680,
+   "date": "2009-04-02"
+  },
+  {
+   "titleZh": "化物语",
+   "titleJa": "化物語",
+   "titleEn": "Bakemonogatari",
+   "bgmId": 1671,
+   "aniListId": 5081,
+   "date": "2009-07-03"
+  },
+  {
+   "titleZh": "某科学的超电磁炮",
+   "titleJa": "とある科学の超電磁砲",
+   "titleEn": "A Certain Scientific Railgun",
+   "bgmId": 2585,
+   "aniListId": 6213,
+   "date": "2009-10-02"
+  },
+  {
+   "titleZh": "天降之物",
+   "titleJa": "そらのおとしもの",
+   "titleEn": "Heaven's Lost Property",
+   "bgmId": 2617,
+   "aniListId": 5958,
+   "date": "2009-10-04"
+  },
+  {
+   "titleZh": "学生会的一己之见",
+   "titleJa": "生徒会の一存",
+   "titleEn": "Student Council's Discretion",
+   "bgmId": 2567,
+   "aniListId": 5909,
+   "date": "2009-10-02"
+  },
+  {
+   "titleZh": "天才麻将少女",
+   "titleJa": "咲-Saki-",
+   "titleEn": "Saki",
+   "bgmId": 1444,
+   "aniListId": 5671,
+   "date": "2009-04-05"
+  },
+  {
+   "titleZh": "好想告诉你",
+   "titleJa": "君に届け",
+   "titleEn": "Kimi ni Todoke: From Me to You",
+   "bgmId": 2790,
+   "aniListId": 6045,
+   "date": "2009-10-06"
+  },
+  {
+   "titleZh": "白色相簿",
+   "titleJa": "WHITE ALBUM",
+   "titleEn": "White Album",
+   "bgmId": 993,
+   "aniListId": 4720,
+   "date": "2009-01-03"
+  },
+  {
+   "titleZh": "妖精的尾巴",
+   "titleJa": "FAIRY TAIL",
+   "titleEn": "Fairy Tail",
+   "bgmId": 2609,
+   "aniListId": 6702,
+   "date": "2009-10-12"
+  },
+  {
+   "titleZh": "东之伊甸",
+   "titleJa": "東のエデン",
+   "titleEn": "Eden of the East",
+   "bgmId": 1451,
+   "aniListId": 5630,
+   "date": "2009-04-09"
+  },
+  {
+   "titleZh": "玛利亚狂热",
+   "titleJa": "まりあ†ほりっく",
+   "titleEn": "Maria†Holic",
+   "bgmId": 894,
+   "aniListId": 5030,
+   "date": "2009-01-04"
+  },
+  {
+   "titleZh": "迦南",
+   "titleJa": "CANAAN",
+   "titleEn": "Canaan",
+   "bgmId": 1952,
+   "aniListId": 5356,
+   "date": "2009-07-04"
+  },
+  {
+   "titleZh": "海猫鸣泣之时",
+   "titleJa": "うみねこのなく頃に",
+   "titleEn": "Umineko: When They Cry",
+   "bgmId": 1377,
+   "aniListId": 4896,
+   "date": "2009-07-01"
+  },
+  {
+   "titleZh": "潘多拉之心",
+   "titleJa": "PandoraHearts",
+   "titleEn": "PandoraHearts",
+   "bgmId": 1420,
+   "aniListId": 5530,
+   "date": "2009-04-02"
+  },
+  {
+   "titleZh": "肯普法",
+   "titleJa": "けんぷファー",
+   "titleEn": "Kämpfer",
+   "bgmId": 2129,
+   "aniListId": 6205,
+   "date": "2009-10-02"
+  },
+  {
+   "titleZh": "东京地震8.0",
+   "titleJa": "東京マグニチュード8.0",
+   "titleEn": "Tokyo Magnitude 8.0",
+   "bgmId": 1743,
+   "aniListId": 6211,
+   "date": "2009-07-09"
+  },
+  {
+   "titleZh": "青之文学",
+   "titleJa": "青い文学シリーズ",
+   "titleEn": "Blue Literature Series",
+   "bgmId": 2882,
+   "aniListId": 7193,
+   "date": "2009-10-10"
+  },
+  {
+   "titleZh": "公主恋人！",
+   "titleJa": "プリンセスラバー!",
+   "titleEn": "Princess Lover!",
+   "bgmId": 1757,
+   "aniListId": 6201,
+   "date": "2009-07-05"
+  },
+  {
+   "titleZh": "小鸠。",
+   "titleJa": "こばと。",
+   "titleEn": "Kobato",
+   "bgmId": 2478,
+   "aniListId": 5678,
+   "date": "2009-10-06"
+  },
+  {
+   "titleZh": "青之花",
+   "titleJa": "青い花",
+   "titleEn": "Sweet Blue Flowers",
+   "bgmId": 1758,
+   "aniListId": 6164,
+   "date": "2009-07-01"
+  },
+  {
+   "titleZh": "11eyes",
+   "titleJa": "11eyes",
+   "titleEn": "11eyes",
+   "bgmId": 2566,
+   "aniListId": 6682,
+   "date": "2009-10-06"
+  },
+  {
+   "titleZh": "初恋限定。",
+   "titleJa": "初恋限定。",
+   "titleEn": "Hatsukoi Limited",
+   "bgmId": 1450,
+   "aniListId": 5150,
+   "date": "2009-04-11"
+  },
+  {
+   "titleZh": "四叶游戏",
+   "titleJa": "クロスゲーム",
+   "titleEn": "Cross Game",
+   "bgmId": 1443,
+   "aniListId": 5941,
+   "date": "2009-04-05"
+  },
+  {
+   "titleZh": "猫愿三角恋",
+   "titleJa": "にゃんこい!",
+   "titleEn": "Nyan Koi!",
+   "bgmId": 2735,
+   "aniListId": 6512,
+   "date": "2009-10-01"
+  },
+  {
+   "titleZh": "轻声密语",
+   "titleJa": "ささめきこと",
+   "titleEn": "Whispered Words",
+   "bgmId": 2661,
+   "aniListId": 6203,
+   "date": "2009-10-07"
+  },
+  {
+   "titleZh": "龙珠改",
+   "titleJa": "ドラゴンボール改",
+   "titleEn": "Dragon Ball Z Kai",
+   "bgmId": 2103,
+   "aniListId": 6033,
+   "date": "2009-04-05"
+  },
+  {
+   "titleZh": "夏之岚!",
+   "titleJa": "夏のあらし!",
+   "titleEn": "Natsu no Arashi!",
+   "bgmId": 1454,
+   "aniListId": 5597,
+   "date": "2009-04-05"
+  },
+  {
+   "titleZh": "信蜂",
+   "titleJa": "テガミバチ",
+   "titleEn": "Letter Bee",
+   "bgmId": 2476,
+   "aniListId": 6444,
+   "date": "2009-10-03"
+  },
+  {
+   "titleZh": "加奈日记",
+   "titleJa": "かなめも",
+   "titleEn": "Kanamemo",
+   "bgmId": 1822,
+   "aniListId": 5914,
+   "date": "2009-07-05"
+  },
+  {
+   "titleZh": "鲁邦三世VS名侦探柯南",
+   "titleJa": "ルパン三世VS名探偵コナン",
+   "titleEn": "Lupin the 3rd Vs Detective Conan",
+   "bgmId": 26295,
+   "aniListId": 6115,
+   "date": "2009-03-27"
+  }
+ ],
+ "2010": [
+  {
+   "titleZh": "天使的心跳！",
+   "titleJa": "Angel Beats!",
+   "titleEn": "Angel Beats!",
+   "bgmId": 1851,
+   "aniListId": 6547,
+   "date": "2010-04-02"
+  },
+  {
+   "titleZh": "吊带袜天使",
+   "titleJa": "Panty & Stocking with Garterbelt",
+   "titleEn": "Panty & Stocking with Garterbelt",
+   "bgmId": 8402,
+   "aniListId": 8795,
+   "date": "2010-10-01"
+  },
+  {
+   "titleZh": "我的妹妹哪有这么可爱！",
+   "titleJa": "俺の妹がこんなに可愛いわけがない",
+   "titleEn": "Oreimo",
+   "bgmId": 5436,
+   "aniListId": 8769,
+   "date": "2010-10-03"
+  },
+  {
+   "titleZh": "四叠半神话大系",
+   "titleJa": "四畳半神話大系",
+   "titleEn": "The Tatami Galaxy",
+   "bgmId": 4019,
+   "aniListId": 7785,
+   "date": "2010-04-22"
+  },
+  {
+   "titleZh": "缘之空",
+   "titleJa": "ヨスガノソラ",
+   "titleEn": "Yosuga no Sora: In Solitude Where We are Least Alone",
+   "bgmId": 7157,
+   "aniListId": 8861,
+   "date": "2010-10-04"
+  },
+  {
+   "titleZh": "无头骑士异闻录",
+   "titleJa": "デュラララ!!",
+   "titleEn": "Durarara!!",
+   "bgmId": 2463,
+   "aniListId": 6746,
+   "date": "2010-01-07"
+  },
+  {
+   "titleZh": "笨蛋，测验，召唤兽",
+   "titleJa": "バカとテストと召喚獣",
+   "titleEn": "Baka and Test - Summon the Beasts",
+   "bgmId": 3326,
+   "aniListId": 6347,
+   "date": "2010-01-06"
+  },
+  {
+   "titleZh": "妄想学生会",
+   "titleJa": "生徒会役員共",
+   "titleEn": "Seitokai Yakuindomo",
+   "bgmId": 5649,
+   "aniListId": 8675,
+   "date": "2010-07-03"
+  },
+  {
+   "titleZh": "只有神知道的世界",
+   "titleJa": "神のみぞ知るセカイ",
+   "titleEn": "The World God Only Knows",
+   "bgmId": 5976,
+   "aniListId": 8525,
+   "date": "2010-10-06"
+  },
+  {
+   "titleZh": "荒川爆笑团",
+   "titleJa": "荒川アンダー ザ ブリッジ",
+   "titleEn": "Arakawa Under the Bridge",
+   "bgmId": 2464,
+   "aniListId": 7647,
+   "date": "2010-04-04"
+  },
+  {
+   "titleZh": "学园默示录 HIGHSCHOOL OF THE DEAD",
+   "titleJa": "学園黙示録 HIGHSCHOOL OF THE DEAD",
+   "titleEn": "High School of the Dead",
+   "bgmId": 5647,
+   "aniListId": 8074,
+   "date": "2010-07-05"
+  },
+  {
+   "titleZh": "爆漫王。",
+   "titleJa": "バクマン。",
+   "titleEn": "Bakuman.",
+   "bgmId": 3428,
+   "aniListId": 7674,
+   "date": "2010-10-02"
+  },
+  {
+   "titleZh": "迷糊餐厅",
+   "titleJa": "WORKING!!",
+   "titleEn": "Wagnaria!!",
+   "bgmId": 4255,
+   "aniListId": 6956,
+   "date": "2010-04-04"
+  },
+  {
+   "titleZh": "即使如此小镇依然转动",
+   "titleJa": "それでも町は廻っている",
+   "titleEn": "And Yet The Town Moves",
+   "bgmId": 7883,
+   "aniListId": 8726,
+   "date": "2010-10-07"
+  },
+  {
+   "titleZh": "亲吻姐姐",
+   "titleJa": "kiss×sis",
+   "titleEn": "kiss×sis (TV)",
+   "bgmId": 4284,
+   "aniListId": 7593,
+   "date": "2010-04-05"
+  },
+  {
+   "titleZh": "圣诞之吻SS",
+   "titleJa": "アマガミSS",
+   "titleEn": "Amagami SS",
+   "bgmId": 5656,
+   "aniListId": 8676,
+   "date": "2010-07-01"
+  },
+  {
+   "titleZh": "会长是女仆大人！",
+   "titleJa": "会長はメイド様!",
+   "titleEn": "Maid-Sama!",
+   "bgmId": 4313,
+   "aniListId": 7054,
+   "date": "2010-04-01"
+  },
+  {
+   "titleZh": "尸鬼",
+   "titleJa": "屍鬼",
+   "titleEn": "Shiki",
+   "bgmId": 5653,
+   "aniListId": 7724,
+   "date": "2010-07-08"
+  },
+  {
+   "titleZh": "侵略!乌贼娘",
+   "titleJa": "侵略!イカ娘",
+   "titleEn": "Squid Girl",
+   "bgmId": 7842,
+   "aniListId": 8557,
+   "date": "2010-10-04"
+  },
+  {
+   "titleZh": "刀语",
+   "titleJa": "刀語",
+   "titleEn": "Katanagatari",
+   "bgmId": 3471,
+   "aniListId": 6594,
+   "date": "2010-01-25"
+  },
+  {
+   "titleZh": "滑头鬼之孙",
+   "titleJa": "ぬらりひょんの孫",
+   "titleEn": "Nura: Rise of the Yokai Clan",
+   "bgmId": 5474,
+   "aniListId": 7592,
+   "date": "2010-07-05"
+  },
+  {
+   "titleZh": "大神与七位伙伴",
+   "titleJa": "オオカミさんと七人の仲間たち",
+   "titleEn": "Okami-san and Her Seven Companions",
+   "bgmId": 5652,
+   "aniListId": 7769,
+   "date": "2010-07-01"
+  },
+  {
+   "titleZh": "圣痕炼金士",
+   "titleJa": "聖痕のクェイサー",
+   "titleEn": "The Qwaser of Stigmata",
+   "bgmId": 3479,
+   "aniListId": 6500,
+   "date": "2010-01-09"
+  },
+  {
+   "titleZh": "花丸幼稚园",
+   "titleJa": "はなまる幼稚園",
+   "titleEn": "Hanamaru Kindergarten",
+   "bgmId": 3848,
+   "aniListId": 6574,
+   "date": "2010-01-10"
+  },
+  {
+   "titleZh": "守护猫娘绯鞠",
+   "titleJa": "おまもりひまり",
+   "titleEn": "Omamori Himari",
+   "bgmId": 3449,
+   "aniListId": 6324,
+   "date": "2010-01-06"
+  },
+  {
+   "titleZh": "超元气三姐妹",
+   "titleJa": "みつどもえ",
+   "titleEn": "Mitsudomoe",
+   "bgmId": 5658,
+   "aniListId": 7627,
+   "date": "2010-07-02"
+  },
+  {
+   "titleZh": "传说中勇者的传说",
+   "titleJa": "伝説の勇者の伝説",
+   "titleEn": "The Legend of the Legendary Heroes",
+   "bgmId": 5654,
+   "aniListId": 8086,
+   "date": "2010-07-01"
+  },
+  {
+   "titleZh": "MM一族！",
+   "titleJa": "えむえむっ！",
+   "titleEn": "MM!",
+   "bgmId": 8390,
+   "aniListId": 8424,
+   "date": "2010-10-02"
+  },
+  {
+   "titleZh": "魔术快斗",
+   "titleJa": "まじっく快斗",
+   "titleEn": "Magic Kaito",
+   "bgmId": 4330,
+   "aniListId": 8310,
+   "date": "2010-04-17"
+  },
+  {
+   "titleZh": "迷途猫OVER RUN",
+   "titleJa": "迷い猫オーバーラン！",
+   "titleEn": "Mayoi Neko Overrun!",
+   "bgmId": 4292,
+   "aniListId": 7590,
+   "date": "2010-04-06"
+  }
+ ],
+ "2011": [
+  {
+   "titleZh": "命运石之门",
+   "titleJa": "STEINS;GATE",
+   "titleEn": "Steins;Gate",
+   "bgmId": 10380,
+   "aniListId": 9253,
+   "date": "2011-04-06"
+  },
+  {
+   "titleZh": "魔法少女小圆",
+   "titleJa": "魔法少女まどか☆マギカ",
+   "titleEn": "Puella Magi Madoka Magica",
+   "bgmId": 9717,
+   "aniListId": 9756,
+   "date": "2011-01-06"
+  },
+  {
+   "titleZh": "Fate/Zero",
+   "titleJa": "Fate/Zero",
+   "titleEn": "Fate/Zero",
+   "bgmId": 10639,
+   "aniListId": 10087,
+   "date": "2011-10-01"
+  },
+  {
+   "titleZh": "日常",
+   "titleJa": "日常",
+   "titleEn": "Nichijou - My Ordinary Life",
+   "bgmId": 9912,
+   "aniListId": 10165,
+   "date": "2011-04-02"
+  },
+  {
+   "titleZh": "我们仍未知道那天所看见的花的名字。",
+   "titleJa": "あの日見た花の名前を僕達はまだ知らない。",
+   "titleEn": "Anohana: The Flower We Saw That Day",
+   "bgmId": 10440,
+   "aniListId": 9989,
+   "date": "2011-04-14"
+  },
+  {
+   "titleZh": "罪恶王冠",
+   "titleJa": "ギルティクラウン",
+   "titleEn": "Guilty Crown",
+   "bgmId": 18635,
+   "aniListId": 10793,
+   "date": "2011-10-13"
+  },
+  {
+   "titleZh": "未来日记",
+   "titleJa": "未来日記",
+   "titleEn": "The Future Diary",
+   "bgmId": 16235,
+   "aniListId": 10620,
+   "date": "2011-10-09"
+  },
+  {
+   "titleZh": "回转企鹅罐",
+   "titleJa": "輪るピングドラム",
+   "titleEn": "Penguindrum",
+   "bgmId": 18624,
+   "aniListId": 10721,
+   "date": "2011-07-07"
+  },
+  {
+   "titleZh": "花开伊吕波",
+   "titleJa": "花咲くいろは",
+   "titleEn": "Hanasaku Iroha ~Blossoms for Tomorrow~",
+   "bgmId": 22759,
+   "aniListId": 9289,
+   "date": "2011-04-03"
+  },
+  {
+   "titleZh": "GOSICK",
+   "titleJa": "GOSICK -ゴシック-",
+   "titleEn": "Gosick",
+   "bgmId": 9781,
+   "aniListId": 8425,
+   "date": "2011-01-07"
+  },
+  {
+   "titleZh": "我的朋友很少",
+   "titleJa": "僕は友達が少ない",
+   "titleEn": "Haganai",
+   "bgmId": 17883,
+   "aniListId": 10719,
+   "date": "2011-10-06"
+  },
+  {
+   "titleZh": "电波女与青春男",
+   "titleJa": "電波女と青春男",
+   "titleEn": "Ground Control to Psychoelectric Girl",
+   "bgmId": 10377,
+   "aniListId": 9379,
+   "date": "2011-04-14"
+  },
+  {
+   "titleZh": "摇曳百合",
+   "titleJa": "ゆるゆり",
+   "titleEn": "YuruYuri",
+   "bgmId": 14588,
+   "aniListId": 10495,
+   "date": "2011-07-04"
+  },
+  {
+   "titleZh": "白兔糖",
+   "titleJa": "うさぎドロップ",
+   "titleEn": "Bunny Drop",
+   "bgmId": 10843,
+   "aniListId": 10162,
+   "date": "2011-07-07"
+  },
+  {
+   "titleZh": "这个是僵尸吗？",
+   "titleJa": "これはゾンビですか?",
+   "titleEn": "Is this a Zombie?",
+   "bgmId": 9774,
+   "aniListId": 8841,
+   "date": "2011-01-10"
+  },
+  {
+   "titleZh": "绯弹的亚里亚",
+   "titleJa": "緋弾のアリア",
+   "titleEn": "Aria the Scarlet Ammo",
+   "bgmId": 10226,
+   "aniListId": 8630,
+   "date": "2011-04-14"
+  },
+  {
+   "titleZh": "猎人",
+   "titleJa": "HUNTER×HUNTER",
+   "titleEn": "Hunter x Hunter (2011)",
+   "bgmId": 21032,
+   "aniListId": 11061,
+   "date": "2011-10-02"
+  },
+  {
+   "titleZh": "IS〈无限斯特拉托斯〉",
+   "titleJa": "IS〈インフィニット・ストラトス〉",
+   "titleEn": "Infinite Stratos",
+   "bgmId": 9800,
+   "aniListId": 9041,
+   "date": "2011-01-06"
+  },
+  {
+   "titleZh": "神的记事本",
+   "titleJa": "神様のメモ帳",
+   "titleEn": "Heaven's Memo Pad",
+   "bgmId": 15237,
+   "aniListId": 10568,
+   "date": "2011-07-02"
+  },
+  {
+   "titleZh": "青之驱魔师",
+   "titleJa": "青の祓魔師",
+   "titleEn": "Blue Exorcist",
+   "bgmId": 10339,
+   "aniListId": 9919,
+   "date": "2011-04-17"
+  },
+  {
+   "titleZh": "丹特丽安的书架",
+   "titleJa": "ダンタリアンの書架",
+   "titleEn": "The Mystic Archives of Dantalian",
+   "bgmId": 14667,
+   "aniListId": 8915,
+   "date": "2011-07-15"
+  },
+  {
+   "titleZh": "迷茫管家与懦弱的我",
+   "titleJa": "まよチキ！",
+   "titleEn": "Mayo Chiki!",
+   "bgmId": 10459,
+   "aniListId": 10110,
+   "date": "2011-07-07"
+  },
+  {
+   "titleZh": "歌牌情缘",
+   "titleJa": "ちはやふる",
+   "titleEn": "Chihayafuru",
+   "bgmId": 18294,
+   "aniListId": 10800,
+   "date": "2011-10-04"
+  },
+  {
+   "titleZh": "境界线上的地平线",
+   "titleJa": "境界線上のホライゾン",
+   "titleEn": "Horizon in the Middle of Nowhere",
+   "bgmId": 12703,
+   "aniListId": 10456,
+   "date": "2011-10-01"
+  },
+  {
+   "titleZh": "恶魔阿萨谢尔在召唤你",
+   "titleJa": "よんでますよ、アザゼルさん。",
+   "titleEn": "Yondemasu yo, Azazel-san.",
+   "bgmId": 10742,
+   "aniListId": 7762,
+   "date": "2011-04-08"
+  },
+  {
+   "titleZh": "未来都市NO.6",
+   "titleJa": "NO.6",
+   "titleEn": "No.6",
+   "bgmId": 10842,
+   "aniListId": 10161,
+   "date": "2011-07-07"
+  },
+  {
+   "titleZh": "侵略!?乌贼娘",
+   "titleJa": "侵略!?イカ娘",
+   "titleEn": "Squid Girl 2",
+   "bgmId": 18004,
+   "aniListId": 10378,
+   "date": "2011-09-27"
+  },
+  {
+   "titleZh": "便・当",
+   "titleJa": "ベン・トー",
+   "titleEn": "Ben-To",
+   "bgmId": 19540,
+   "aniListId": 10396,
+   "date": "2011-10-08"
+  },
+  {
+   "titleZh": "金钱掌控",
+   "titleJa": "C",
+   "titleEn": "[C] - CONTROL - The Money and Soul of Possibility",
+   "bgmId": 10844,
+   "aniListId": 10163,
+   "date": "2011-04-14"
+  },
+  {
+   "titleZh": "放浪男孩",
+   "titleJa": "放浪息子",
+   "titleEn": "Wandering Son",
+   "bgmId": 8474,
+   "aniListId": 8426,
+   "date": "2011-01-13"
+  }
+ ],
+ "2012": [
+  {
+   "titleZh": "冰菓",
+   "titleJa": "氷菓",
+   "titleEn": "Hyouka",
+   "bgmId": 27364,
+   "aniListId": 12189,
+   "date": "2012-04-22"
+  },
+  {
+   "titleZh": "中二病也要谈恋爱！",
+   "titleJa": "中二病でも恋がしたい！",
+   "titleEn": "Love, Chunibyo & Other Delusions",
+   "bgmId": 29648,
+   "aniListId": 14741,
+   "date": "2012-10-03"
+  },
+  {
+   "titleZh": "刀剑神域",
+   "titleJa": "ソードアート・オンライン",
+   "titleEn": "Sword Art Online",
+   "bgmId": 23686,
+   "aniListId": 11757,
+   "date": "2012-07-07"
+  },
+  {
+   "titleZh": "男子高中生的日常",
+   "titleJa": "男子高校生の日常",
+   "titleEn": "Daily Lives of High School Boys",
+   "bgmId": 24790,
+   "aniListId": 11843,
+   "date": "2012-01-09"
+  },
+  {
+   "titleZh": "樱花庄的宠物女孩",
+   "titleJa": "さくら荘のペットな彼女",
+   "titleEn": "The Pet Girl of Sakurasou",
+   "bgmId": 41488,
+   "aniListId": 13759,
+   "date": "2012-10-08"
+  },
+  {
+   "titleZh": "JOJO的奇妙冒险",
+   "titleJa": "ジョジョの奇妙な冒険",
+   "titleEn": "JoJo's Bizarre Adventure (TV)",
+   "bgmId": 43558,
+   "aniListId": 14719,
+   "date": "2012-10-05"
+  },
+  {
+   "titleZh": "来自新世界",
+   "titleJa": "新世界より",
+   "titleEn": "From the New World",
+   "bgmId": 37785,
+   "aniListId": 13125,
+   "date": "2012-09-28"
+  },
+  {
+   "titleZh": "心理测量者",
+   "titleJa": "PSYCHO-PASS サイコパス",
+   "titleEn": "PSYCHO-PASS",
+   "bgmId": 37685,
+   "aniListId": 13601,
+   "date": "2012-10-11"
+  },
+  {
+   "titleZh": "伪物语",
+   "titleJa": "偽物語",
+   "titleEn": "Nisemonogatari",
+   "bgmId": 23161,
+   "aniListId": 11597,
+   "date": "2012-01-07"
+  },
+  {
+   "titleZh": "Another",
+   "titleJa": "Another",
+   "titleEn": "Another",
+   "bgmId": 20851,
+   "aniListId": 11111,
+   "date": "2012-01-09"
+  },
+  {
+   "titleZh": "人类衰退之后",
+   "titleJa": "人類は衰退しました",
+   "titleEn": "Humanity Has Declined",
+   "bgmId": 26449,
+   "aniListId": 10357,
+   "date": "2012-07-01"
+  },
+  {
+   "titleZh": "散华礼弥",
+   "titleJa": "さんかれあ",
+   "titleEn": "Sankarea: Undying Love",
+   "bgmId": 28230,
+   "aniListId": 11499,
+   "date": "2012-04-05"
+  },
+  {
+   "titleZh": "猫物语（黑）",
+   "titleJa": "猫物語（黒）",
+   "titleEn": "Nekomonogatari Black",
+   "bgmId": 56117,
+   "aniListId": 15689,
+   "date": "2012-12-31"
+  },
+  {
+   "titleZh": "潜行吧！奈亚子",
+   "titleJa": "這いよれ! ニャル子さん",
+   "titleEn": "Nyaruko: Crawling with Love!",
+   "bgmId": 24508,
+   "aniListId": 11785,
+   "date": "2012-04-09"
+  },
+  {
+   "titleZh": "邻座的怪同学",
+   "titleJa": "となりの怪物くん",
+   "titleEn": "My Little Monster",
+   "bgmId": 40533,
+   "aniListId": 14227,
+   "date": "2012-10-01"
+  },
+  {
+   "titleZh": "少女与战车",
+   "titleJa": "ガールズ＆パンツァー",
+   "titleEn": "Girls und Panzer",
+   "bgmId": 40310,
+   "aniListId": 14131,
+   "date": "2012-10-08"
+  },
+  {
+   "titleZh": "恋爱随意链接",
+   "titleJa": "ココロコネクト",
+   "titleEn": "Kokoro Connect",
+   "bgmId": 37154,
+   "aniListId": 11887,
+   "date": "2012-07-07"
+  },
+  {
+   "titleZh": "加速世界",
+   "titleJa": "アクセル・ワールド",
+   "titleEn": "Accel World",
+   "bgmId": 23685,
+   "aniListId": 11759,
+   "date": "2012-04-06"
+  },
+  {
+   "titleZh": "恶魔高校 D×D",
+   "titleJa": "ハイスクールD×D",
+   "titleEn": "High School DxD",
+   "bgmId": 15910,
+   "aniListId": 11617,
+   "date": "2012-01-06"
+  },
+  {
+   "titleZh": "K",
+   "titleJa": "K",
+   "titleEn": "K",
+   "bgmId": 38069,
+   "aniListId": 14467,
+   "date": "2012-10-04"
+  },
+  {
+   "titleZh": "TARI TARI",
+   "titleJa": "TARI TARI",
+   "titleEn": "Tari Tari",
+   "bgmId": 37137,
+   "aniListId": 13333,
+   "date": "2012-07-01"
+  },
+  {
+   "titleZh": "绝园的暴风雨",
+   "titleJa": "絶園のテンペスト",
+   "titleEn": "Blast of Tempest",
+   "bgmId": 39794,
+   "aniListId": 14075,
+   "date": "2012-10-04"
+  },
+  {
+   "titleZh": "一起一起这里那里",
+   "titleJa": "あっちこっち",
+   "titleEn": "Place to Place",
+   "bgmId": 28431,
+   "aniListId": 12291,
+   "date": "2012-04-05"
+  },
+  {
+   "titleZh": "妖狐×仆SS",
+   "titleJa": "妖狐×僕SS",
+   "titleEn": "Inu X Boku Secret Service",
+   "bgmId": 20582,
+   "aniListId": 11013,
+   "date": "2012-01-12"
+  },
+  {
+   "titleZh": "黑岩射手",
+   "titleJa": "ブラック★ロックシューター",
+   "titleEn": "Black Rock Shooter",
+   "bgmId": 22179,
+   "aniListId": 11285,
+   "date": "2012-02-02"
+  },
+  {
+   "titleZh": "就算是哥哥只要有爱就没问题对吧",
+   "titleJa": "お兄ちゃんだけど愛さえあれば関係ないよねっ",
+   "titleEn": "OniAi",
+   "bgmId": 40339,
+   "aniListId": 14199,
+   "date": "2012-10-05"
+  },
+  {
+   "titleZh": "爱杀宝贝",
+   "titleJa": "キルミーベイベー",
+   "titleEn": "Kill Me Baby",
+   "bgmId": 20799,
+   "aniListId": 11079,
+   "date": "2012-01-05"
+  },
+  {
+   "titleZh": "在盛夏等待",
+   "titleJa": "あの夏で待ってる",
+   "titleEn": "Waiting in the Summer",
+   "bgmId": 22657,
+   "aniListId": 11433,
+   "date": "2012-01-09"
+  },
+  {
+   "titleZh": "黑子的篮球",
+   "titleJa": "黒子のバスケ",
+   "titleEn": "Kuroko's Basketball",
+   "bgmId": 23684,
+   "aniListId": 11771,
+   "date": "2012-04-07"
+  },
+  {
+   "titleZh": "银魂' 延长战",
+   "titleJa": "銀魂' 延長戦",
+   "titleEn": "Gintama Season 2 Part 2",
+   "bgmId": 47576,
+   "aniListId": 15417,
+   "date": "2012-10-04"
+  }
+ ],
+ "2013": [
+  {
+   "titleZh": "进击的巨人",
+   "titleJa": "進撃の巨人",
+   "titleEn": "Attack on Titan",
+   "bgmId": 55770,
+   "aniListId": 16498,
+   "date": "2013-04-06"
+  },
+  {
+   "titleZh": "我的青春恋爱物语果然有问题",
+   "titleJa": "やはり俺の青春ラブコメはまちがっている。",
+   "titleEn": "My Teen Romantic Comedy SNAFU",
+   "bgmId": 54433,
+   "aniListId": 14813,
+   "date": "2013-04-04"
+  },
+  {
+   "titleZh": "斩服少女",
+   "titleJa": "キルラキル",
+   "titleEn": "Kill la Kill",
+   "bgmId": 72941,
+   "aniListId": 18679,
+   "date": "2013-10-03"
+  },
+  {
+   "titleZh": "约会大作战",
+   "titleJa": "デート・ア・ライブ",
+   "titleEn": "Date A Live",
+   "bgmId": 49131,
+   "aniListId": 15583,
+   "date": "2013-04-05"
+  },
+  {
+   "titleZh": "玉子市场",
+   "titleJa": "たまこまーけっと",
+   "titleEn": "Tamako Market",
+   "bgmId": 55113,
+   "aniListId": 16417,
+   "date": "2013-01-09"
+  },
+  {
+   "titleZh": "境界的彼方",
+   "titleJa": "境界の彼方",
+   "titleEn": "Beyond the Boundary",
+   "bgmId": 49278,
+   "aniListId": 18153,
+   "date": "2013-10-02"
+  },
+  {
+   "titleZh": "悠哉日常大王",
+   "titleJa": "のんのんびより",
+   "titleEn": "Non Non Biyori",
+   "bgmId": 78405,
+   "aniListId": 17549,
+   "date": "2013-10-07"
+  },
+  {
+   "titleZh": "物语系列 第二季",
+   "titleJa": "〈物語〉シリーズ セカンドシーズン",
+   "titleEn": "Monogatari Series Second Season",
+   "bgmId": 68812,
+   "aniListId": 17074,
+   "date": "2013-07-06"
+  },
+  {
+   "titleZh": "打工吧！魔王大人",
+   "titleJa": "はたらく魔王さま!",
+   "titleEn": "The Devil is a Part-Timer!",
+   "bgmId": 50814,
+   "aniListId": 15809,
+   "date": "2013-04-04"
+  },
+  {
+   "titleZh": "来自风平浪静的明天",
+   "titleJa": "凪のあすから",
+   "titleEn": "A Lull in the Sea",
+   "bgmId": 47889,
+   "aniListId": 16067,
+   "date": "2013-10-03"
+  },
+  {
+   "titleZh": "变态王子与不笑猫。",
+   "titleJa": "変態王子と笑わない猫。",
+   "titleEn": "Hentai Prince & the Stony Cat",
+   "bgmId": 45842,
+   "aniListId": 15225,
+   "date": "2013-04-13"
+  },
+  {
+   "titleZh": "白色相簿2",
+   "titleJa": "WHITE ALBUM2",
+   "titleEn": "White Album 2",
+   "bgmId": 69496,
+   "aniListId": 18245,
+   "date": "2013-10-05"
+  },
+  {
+   "titleZh": "Love Live!",
+   "titleJa": "ラブライブ!",
+   "titleEn": "Love Live! School Idol Project",
+   "bgmId": 49294,
+   "aniListId": 15051,
+   "date": "2013-01-06"
+  },
+  {
+   "titleZh": "弹丸论破 希望学园与绝望高中生",
+   "titleJa": "ダンガンロンパ 希望の学園と絶望の高校生 THE ANIMATION",
+   "titleEn": "Danganronpa: The Animation",
+   "bgmId": 56093,
+   "aniListId": 16592,
+   "date": "2013-07-04"
+  },
+  {
+   "titleZh": "我女友与青梅竹马的惨烈修罗场",
+   "titleJa": "俺の彼女と幼なじみが修羅場すぎる",
+   "titleEn": "Oreshura",
+   "bgmId": 43557,
+   "aniListId": 14749,
+   "date": "2013-01-05"
+  },
+  {
+   "titleZh": "我不受欢迎，怎么想都是你们的错！",
+   "titleJa": "私がモテないのはどう考えてもお前らが悪い!",
+   "titleEn": "WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!",
+   "bgmId": 69214,
+   "aniListId": 16742,
+   "date": "2013-07-08"
+  },
+  {
+   "titleZh": "记录的地平线",
+   "titleJa": "ログ・ホライズン",
+   "titleEn": "Log Horizon",
+   "bgmId": 64140,
+   "aniListId": 17265,
+   "date": "2013-10-05"
+  },
+  {
+   "titleZh": "机巧少女不会受伤",
+   "titleJa": "機巧少女は傷つかない",
+   "titleEn": "Unbreakable Machine-Doll",
+   "bgmId": 61962,
+   "aniListId": 17247,
+   "date": "2013-10-07"
+  },
+  {
+   "titleZh": "有顶天家族",
+   "titleJa": "有頂天家族",
+   "titleEn": "The Eccentric Family",
+   "bgmId": 68035,
+   "aniListId": 17909,
+   "date": "2013-07-07"
+  },
+  {
+   "titleZh": "Fate/kaleid liner 魔法少女☆伊莉雅",
+   "titleJa": "Fate/kaleid liner プリズマ☆イリヤ",
+   "titleEn": "Fate/kaleid liner Prisma☆Illya",
+   "bgmId": 43951,
+   "aniListId": 14829,
+   "date": "2013-07-12"
+  },
+  {
+   "titleZh": "我的脑内选项正在全力妨碍学园恋爱喜剧",
+   "titleJa": "俺の脳内選択肢が、学園ラブコメを全力で邪魔している",
+   "titleEn": "My Mental Choices Are Completely Interfering With My School Romantic Comedy",
+   "bgmId": 77570,
+   "aniListId": 19221,
+   "date": "2013-10-09"
+  },
+  {
+   "titleZh": "问题儿童都来自异世界？",
+   "titleJa": "問題児たちが異世界から来るそうですよ?",
+   "titleEn": "Problem Children Are Coming From Another World, Aren't They?",
+   "bgmId": 52170,
+   "aniListId": 15315,
+   "date": "2013-01-11"
+  },
+  {
+   "titleZh": "噬血狂袭",
+   "titleJa": "ストライク・ザ・ブラッド",
+   "titleEn": "Strike the Blood",
+   "bgmId": 67826,
+   "aniListId": 18277,
+   "date": "2013-10-04"
+  },
+  {
+   "titleZh": "魔王勇者",
+   "titleJa": "まおゆう魔王勇者",
+   "titleEn": "Maoyu: Archenemy & Hero",
+   "bgmId": 43197,
+   "aniListId": 14833,
+   "date": "2013-01-04"
+  },
+  {
+   "titleZh": "银之匙 Silver Spoon",
+   "titleJa": "銀の匙 Silver Spoon",
+   "titleEn": "Silver Spoon",
+   "bgmId": 59664,
+   "aniListId": 16918,
+   "date": "2013-07-11"
+  },
+  {
+   "titleZh": "GJ部",
+   "titleJa": "GJ部",
+   "titleEn": "GJ Club",
+   "bgmId": 48031,
+   "aniListId": 14811,
+   "date": "2013-01-09"
+  },
+  {
+   "titleZh": "剧场版 空之境界",
+   "titleJa": "劇場版 空の境界",
+   "titleEn": "the Garden of sinners -recalled out summer-",
+   "bgmId": 75533,
+   "aniListId": 14807,
+   "date": "2013-07-05"
+  },
+  {
+   "titleZh": "黄金拼图",
+   "titleJa": "きんいろモザイク",
+   "titleEn": "KINMOZA!",
+   "bgmId": 57978,
+   "aniListId": 16732,
+   "date": "2013-07-06"
+  },
+  {
+   "titleZh": "恋爱研究所",
+   "titleJa": "恋愛ラボ",
+   "titleEn": "Love Lab",
+   "bgmId": 58850,
+   "aniListId": 16353,
+   "date": "2013-07-04"
+  },
+  {
+   "titleZh": "东京暗鸦",
+   "titleJa": "東京レイヴンズ",
+   "titleEn": "Tokyo Ravens",
+   "bgmId": 78542,
+   "aniListId": 16011,
+   "date": "2013-10-08"
+  }
+ ],
+ "2014": [
+  {
+   "titleZh": "白箱",
+   "titleJa": "SHIROBAKO",
+   "titleEn": "SHIROBAKO",
+   "bgmId": 110467,
+   "aniListId": 20812,
+   "date": "2014-10-09"
+  },
+  {
+   "titleZh": "游戏人生",
+   "titleJa": "ノーゲーム・ノーライフ",
+   "titleEn": "No Game, No Life",
+   "bgmId": 79227,
+   "aniListId": 19815,
+   "date": "2014-04-09"
+  },
+  {
+   "titleZh": "四月是你的谎言",
+   "titleJa": "四月は君の嘘",
+   "titleEn": "Your lie in April",
+   "bgmId": 100444,
+   "aniListId": 20665,
+   "date": "2014-10-09"
+  },
+  {
+   "titleZh": "月刊少女野崎君",
+   "titleJa": "月刊少女野崎くん",
+   "titleEn": "Monthly Girls' Nozaki-kun",
+   "bgmId": 100449,
+   "aniListId": 20668,
+   "date": "2014-07-06"
+  },
+  {
+   "titleZh": "Fate/stay night [Unlimited Blade Works]",
+   "titleJa": "Fate/stay night [Unlimited Blade Works]",
+   "titleEn": "Fate/stay night: Unlimited Blade Works",
+   "bgmId": 95225,
+   "aniListId": 19603,
+   "date": "2014-10-04"
+  },
+  {
+   "titleZh": "JOJO的奇妙冒险 星尘斗士",
+   "titleJa": "ジョジョの奇妙な冒険 スターダストクルセイダース",
+   "titleEn": "JoJo's Bizarre Adventure: Stardust Crusaders",
+   "bgmId": 85631,
+   "aniListId": 20474,
+   "date": "2014-04-04"
+  },
+  {
+   "titleZh": "寄生兽 生命的准则",
+   "titleJa": "寄生獣 セイの格率",
+   "titleEn": "Parasyte -the maxim-",
+   "bgmId": 88433,
+   "aniListId": 20623,
+   "date": "2014-10-08"
+  },
+  {
+   "titleZh": "乒乓",
+   "titleJa": "ピンポン THE ANIMATION",
+   "titleEn": "Ping Pong the Animation",
+   "bgmId": 93739,
+   "aniListId": 20607,
+   "date": "2014-04-10"
+  },
+  {
+   "titleZh": "甘城光辉游乐园",
+   "titleJa": "甘城ブリリアントパーク",
+   "titleEn": "Amagi Brilliant Park",
+   "bgmId": 93545,
+   "aniListId": 20602,
+   "date": "2014-10-06"
+  },
+  {
+   "titleZh": "东京喰种",
+   "titleJa": "東京喰種トーキョーグール",
+   "titleEn": "Tokyo Ghoul",
+   "bgmId": 93714,
+   "aniListId": 20605,
+   "date": "2014-07-03"
+  },
+  {
+   "titleZh": "伪恋",
+   "titleJa": "ニセコイ",
+   "titleEn": "Nisekoi",
+   "bgmId": 74628,
+   "aniListId": 18897,
+   "date": "2014-01-11"
+  },
+  {
+   "titleZh": "野良神",
+   "titleJa": "ノラガミ",
+   "titleEn": "Noragami",
+   "bgmId": 82572,
+   "aniListId": 20447,
+   "date": "2014-01-05"
+  },
+  {
+   "titleZh": "斩·赤红之瞳！",
+   "titleJa": "アカメが斬る!",
+   "titleEn": "Akame ga Kill!",
+   "bgmId": 94244,
+   "aniListId": 20613,
+   "date": "2014-07-06"
+  },
+  {
+   "titleZh": "请问您今天要来点兔子吗？",
+   "titleJa": "ご注文はうさぎですか？",
+   "titleEn": "Is the Order a Rabbit?",
+   "bgmId": 88287,
+   "aniListId": 20517,
+   "date": "2014-04-10"
+  },
+  {
+   "titleZh": "排球少年",
+   "titleJa": "ハイキュー!!",
+   "titleEn": "HAIKYU!!",
+   "bgmId": 84171,
+   "aniListId": 20464,
+   "date": "2014-04-06"
+  },
+  {
+   "titleZh": "漆黑的子弹",
+   "titleJa": "ブラック・ブレット",
+   "titleEn": "Black Bullet",
+   "bgmId": 84873,
+   "aniListId": 20457,
+   "date": "2014-04-08"
+  },
+  {
+   "titleZh": "凭物语",
+   "titleJa": "憑物語",
+   "titleEn": "Tsukimonogatari",
+   "bgmId": 115932,
+   "aniListId": 20918,
+   "date": "2014-12-31"
+  },
+  {
+   "titleZh": "花物语",
+   "titleJa": "花物語",
+   "titleEn": "Hanamonogatari",
+   "bgmId": 82322,
+   "aniListId": 20593,
+   "date": "2014-08-16"
+  },
+  {
+   "titleZh": "东京残响",
+   "titleJa": "残響のテロル",
+   "titleEn": "Terror in Resonance",
+   "bgmId": 100443,
+   "aniListId": 20661,
+   "date": "2014-07-10"
+  },
+  {
+   "titleZh": "魔法科高校的劣等生",
+   "titleJa": "魔法科高校の劣等生",
+   "titleEn": "The Irregular at Magic High School",
+   "bgmId": 84872,
+   "aniListId": 20458,
+   "date": "2014-04-05"
+  },
+  {
+   "titleZh": "一周的朋友。",
+   "titleJa": "一週間フレンズ。",
+   "titleEn": "One Week Friends",
+   "bgmId": 88493,
+   "aniListId": 20527,
+   "date": "2014-04-06"
+  },
+  {
+   "titleZh": "灰色的果实",
+   "titleJa": "グリザイアの果実",
+   "titleEn": "The Fruit of Grisaia",
+   "bgmId": 67376,
+   "aniListId": 17729,
+   "date": "2014-10-05"
+  },
+  {
+   "titleZh": "日常系的异能战斗",
+   "titleJa": "異能バトルは日常系のなかで",
+   "titleEn": "When Supernatural Battles Became Commonplace",
+   "bgmId": 99538,
+   "aniListId": 20646,
+   "date": "2014-10-06"
+  },
+  {
+   "titleZh": "结城友奈是勇者",
+   "titleJa": "結城友奈は勇者である",
+   "titleEn": "Yuki Yuna is a Hero",
+   "bgmId": 109328,
+   "aniListId": 20800,
+   "date": "2014-10-16"
+  },
+  {
+   "titleZh": "太空丹迪",
+   "titleJa": "スペース☆ダンディ",
+   "titleEn": "Space Dandy",
+   "bgmId": 80864,
+   "aniListId": 20057,
+   "date": "2014-01-05"
+  },
+  {
+   "titleZh": "农林",
+   "titleJa": "のうりん",
+   "titleEn": "No-Rin",
+   "bgmId": 68756,
+   "aniListId": 18095,
+   "date": "2014-01-10"
+  },
+  {
+   "titleZh": "希德尼娅的骑士",
+   "titleJa": "シドニアの騎士",
+   "titleEn": "Knights of Sidonia",
+   "bgmId": 77476,
+   "aniListId": 19775,
+   "date": "2014-04-10"
+  },
+  {
+   "titleZh": "ALDNOAH.ZERO",
+   "titleJa": "アルドノア・ゼロ",
+   "titleEn": "ALDNOAH.ZERO",
+   "bgmId": 96918,
+   "aniListId": 20632,
+   "date": "2014-07-05"
+  },
+  {
+   "titleZh": "七大罪",
+   "titleJa": "七つの大罪",
+   "titleEn": "The Seven Deadly Sins",
+   "bgmId": 101820,
+   "aniListId": 20789,
+   "date": "2014-10-05"
+  },
+  {
+   "titleZh": "漫画家和助手",
+   "titleJa": "マンガ家さんとアシスタントさんと",
+   "titleEn": "The Comic Artist & His Assistants",
+   "bgmId": 89751,
+   "aniListId": 20537,
+   "date": "2014-04-07"
+  }
+ ],
+ "2015": [
+  {
+   "titleZh": "吹响吧！上低音号",
+   "titleJa": "響け！ユーフォニアム",
+   "titleEn": "Sound! Euphonium",
+   "bgmId": 115908,
+   "aniListId": 20912,
+   "date": "2015-04-07"
+  },
+  {
+   "titleZh": "路人女主的养成方法",
+   "titleJa": "冴えない彼女の育てかた",
+   "titleEn": "Saekano: How to Raise a Boring Girlfriend",
+   "bgmId": 100403,
+   "aniListId": 20657,
+   "date": "2015-01-08"
+  },
+  {
+   "titleZh": "一拳超人",
+   "titleJa": "ワンパンマン",
+   "titleEn": "One-Punch Man",
+   "bgmId": 127563,
+   "aniListId": 21087,
+   "date": "2015-10-04"
+  },
+  {
+   "titleZh": "夏洛特",
+   "titleJa": "Charlotte",
+   "titleEn": "Charlotte",
+   "bgmId": 120925,
+   "aniListId": 20997,
+   "date": "2015-07-04"
+  },
+  {
+   "titleZh": "干物妹！小埋",
+   "titleJa": "干物妹! うまるちゃん",
+   "titleEn": "Himouto! Umaru-chan",
+   "bgmId": 120187,
+   "aniListId": 20987,
+   "date": "2015-07-08"
+  },
+  {
+   "titleZh": "OVERLORD",
+   "titleJa": "オーバーロード",
+   "titleEn": "Overlord",
+   "bgmId": 112146,
+   "aniListId": 20832,
+   "date": "2015-07-07"
+  },
+  {
+   "titleZh": "可塑性记忆",
+   "titleJa": "プラスティック・メモリーズ",
+   "titleEn": "Plastic Memories",
+   "bgmId": 114685,
+   "aniListId": 20872,
+   "date": "2015-04-04"
+  },
+  {
+   "titleZh": "暗杀教室",
+   "titleJa": "暗殺教室",
+   "titleEn": "Assassination Classroom",
+   "bgmId": 106818,
+   "aniListId": 20755,
+   "date": "2015-01-09"
+  },
+  {
+   "titleZh": "血界战线",
+   "titleJa": "血界戦線",
+   "titleEn": "Blood Blockade Battlefront",
+   "bgmId": 105075,
+   "aniListId": 20727,
+   "date": "2015-04-04"
+  },
+  {
+   "titleZh": "在地下城寻求邂逅是否搞错了什么",
+   "titleJa": "ダンジョンに出会いを求めるのは間違っているだろうか",
+   "titleEn": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+   "bgmId": 116287,
+   "aniListId": 20920,
+   "date": "2015-04-03"
+  },
+  {
+   "titleZh": "学园孤岛",
+   "titleJa": "がっこうぐらし！",
+   "titleEn": "SCHOOL-LIVE!",
+   "bgmId": 106693,
+   "aniListId": 20754,
+   "date": "2015-07-09"
+  },
+  {
+   "titleZh": "没有黄段子存在的无聊世界",
+   "titleJa": "下ネタという概念が存在しない退屈な世界",
+   "titleEn": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist",
+   "bgmId": 115780,
+   "aniListId": 20910,
+   "date": "2015-07-04"
+  },
+  {
+   "titleZh": "终物语",
+   "titleJa": "終物語",
+   "titleEn": "Owarimonogatari",
+   "bgmId": 138829,
+   "aniListId": 21262,
+   "date": "2015-10-03"
+  },
+  {
+   "titleZh": "监狱学园",
+   "titleJa": "監獄学園",
+   "titleEn": "Prison School",
+   "bgmId": 110048,
+   "aniListId": 20807,
+   "date": "2015-07-10"
+  },
+  {
+   "titleZh": "食戟之灵",
+   "titleJa": "食戟のソーマ",
+   "titleEn": "Food Wars!",
+   "bgmId": 116461,
+   "aniListId": 20923,
+   "date": "2015-04-03"
+  },
+  {
+   "titleZh": "落第骑士英雄谭",
+   "titleJa": "落第騎士の英雄譚",
+   "titleEn": "Chivalry of a Failed Knight",
+   "bgmId": 127724,
+   "aniListId": 21092,
+   "date": "2015-10-03"
+  },
+  {
+   "titleZh": "终结的炽天使",
+   "titleJa": "終わりのセラフ",
+   "titleEn": "Seraph of the End: Vampire Reign",
+   "bgmId": 112151,
+   "aniListId": 20829,
+   "date": "2015-04-04"
+  },
+  {
+   "titleZh": "新妹魔王的契约者",
+   "titleJa": "新妹魔王の契約者",
+   "titleEn": "The Testament of Sister New Devil",
+   "bgmId": 100205,
+   "aniListId": 20678,
+   "date": "2015-01-07"
+  },
+  {
+   "titleZh": "灰色的乐园",
+   "titleJa": "グリザイアの楽園",
+   "titleEn": "The Eden of Grisaia",
+   "bgmId": 130234,
+   "aniListId": 21006,
+   "date": "2015-04-19"
+  },
+  {
+   "titleZh": "山田君与7个魔女",
+   "titleJa": "山田くんと7人の魔女",
+   "titleEn": "Yamada and the Seven Witches",
+   "bgmId": 118906,
+   "aniListId": 20966,
+   "date": "2015-04-12"
+  },
+  {
+   "titleZh": "灰色的迷宫",
+   "titleJa": "グリザイアの迷宮",
+   "titleEn": "The Labyrinth of Grisaia",
+   "bgmId": 121187,
+   "aniListId": 21005,
+   "date": "2015-04-12"
+  },
+  {
+   "titleZh": "樱子小姐的脚下埋着尸体",
+   "titleJa": "櫻子さんの足下には死体が埋まっている",
+   "titleEn": "Beautiful Bones -Sakurako's Investigation-",
+   "bgmId": 126461,
+   "aniListId": 21066,
+   "date": "2015-10-07"
+  },
+  {
+   "titleZh": "我老婆是学生会长",
+   "titleJa": "おくさまが生徒会長!",
+   "titleEn": "My Wife is the Student Council President",
+   "bgmId": 119889,
+   "aniListId": 20984,
+   "date": "2015-07-01"
+  },
+  {
+   "titleZh": "绝对双刃",
+   "titleJa": "アブソリュート・デュオ",
+   "titleEn": "Absolute Duo",
+   "bgmId": 108757,
+   "aniListId": 20785,
+   "date": "2015-01-04"
+  },
+  {
+   "titleZh": "学战都市 六芒星",
+   "titleJa": "学戦都市アスタリスク",
+   "titleEn": "The Asterisk War",
+   "bgmId": 130250,
+   "aniListId": 21131,
+   "date": "2015-10-03"
+  },
+  {
+   "titleZh": "魔物娘的同居日常",
+   "titleJa": "モンスター娘のいる日常",
+   "titleEn": "Monster Musume: Everyday Life With Monster Girls",
+   "bgmId": 127979,
+   "aniListId": 21093,
+   "date": "2015-07-07"
+  },
+  {
+   "titleZh": "舰队Collection",
+   "titleJa": "艦隊これくしょん -艦これ-",
+   "titleEn": "KanColle",
+   "bgmId": 84386,
+   "aniListId": 20553,
+   "date": "2015-01-07"
+  },
+  {
+   "titleZh": "百合熊风暴",
+   "titleJa": "ユリ熊嵐",
+   "titleEn": "Yurikuma Arashi",
+   "bgmId": 59825,
+   "aniListId": 20827,
+   "date": "2015-01-05"
+  },
+  {
+   "titleZh": "赤发白雪姬",
+   "titleJa": "赤髪の白雪姫",
+   "titleEn": "Snow White with the Red Hair",
+   "bgmId": 126034,
+   "aniListId": 21058,
+   "date": "2015-07-06"
+  },
+  {
+   "titleZh": "长门有希酱的消失",
+   "titleJa": "長門有希ちゃんの消失",
+   "titleEn": "The Disappearance of Nagato Yuki-chan",
+   "bgmId": 90815,
+   "aniListId": 20566,
+   "date": "2015-04-03"
+  }
+ ],
+ "2016": [
+  {
+   "titleZh": "为美好的世界献上祝福！",
+   "titleJa": "この素晴らしい世界に祝福を！",
+   "titleEn": "KONOSUBA -God's blessing on this wonderful world!",
+   "bgmId": 135275,
+   "aniListId": 21202,
+   "date": "2016-01-13"
+  },
+  {
+   "titleZh": "Re：从零开始的异世界生活",
+   "titleJa": "Re:ゼロから始める異世界生活",
+   "titleEn": "Re:ZERO -Starting Life in Another World-",
+   "bgmId": 140001,
+   "aniListId": 21355,
+   "date": "2016-04-03"
+  },
+  {
+   "titleZh": "灵能百分百",
+   "titleJa": "モブサイコ100",
+   "titleEn": "Mob Psycho 100",
+   "bgmId": 158316,
+   "aniListId": 21507,
+   "date": "2016-07-11"
+  },
+  {
+   "titleZh": "齐木楠雄的灾难",
+   "titleJa": "斉木楠雄のΨ難",
+   "titleEn": "The Disastrous Life of Saiki K.",
+   "bgmId": 181354,
+   "aniListId": 21804,
+   "date": "2016-07-10"
+  },
+  {
+   "titleZh": "JOJO的奇妙冒险 不灭钻石",
+   "titleJa": "ジョジョの奇妙な冒険 ダイヤモンドは砕けない",
+   "titleEn": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+   "bgmId": 150490,
+   "aniListId": 21450,
+   "date": "2016-04-01"
+  },
+  {
+   "titleZh": "只有我不存在的城市",
+   "titleJa": "僕だけがいない街",
+   "titleEn": "ERASED",
+   "bgmId": 137722,
+   "aniListId": 21234,
+   "date": "2016-01-07"
+  },
+  {
+   "titleZh": "3月的狮子",
+   "titleJa": "3月のライオン",
+   "titleEn": "March comes in like a lion",
+   "bgmId": 147068,
+   "aniListId": 21366,
+   "date": "2016-10-08"
+  },
+  {
+   "titleZh": "ReLIFE",
+   "titleJa": "ReLIFE",
+   "titleEn": "ReLIFE",
+   "bgmId": 126173,
+   "aniListId": 21049,
+   "date": "2016-07-01"
+  },
+  {
+   "titleZh": "在下坂本，有何贵干？",
+   "titleJa": "坂本ですが？",
+   "titleEn": "Haven't You Heard? I'm Sakamoto",
+   "bgmId": 165829,
+   "aniListId": 21595,
+   "date": "2016-04-07"
+  },
+  {
+   "titleZh": "这个美术社大有问题！",
+   "titleJa": "この美術部には問題がある！",
+   "titleEn": "This Art Club Has a Problem!",
+   "bgmId": 150746,
+   "aniListId": 21457,
+   "date": "2016-07-07"
+  },
+  {
+   "titleZh": "NEW GAME!",
+   "titleJa": "NEW GAME!",
+   "titleEn": "NEW GAME!",
+   "bgmId": 150775,
+   "aniListId": 21455,
+   "date": "2016-07-04"
+  },
+  {
+   "titleZh": "灰与幻想的格林姆迦尔",
+   "titleJa": "灰と幻想のグリムガル",
+   "titleEn": "Grimgar of Fantasy and Ash",
+   "bgmId": 148726,
+   "aniListId": 21428,
+   "date": "2016-01-10"
+  },
+  {
+   "titleZh": "甲铁城的卡巴内利",
+   "titleJa": "甲鉄城のカバネリ",
+   "titleEn": "Kabaneri of the Iron Fortress",
+   "bgmId": 118781,
+   "aniListId": 21196,
+   "date": "2016-04-07"
+  },
+  {
+   "titleZh": "线上游戏的老婆不可能是女生？",
+   "titleJa": "ネトゲの嫁は女の子じゃないと思った?",
+   "titleEn": "And you thought there is never a girl online?",
+   "bgmId": 142758,
+   "aniListId": 21290,
+   "date": "2016-04-07"
+  },
+  {
+   "titleZh": "亚人",
+   "titleJa": "亜人",
+   "titleEn": "AJIN: Demi-Human",
+   "bgmId": 146093,
+   "aniListId": 21341,
+   "date": "2016-01-15"
+  },
+  {
+   "titleZh": "我的英雄学院",
+   "titleJa": "僕のヒーローアカデミア",
+   "titleEn": "My Hero Academia",
+   "bgmId": 150955,
+   "aniListId": 21459,
+   "date": "2016-04-03"
+  },
+  {
+   "titleZh": "文豪野犬",
+   "titleJa": "文豪ストレイドッグス",
+   "titleEn": "Bungo Stray Dogs",
+   "bgmId": 144357,
+   "aniListId": 21311,
+   "date": "2016-04-06"
+  },
+  {
+   "titleZh": "无彩限的怪灵世界",
+   "titleJa": "無彩限のファントム・ワールド",
+   "titleEn": "Myriad Colors Phantom World",
+   "bgmId": 94040,
+   "aniListId": 21306,
+   "date": "2016-01-06"
+  },
+  {
+   "titleZh": "粗点心战争",
+   "titleJa": "だがしかし",
+   "titleEn": "Dagashi Kashi",
+   "bgmId": 146994,
+   "aniListId": 21365,
+   "date": "2016-01-07"
+  },
+  {
+   "titleZh": "飞翔的魔女",
+   "titleJa": "ふらいんぐうぃっち",
+   "titleEn": "Flying Witch",
+   "bgmId": 141799,
+   "aniListId": 21284,
+   "date": "2016-04-09"
+  },
+  {
+   "titleZh": "轻拍翻转小魔女",
+   "titleJa": "フリップフラッパーズ",
+   "titleEn": "FLIP FLAPPERS",
+   "bgmId": 174584,
+   "aniListId": 21714,
+   "date": "2016-10-06"
+  },
+  {
+   "titleZh": "少女编号",
+   "titleJa": "ガーリッシュ ナンバー",
+   "titleEn": "Girlish Number",
+   "bgmId": 167434,
+   "aniListId": 21627,
+   "date": "2016-10-06"
+  },
+  {
+   "titleZh": "昭和元禄落语心中",
+   "titleJa": "昭和元禄落語心中",
+   "titleEn": "Showa Genroku Rakugo Shinju",
+   "bgmId": 119394,
+   "aniListId": 20972,
+   "date": "2016-01-08"
+  },
+  {
+   "titleZh": "超自然9人组",
+   "titleJa": "Occultic;Nine -オカルティック・ナイン-",
+   "titleEn": "Occultic;Nine",
+   "bgmId": 203861,
+   "aniListId": 21708,
+   "date": "2016-10-08"
+  },
+  {
+   "titleZh": "宇宙巡警露露子",
+   "titleJa": "宇宙パトロールルル子",
+   "titleEn": "Space Patrol Luluco",
+   "bgmId": 168204,
+   "aniListId": 21637,
+   "date": "2016-04-01"
+  },
+  {
+   "titleZh": "Rewrite",
+   "titleJa": "Rewrite",
+   "titleEn": "Rewrite",
+   "bgmId": 147568,
+   "aniListId": 21382,
+   "date": "2016-07-02"
+  },
+  {
+   "titleZh": "迷家",
+   "titleJa": "迷家-マヨイガ-",
+   "titleEn": "The Lost Village",
+   "bgmId": 163046,
+   "aniListId": 21567,
+   "date": "2016-04-01"
+  },
+  {
+   "titleZh": "Fate/Grand Order -First Order-",
+   "titleJa": "Fate/Grand Order -First Order-",
+   "titleEn": "Fate/Grand Order: First Order",
+   "bgmId": 196773,
+   "aniListId": 97815,
+   "date": "2016-12-31"
+  },
+  {
+   "titleZh": "田中君总是如此慵懒",
+   "titleJa": "田中くんはいつもけだるげ",
+   "titleEn": "Tanaka-kun is Always Listless",
+   "bgmId": 155704,
+   "aniListId": 21495,
+   "date": "2016-04-09"
+  },
+  {
+   "titleZh": "冰上的尤里",
+   "titleJa": "ユーリ!!! on ICE",
+   "titleEn": "Yuri!!! on ICE",
+   "bgmId": 174998,
+   "aniListId": 21709,
+   "date": "2016-10-05"
+  }
+ ],
+ "2017": [
+  {
+   "titleZh": "小林家的龙女仆",
+   "titleJa": "小林さんちのメイドラゴン",
+   "titleEn": "Miss Kobayashi's Dragon Maid",
+   "bgmId": 179949,
+   "aniListId": 21776,
+   "date": "2017-01-11"
+  },
+  {
+   "titleZh": "来自深渊",
+   "titleJa": "メイドインアビス",
+   "titleEn": "Made in Abyss",
+   "bgmId": 203526,
+   "aniListId": 97986,
+   "date": "2017-07-07"
+  },
+  {
+   "titleZh": "埃罗芒阿老师",
+   "titleJa": "エロマンガ先生",
+   "titleEn": "Eromanga Sensei",
+   "bgmId": 172498,
+   "aniListId": 21685,
+   "date": "2017-04-08"
+  },
+  {
+   "titleZh": "少女终末旅行",
+   "titleJa": "少女終末旅行",
+   "titleEn": "Girls' Last Tour",
+   "bgmId": 218707,
+   "aniListId": 99420,
+   "date": "2017-10-06"
+  },
+  {
+   "titleZh": "月色真美",
+   "titleJa": "月がきれい",
+   "titleEn": "Tsukigakirei",
+   "bgmId": 207573,
+   "aniListId": 98202,
+   "date": "2017-04-06"
+  },
+  {
+   "titleZh": "欢迎来到实力至上主义的教室",
+   "titleJa": "ようこそ実力至上主義の教室へ",
+   "titleEn": "Classroom of the Elite",
+   "bgmId": 214272,
+   "aniListId": 98659,
+   "date": "2017-07-12"
+  },
+  {
+   "titleZh": "末日时在做什么？有没有空？可以来拯救吗？",
+   "titleJa": "終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？",
+   "titleEn": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
+   "bgmId": 185943,
+   "aniListId": 21860,
+   "date": "2017-04-11"
+  },
+  {
+   "titleZh": "珈百璃的堕落",
+   "titleJa": "ガヴリールドロップアウト",
+   "titleEn": "Gabriel DropOut",
+   "bgmId": 188091,
+   "aniListId": 21878,
+   "date": "2017-01-09"
+  },
+  {
+   "titleZh": "宝石之国",
+   "titleJa": "宝石の国",
+   "titleEn": "Land of the Lustrous",
+   "bgmId": 214799,
+   "aniListId": 98707,
+   "date": "2017-10-07"
+  },
+  {
+   "titleZh": "重启咲良田",
+   "titleJa": "サクラダリセット",
+   "titleEn": "Sagrada Reset",
+   "bgmId": 193378,
+   "aniListId": 97660,
+   "date": "2017-04-05"
+  },
+  {
+   "titleZh": "徒然喜欢你",
+   "titleJa": "徒然チルドレン",
+   "titleEn": "Tsuredure Children",
+   "bgmId": 208754,
+   "aniListId": 98291,
+   "date": "2017-07-04"
+  },
+  {
+   "titleZh": "笨女孩",
+   "titleJa": "アホガール",
+   "titleEn": "AHO-GIRL",
+   "bgmId": 208450,
+   "aniListId": 98251,
+   "date": "2017-07-04"
+  },
+  {
+   "titleZh": "小魔女学园",
+   "titleJa": "リトルウィッチアカデミア",
+   "titleEn": "Little Witch Academia (TV)",
+   "bgmId": 185792,
+   "aniListId": 21858,
+   "date": "2017-01-08"
+  },
+  {
+   "titleZh": "狂赌之渊",
+   "titleJa": "賭ケグルイ",
+   "titleEn": "Kakegurui",
+   "bgmId": 209408,
+   "aniListId": 98314,
+   "date": "2017-07-01"
+  },
+  {
+   "titleZh": "幼女战记",
+   "titleJa": "幼女戦記",
+   "titleEn": "Saga of Tanya the Evil",
+   "bgmId": 167655,
+   "aniListId": 21613,
+   "date": "2017-01-06"
+  },
+  {
+   "titleZh": "调教咖啡厅",
+   "titleJa": "ブレンド・S",
+   "titleEn": "BLEND-S",
+   "bgmId": 204145,
+   "aniListId": 97994,
+   "date": "2017-10-07"
+  },
+  {
+   "titleZh": "人渣的本愿",
+   "titleJa": "クズの本懐",
+   "titleEn": "Scum's Wish",
+   "bgmId": 174143,
+   "aniListId": 21701,
+   "date": "2017-01-12"
+  },
+  {
+   "titleZh": "终物语（下）",
+   "titleJa": "終物語(下)",
+   "titleEn": "Owarimonogatari Second Season",
+   "bgmId": 175596,
+   "aniListId": 21745,
+   "date": "2017-08-12"
+  },
+  {
+   "titleZh": "如果有妹妹就好了。",
+   "titleJa": "妹さえいればいい。",
+   "titleEn": "A Sister's All You Need.",
+   "bgmId": 213076,
+   "aniListId": 98596,
+   "date": "2017-10-08"
+  },
+  {
+   "titleZh": "政宗君的复仇",
+   "titleJa": "政宗くんのリベンジ",
+   "titleEn": "Masamune-kun's Revenge",
+   "bgmId": 185762,
+   "aniListId": 21857,
+   "date": "2017-01-05"
+  },
+  {
+   "titleZh": "Re：创世主们",
+   "titleJa": "Re:CREATORS",
+   "titleEn": "Re:CREATORS",
+   "bgmId": 202419,
+   "aniListId": 97980,
+   "date": "2017-04-08"
+  },
+  {
+   "titleZh": "GAMERS电玩咖",
+   "titleJa": "ゲーマーズ!",
+   "titleEn": "GAMERS!",
+   "bgmId": 195816,
+   "aniListId": 97766,
+   "date": "2017-07-13"
+  },
+  {
+   "titleZh": "不正经的魔术讲师与禁忌教典",
+   "titleJa": "ロクでなし魔術講師と禁忌教典",
+   "titleEn": "Akashic Records of Bastard Magic Instructor",
+   "bgmId": 174138,
+   "aniListId": 21700,
+   "date": "2017-04-04"
+  },
+  {
+   "titleZh": "此花绮谭",
+   "titleJa": "このはな綺譚",
+   "titleEn": "KONOHANA KITAN",
+   "bgmId": 211934,
+   "aniListId": 98506,
+   "date": "2017-10-04"
+  },
+  {
+   "titleZh": "兽娘动物园",
+   "titleJa": "けものフレンズ",
+   "titleEn": "Kemono Friends",
+   "bgmId": 176478,
+   "aniListId": 87496,
+   "date": "2017-01-10"
+  },
+  {
+   "titleZh": "Fate/Apocrypha",
+   "titleJa": "Fate/Apocrypha",
+   "titleEn": "Fate/Apocrypha",
+   "bgmId": 204855,
+   "aniListId": 98035,
+   "date": "2017-07-01"
+  },
+  {
+   "titleZh": "Urara迷路帖",
+   "titleJa": "うらら迷路帖",
+   "titleEn": "Urara Meirocho",
+   "bgmId": 173303,
+   "aniListId": 21696,
+   "date": "2017-01-05"
+  },
+  {
+   "titleZh": "魔法使的新娘",
+   "titleJa": "魔法使いの嫁",
+   "titleEn": "The Ancient Magus' Bride",
+   "bgmId": 210864,
+   "aniListId": 98436,
+   "date": "2017-10-07"
+  },
+  {
+   "titleZh": "BanG Dream!",
+   "titleJa": "BanG Dream!",
+   "titleEn": "BanG Dream!",
+   "bgmId": 186515,
+   "aniListId": 87435,
+   "date": "2017-01-21"
+  },
+  {
+   "titleZh": "异世界食堂",
+   "titleJa": "異世界食堂",
+   "titleEn": "Restaurant to Another World",
+   "bgmId": 192252,
+   "aniListId": 97617,
+   "date": "2017-07-03"
+  }
+ ],
+ "2018": [
+  {
+   "titleZh": "青春猪头少年不会梦到兔女郎学姐",
+   "titleJa": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+   "titleEn": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "bgmId": 240038,
+   "aniListId": 101291,
+   "date": "2018-10-03"
+  },
+  {
+   "titleZh": "紫罗兰永恒花园",
+   "titleJa": "ヴァイオレット・エヴァーガーデン",
+   "titleEn": "Violet Evergarden",
+   "bgmId": 183878,
+   "aniListId": 21827,
+   "date": "2018-01-10"
+  },
+  {
+   "titleZh": "碧蓝之海",
+   "titleJa": "ぐらんぶる",
+   "titleEn": "Grand Blue Dreaming",
+   "bgmId": 235130,
+   "aniListId": 100922,
+   "date": "2018-07-13"
+  },
+  {
+   "titleZh": "摇曳露营△",
+   "titleJa": "ゆるキャン△",
+   "titleEn": "Laid-Back Camp",
+   "bgmId": 207195,
+   "aniListId": 98444,
+   "date": "2018-01-04"
+  },
+  {
+   "titleZh": "比宇宙更远的地方",
+   "titleJa": "宇宙よりも遠い場所",
+   "titleEn": "A Place Further Than the Universe",
+   "bgmId": 218708,
+   "aniListId": 99426,
+   "date": "2018-01-02"
+  },
+  {
+   "titleZh": "少女☆歌剧 Revue Starlight",
+   "titleJa": "少女☆歌劇 レヴュースタァライト",
+   "titleEn": "Revue Starlight",
+   "bgmId": 214265,
+   "aniListId": 98658,
+   "date": "2018-07-12"
+  },
+  {
+   "titleZh": "JOJO的奇妙冒险 黄金之风",
+   "titleJa": "ジョジョの奇妙な冒険 黄金の風",
+   "titleEn": "JoJo's Bizarre Adventure: Golden Wind",
+   "bgmId": 235128,
+   "aniListId": 102883,
+   "date": "2018-10-05"
+  },
+  {
+   "titleZh": "佐贺偶像是传奇",
+   "titleJa": "ゾンビランドサガ",
+   "titleEn": "ZOMBIE LAND SAGA",
+   "bgmId": 252655,
+   "aniListId": 103871,
+   "date": "2018-10-04"
+  },
+  {
+   "titleZh": "关于我转生变成史莱姆这档事",
+   "titleJa": "転生したらスライムだった件",
+   "titleEn": "That Time I Got Reincarnated as a Slime",
+   "bgmId": 239816,
+   "aniListId": 101280,
+   "date": "2018-10-01"
+  },
+  {
+   "titleZh": "DARLING in the FRANXX",
+   "titleJa": "ダーリン・イン・ザ・フランキス",
+   "titleEn": "DARLING in the FRANXX",
+   "bgmId": 218711,
+   "aniListId": 99423,
+   "date": "2018-01-13"
+  },
+  {
+   "titleZh": "擅长捉弄的高木同学",
+   "titleJa": "からかい上手の高木さん",
+   "titleEn": "Teasing Master Takagi-san",
+   "bgmId": 219200,
+   "aniListId": 99468,
+   "date": "2018-01-08"
+  },
+  {
+   "titleZh": "工作细胞",
+   "titleJa": "はたらく細胞",
+   "titleEn": "Cells at Work!",
+   "bgmId": 235612,
+   "aniListId": 100977,
+   "date": "2018-07-07"
+  },
+  {
+   "titleZh": "终将成为你",
+   "titleJa": "やがて君になる",
+   "titleEn": "Bloom Into You",
+   "bgmId": 243981,
+   "aniListId": 101573,
+   "date": "2018-10-05"
+  },
+  {
+   "titleZh": "强风吹拂",
+   "titleJa": "風が強く吹いている",
+   "titleEn": "Run with the Wind",
+   "bgmId": 248154,
+   "aniListId": 101903,
+   "date": "2018-10-02"
+  },
+  {
+   "titleZh": "赛马娘 Pretty Derby",
+   "titleJa": "ウマ娘 プリティーダービー",
+   "titleEn": "Umamusume: Pretty Derby",
+   "bgmId": 212003,
+   "aniListId": 98514,
+   "date": "2018-04-01"
+  },
+  {
+   "titleZh": "SSSS.古立特",
+   "titleJa": "SSSS.GRIDMAN",
+   "titleEn": "SSSS.GRIDMAN",
+   "bgmId": 218712,
+   "aniListId": 99424,
+   "date": "2018-10-06"
+  },
+  {
+   "titleZh": "龙王的工作！",
+   "titleJa": "りゅうおうのおしごと！",
+   "titleEn": "The Ryuo's Work is Never Done!",
+   "bgmId": 219658,
+   "aniListId": 99507,
+   "date": "2018-01-08"
+  },
+  {
+   "titleZh": "MEGALO BOX",
+   "titleJa": "メガロボクス",
+   "titleEn": "Megalobox",
+   "bgmId": 227718,
+   "aniListId": 100298,
+   "date": "2018-04-05"
+  },
+  {
+   "titleZh": "杀戮天使",
+   "titleJa": "殺戮の天使",
+   "titleEn": "Angels of Death",
+   "bgmId": 220566,
+   "aniListId": 99629,
+   "date": "2018-07-06"
+  },
+  {
+   "titleZh": "黑社会的超能力女儿",
+   "titleJa": "ヒナまつり",
+   "titleEn": "HINAMATSURI",
+   "bgmId": 225631,
+   "aniListId": 100077,
+   "date": "2018-04-06"
+  },
+  {
+   "titleZh": "哥布林杀手",
+   "titleJa": "ゴブリンスレイヤー",
+   "titleEn": "GOBLIN SLAYER",
+   "bgmId": 238006,
+   "aniListId": 101165,
+   "date": "2018-10-06"
+  },
+  {
+   "titleZh": "邪神与厨二病少女",
+   "titleJa": "邪神ちゃんドロップキック",
+   "titleEn": "Dropkick on My Devil!",
+   "bgmId": 231722,
+   "aniListId": 100714,
+   "date": "2018-07-09"
+  },
+  {
+   "titleZh": "citrus～柑橘味香气～",
+   "titleJa": "citrus",
+   "titleEn": "Citrus",
+   "bgmId": 198098,
+   "aniListId": 97832,
+   "date": "2018-01-06"
+  },
+  {
+   "titleZh": "高分少女",
+   "titleJa": "ハイスコアガール",
+   "titleEn": "Hi Score Girl",
+   "bgmId": 91205,
+   "aniListId": 20574,
+   "date": "2018-07-13"
+  },
+  {
+   "titleZh": "来玩游戏吧",
+   "titleJa": "あそびあそばせ",
+   "titleEn": "Asobi Asobase - workshop of fun -",
+   "bgmId": 236020,
+   "aniListId": 101001,
+   "date": "2018-07-08"
+  },
+  {
+   "titleZh": "恋如雨止",
+   "titleJa": "恋は雨上がりのように",
+   "titleEn": "After the Rain",
+   "bgmId": 210458,
+   "aniListId": 98385,
+   "date": "2018-01-11"
+  },
+  {
+   "titleZh": "宅男腐女恋爱真难",
+   "titleJa": "ヲタクに恋は難しい",
+   "titleEn": "Wotakoi: Love is Hard for Otaku",
+   "bgmId": 220312,
+   "aniListId": 99578,
+   "date": "2018-04-12"
+  },
+  {
+   "titleZh": "后街女孩",
+   "titleJa": "Back Street Girls -ゴクドルズ-",
+   "titleEn": "Back Street Girls -GOKUDOLS-",
+   "bgmId": 231278,
+   "aniListId": 100665,
+   "date": "2018-07-03"
+  },
+  {
+   "titleZh": "邻家的吸血鬼小妹",
+   "titleJa": "となりの吸血鬼さん",
+   "titleEn": "Ms. vampire who lives in my neighborhood.",
+   "bgmId": 241158,
+   "aniListId": 101371,
+   "date": "2018-10-05"
+  },
+  {
+   "titleZh": "黄金神威",
+   "titleJa": "ゴールデンカムイ",
+   "titleEn": "Golden Kamuy",
+   "bgmId": 221127,
+   "aniListId": 99699,
+   "date": "2018-04-09"
+  }
+ ],
+ "2019": [
+  {
+   "titleZh": "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
+   "titleJa": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+   "titleEn": "Kaguya-sama: Love is War",
+   "bgmId": 248175,
+   "aniListId": 101921,
+   "date": "2019-01-12"
+  },
+  {
+   "titleZh": "鬼灭之刃",
+   "titleJa": "鬼滅の刃",
+   "titleEn": "Demon Slayer: Kimetsu no Yaiba",
+   "bgmId": 245665,
+   "aniListId": 101922,
+   "date": "2019-04-06"
+  },
+  {
+   "titleZh": "冰海战记",
+   "titleJa": "ヴィンランド・サガ",
+   "titleEn": "Vinland Saga",
+   "bgmId": 240386,
+   "aniListId": 101348,
+   "date": "2019-07-07"
+  },
+  {
+   "titleZh": "天使降临到了我身边！",
+   "titleJa": "私に天使が舞い降りた！",
+   "titleEn": "WATATEN!: an Angel Flew Down to Me",
+   "bgmId": 249637,
+   "aniListId": 102680,
+   "date": "2019-01-08"
+  },
+  {
+   "titleZh": "慎重勇者 ～这个勇者明明超强却过分慎重～",
+   "titleJa": "慎重勇者 ～この勇者が俺TUEEEくせに慎重すぎる～",
+   "titleEn": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+   "bgmId": 266157,
+   "aniListId": 105156,
+   "date": "2019-10-02"
+  },
+  {
+   "titleZh": "街角魔族",
+   "titleJa": "まちカドまぞく",
+   "titleEn": "The Demon Girl Next Door",
+   "bgmId": 272510,
+   "aniListId": 107490,
+   "date": "2019-07-11"
+  },
+  {
+   "titleZh": "约定的梦幻岛",
+   "titleJa": "約束のネバーランド",
+   "titleEn": "The Promised Neverland",
+   "bgmId": 243916,
+   "aniListId": 101759,
+   "date": "2019-01-10"
+  },
+  {
+   "titleZh": "五等分的新娘",
+   "titleJa": "五等分の花嫁",
+   "titleEn": "The Quintessential Quintuplets",
+   "bgmId": 256114,
+   "aniListId": 103572,
+   "date": "2019-01-10"
+  },
+  {
+   "titleZh": "石纪元",
+   "titleJa": "Dr.STONE",
+   "titleEn": "Dr. STONE",
+   "bgmId": 266794,
+   "aniListId": 105333,
+   "date": "2019-07-05"
+  },
+  {
+   "titleZh": "动物狂想曲",
+   "titleJa": "BEASTARS",
+   "titleEn": "BEASTARS",
+   "bgmId": 273843,
+   "aniListId": 107660,
+   "date": "2019-10-09"
+  },
+  {
+   "titleZh": "盾之勇者成名录",
+   "titleJa": "盾の勇者の成り上がり",
+   "titleEn": "The Rising of the Shield Hero",
+   "bgmId": 217660,
+   "aniListId": 99263,
+   "date": "2019-01-09"
+  },
+  {
+   "titleZh": "多罗罗",
+   "titleJa": "どろろ",
+   "titleEn": "Dororo",
+   "bgmId": 240838,
+   "aniListId": 101347,
+   "date": "2019-01-07"
+  },
+  {
+   "titleZh": "平凡职业造就世界最强",
+   "titleJa": "ありふれた職業で世界最強",
+   "titleEn": "Arifureta: From Commonplace to World's Strongest",
+   "bgmId": 231414,
+   "aniListId": 100668,
+   "date": "2019-07-08"
+  },
+  {
+   "titleZh": "Fate/Grand Order -绝对魔兽战线巴比伦尼亚-",
+   "titleJa": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+   "titleEn": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+   "bgmId": 255526,
+   "aniListId": 103275,
+   "date": "2019-10-05"
+  },
+  {
+   "titleZh": "某科学的一方通行",
+   "titleJa": "とある科学の一方通行",
+   "titleEn": "A Certain Scientific Accelerator",
+   "bgmId": 262939,
+   "aniListId": 104463,
+   "date": "2019-07-12"
+  },
+  {
+   "titleZh": "君主·埃尔梅罗二世事件簿 魔眼收集列车 Grace note",
+   "titleJa": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-",
+   "titleEn": "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note - A Grave Keeper, a Cat, and a Mage",
+   "bgmId": 267732,
+   "aniListId": 106862,
+   "date": "2019-07-06"
+  },
+  {
+   "titleZh": "家有女友",
+   "titleJa": "ドメスティックな彼女",
+   "titleEn": "Domestic Girlfriend",
+   "bgmId": 253628,
+   "aniListId": 103139,
+   "date": "2019-01-11"
+  },
+  {
+   "titleZh": "只要可爱即使是变态你也会喜欢我吧？",
+   "titleJa": "可愛ければ変態でも好きになってくれますか？",
+   "titleEn": "Hensuki: Are you willing to fall in love with a pervert, as long as she’s a cutie?",
+   "bgmId": 275371,
+   "aniListId": 107961,
+   "date": "2019-07-08"
+  },
+  {
+   "titleZh": "骚动时节的少女们啊",
+   "titleJa": "荒ぶる季節の乙女どもよ。",
+   "titleEn": "O Maidens in Your Savage Season",
+   "bgmId": 268070,
+   "aniListId": 105932,
+   "date": "2019-07-05"
+  },
+  {
+   "titleZh": "喜欢本大爷的竟然就你一个？",
+   "titleJa": "俺を好きなのはお前だけかよ",
+   "titleEn": "ORESUKI: Are you the only one who loves me?",
+   "bgmId": 262943,
+   "aniListId": 104464,
+   "date": "2019-10-02"
+  },
+  {
+   "titleZh": "我们真的学不来",
+   "titleJa": "ぼくたちは勉強ができない",
+   "titleEn": "We Never Learn: BOKUBEN",
+   "bgmId": 257369,
+   "aniListId": 103900,
+   "date": "2019-04-06"
+  },
+  {
+   "titleZh": "CAROLE & TUESDAY",
+   "titleJa": "キャロル＆チューズデイ",
+   "titleEn": "Carole & Tuesday",
+   "bgmId": 239912,
+   "aniListId": 101281,
+   "date": "2019-04-10"
+  },
+  {
+   "titleZh": "炎炎消防队",
+   "titleJa": "炎炎ノ消防隊",
+   "titleEn": "Fire Force",
+   "bgmId": 266372,
+   "aniListId": 105310,
+   "date": "2019-07-05"
+  },
+  {
+   "titleZh": "川柳少女",
+   "titleJa": "川柳少女",
+   "titleEn": "Senryu Girl",
+   "bgmId": 268510,
+   "aniListId": 106051,
+   "date": "2019-04-05"
+  },
+  {
+   "titleZh": "我，不是说了能力要平均值么！",
+   "titleJa": "私、能力は平均値でって言ったよね！",
+   "titleEn": "Didn't I Say to Make My Abilities Average in the Next Life?!",
+   "bgmId": 238962,
+   "aniListId": 101227,
+   "date": "2019-10-07"
+  },
+  {
+   "titleZh": "笨拙之极的上野",
+   "titleJa": "上野さんは不器用",
+   "titleEn": "How clumsy you are, Miss Ueno.",
+   "bgmId": 247417,
+   "aniListId": 101773,
+   "date": "2019-01-06"
+  },
+  {
+   "titleZh": "入间同学入魔了",
+   "titleJa": "魔入りました！入間くん",
+   "titleEn": "Welcome to Demon School! Iruma-kun",
+   "bgmId": 273844,
+   "aniListId": 107693,
+   "date": "2019-10-05"
+  },
+  {
+   "titleZh": "淫乱的青酱不能学习",
+   "titleJa": "みだらな青ちゃんは勉強ができない",
+   "titleEn": "Ao-chan Can't Study!",
+   "bgmId": 268412,
+   "aniListId": 105989,
+   "date": "2019-04-05"
+  },
+  {
+   "titleZh": "你遭难了吗？",
+   "titleJa": "ソウナンですか？",
+   "titleEn": "Are You Lost?",
+   "bgmId": 276187,
+   "aniListId": 108111,
+   "date": "2019-07-02"
+  },
+  {
+   "titleZh": "烟草",
+   "titleJa": "ケムリクサ",
+   "titleEn": "kemurikusa.",
+   "bgmId": 237423,
+   "aniListId": 101123,
+   "date": "2019-01-09"
+  }
+ ],
+ "2020": [
+  {
+   "titleZh": "魔女之旅",
+   "titleJa": "魔女の旅々",
+   "titleEn": "Wandering Witch: The Journey of Elaina",
+   "bgmId": 292970,
+   "aniListId": 112609,
+   "date": "2020-10-02"
+  },
+  {
+   "titleZh": "咒术回战",
+   "titleJa": "呪術廻戦",
+   "titleEn": "JUJUTSU KAISEN",
+   "bgmId": 294993,
+   "aniListId": 113415,
+   "date": "2020-10-02"
+  },
+  {
+   "titleZh": "异种族风俗娘评鉴指南",
+   "titleJa": "異種族レビュアーズ",
+   "titleEn": "Interspecies Reviewers",
+   "bgmId": 285482,
+   "aniListId": 110270,
+   "date": "2020-01-11"
+  },
+  {
+   "titleZh": "异度侵入",
+   "titleJa": "ID:INVADED イド：インヴェイデッド",
+   "titleEn": "ID: INVADED",
+   "bgmId": 285776,
+   "aniListId": 110350,
+   "date": "2020-01-05"
+  },
+  {
+   "titleZh": "总之就是非常可爱",
+   "titleJa": "トニカクカワイイ",
+   "titleEn": "TONIKAWA: Over The Moon For You",
+   "bgmId": 301541,
+   "aniListId": 116267,
+   "date": "2020-10-02"
+  },
+  {
+   "titleZh": "虚构推理",
+   "titleJa": "虚構推理",
+   "titleEn": "In/Spectre",
+   "bgmId": 271687,
+   "aniListId": 107201,
+   "date": "2020-01-11"
+  },
+  {
+   "titleZh": "别对映像研出手！",
+   "titleJa": "映像研には手を出すな！",
+   "titleEn": "Keep Your Hands Off Eizouken!",
+   "bgmId": 282433,
+   "aniListId": 109298,
+   "date": "2020-01-05"
+  },
+  {
+   "titleZh": "因为太怕痛就全点防御力了。",
+   "titleJa": "痛いのは嫌なので防御力に極振りしたいと思います。",
+   "titleEn": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+   "bgmId": 268545,
+   "aniListId": 106479,
+   "date": "2020-01-08"
+  },
+  {
+   "titleZh": "安达与岛村",
+   "titleJa": "安達としまむら",
+   "titleEn": "Adachi and Shimamura",
+   "bgmId": 282372,
+   "aniListId": 109287,
+   "date": "2020-10-08"
+  },
+  {
+   "titleZh": "隐瞒之事",
+   "titleJa": "かくしごと",
+   "titleEn": "Kakushigoto",
+   "bgmId": 294713,
+   "aniListId": 113311,
+   "date": "2020-04-02"
+  },
+  {
+   "titleZh": "转生成为了只有乙女游戏破灭Flag的邪恶大小姐",
+   "titleJa": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
+   "titleEn": "My Next Life as a Villainess: All Routes Lead to Doom!",
+   "bgmId": 264089,
+   "aniListId": 104647,
+   "date": "2020-04-04"
+  },
+  {
+   "titleZh": "在魔王城说晚安",
+   "titleJa": "魔王城でおやすみ",
+   "titleEn": "Sleepy Princess in the Demon Castle",
+   "bgmId": 290426,
+   "aniListId": 111428,
+   "date": "2020-10-05"
+  },
+  {
+   "titleZh": "租借女友",
+   "titleJa": "彼女、お借りします",
+   "titleEn": "Rent-a-Girlfriend",
+   "bgmId": 296076,
+   "aniListId": 113813,
+   "date": "2020-07-10"
+  },
+  {
+   "titleZh": "无能的奈奈",
+   "titleJa": "無能なナナ",
+   "titleEn": "Talentless Nana",
+   "bgmId": 302418,
+   "aniListId": 117343,
+   "date": "2020-10-04"
+  },
+  {
+   "titleZh": "成神之日",
+   "titleJa": "神様になった日",
+   "titleEn": "The Day I Became a God",
+   "bgmId": 306429,
+   "aniListId": 118419,
+   "date": "2020-10-10"
+  },
+  {
+   "titleZh": "魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～",
+   "titleJa": "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～",
+   "titleEn": "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants",
+   "bgmId": 292222,
+   "aniListId": 112301,
+   "date": "2020-07-04"
+  },
+  {
+   "titleZh": "公主连结 Re:Dive",
+   "titleJa": "プリンセスコネクト！Re:Dive",
+   "titleEn": "Princess Connect! Re:Dive",
+   "bgmId": 274646,
+   "aniListId": 107871,
+   "date": "2020-04-06"
+  },
+  {
+   "titleZh": "理科生坠入情网，故尝试证明。",
+   "titleJa": "理系が恋に落ちたので証明してみた。",
+   "titleEn": "Science Fell in Love, So I Tried to Prove It",
+   "bgmId": 271145,
+   "aniListId": 107067,
+   "date": "2020-01-10"
+  },
+  {
+   "titleZh": "恋爱小行星",
+   "titleJa": "恋する小惑星",
+   "titleEn": "Asteroid in Love",
+   "bgmId": 276150,
+   "aniListId": 108092,
+   "date": "2020-01-03"
+  },
+  {
+   "titleZh": "昨日之歌",
+   "titleJa": "イエスタデイをうたって",
+   "titleEn": "SING \"YESTERDAY\" FOR ME",
+   "bgmId": 280516,
+   "aniListId": 109020,
+   "date": "2020-04-04"
+  },
+  {
+   "titleZh": "异兽魔都",
+   "titleJa": "ドロヘドロ",
+   "titleEn": "Dorohedoro",
+   "bgmId": 266301,
+   "aniListId": 105228,
+   "date": "2020-01-12"
+  },
+  {
+   "titleZh": "地缚少年花子君",
+   "titleJa": "地縛少年花子くん",
+   "titleEn": "Toilet-bound Hanako-kun",
+   "bgmId": 277551,
+   "aniListId": 108463,
+   "date": "2020-01-09"
+  },
+  {
+   "titleZh": "魔法纪录 魔法少女小圆外传",
+   "titleJa": "マギアレコード 魔法少女まどか☆マギカ外伝",
+   "titleEn": "Magia Record: Puella Magi Madoka Magica Side Story",
+   "bgmId": 159690,
+   "aniListId": 104051,
+   "date": "2020-01-04"
+  },
+  {
+   "titleZh": "宇崎学妹想要玩！",
+   "titleJa": "宇崎ちゃんは遊びたい!",
+   "titleEn": "Uzaki-chan Wants to Hang Out!",
+   "bgmId": 299498,
+   "aniListId": 115113,
+   "date": "2020-07-10"
+  },
+  {
+   "titleZh": "全员恶玉",
+   "titleJa": "アクダマドライブ",
+   "titleEn": "Akudama Drive",
+   "bgmId": 302076,
+   "aniListId": 116566,
+   "date": "2020-10-08"
+  },
+  {
+   "titleZh": "大欺诈师",
+   "titleJa": "GREAT PRETENDER",
+   "titleEn": "Great Pretender",
+   "bgmId": 285813,
+   "aniListId": 110349,
+   "date": "2020-07-08"
+  },
+  {
+   "titleZh": "没落要塞",
+   "titleJa": "デカダンス",
+   "titleEn": "DECA-DENCE",
+   "bgmId": 285879,
+   "aniListId": 110353,
+   "date": "2020-07-08"
+  },
+  {
+   "titleZh": "动物新世代",
+   "titleJa": "BNA ビー・エヌ・エー",
+   "titleEn": "BNA",
+   "bgmId": 285905,
+   "aniListId": 110354,
+   "date": "2020-04-08"
+  },
+  {
+   "titleZh": "格莱普尼尔",
+   "titleJa": "グレイプニル",
+   "titleEn": "Gleipnir",
+   "bgmId": 276705,
+   "aniListId": 108241,
+   "date": "2020-04-05"
+  },
+  {
+   "titleZh": "听着这电波",
+   "titleJa": "波よ聞いてくれ",
+   "titleEn": "Wave, Listen to Me!",
+   "bgmId": 292359,
+   "aniListId": 112353,
+   "date": "2020-04-03"
+  }
+ ],
+ "2021": [
+  {
+   "titleZh": "无职转生～到了异世界就拿出真本事～",
+   "titleJa": "無職転生 ～異世界行ったら本気だす～",
+   "titleEn": "Mushoku Tensei: Jobless Reincarnation",
+   "bgmId": 277554,
+   "aniListId": 108465,
+   "date": "2021-01-10"
+  },
+  {
+   "titleZh": "奇巧计程车",
+   "titleJa": "オッドタクシー",
+   "titleEn": "ODDTAXI",
+   "bgmId": 325285,
+   "aniListId": 128547,
+   "date": "2021-04-05"
+  },
+  {
+   "titleZh": "86 -不存在的战区-",
+   "titleJa": "86―エイティシックス―",
+   "titleEn": "86 EIGHTY-SIX",
+   "bgmId": 302189,
+   "aniListId": 116589,
+   "date": "2021-04-10"
+  },
+  {
+   "titleZh": "赛马娘 Pretty Derby 第二季",
+   "titleJa": "ウマ娘 プリティーダービー Season 2",
+   "titleEn": "Umamusume: Pretty Derby Season 2",
+   "bgmId": 315574,
+   "aniListId": 124223,
+   "date": "2021-01-04"
+  },
+  {
+   "titleZh": "堀与宫村",
+   "titleJa": "ホリミヤ",
+   "titleEn": "Horimiya",
+   "bgmId": 315069,
+   "aniListId": 124080,
+   "date": "2021-01-09"
+  },
+  {
+   "titleZh": "回复术士的重来人生",
+   "titleJa": "回復術士のやり直し",
+   "titleEn": "Redo of Healer",
+   "bgmId": 295017,
+   "aniListId": 113425,
+   "date": "2021-01-13"
+  },
+  {
+   "titleZh": "SSSS.电光机王",
+   "titleJa": "SSSS.DYNAZENON",
+   "titleEn": "SSSS.DYNAZENON",
+   "bgmId": 296367,
+   "aniListId": 113950,
+   "date": "2021-04-02"
+  },
+  {
+   "titleZh": "漂流少年",
+   "titleJa": "Sonny Boy",
+   "titleEn": "Sonny Boy",
+   "bgmId": 332649,
+   "aniListId": 132126,
+   "date": "2021-07-15"
+  },
+  {
+   "titleZh": "奇蛋物语",
+   "titleJa": "ワンダーエッグ・プライオリティ",
+   "titleEn": "WONDER EGG PRIORITY",
+   "bgmId": 316607,
+   "aniListId": 124845,
+   "date": "2021-01-12"
+  },
+  {
+   "titleZh": "薇薇 -萤石眼之歌-",
+   "titleJa": "Vivy -Fluorite Eye's Song-",
+   "titleEn": "Vivy -Fluorite Eye's Song-",
+   "bgmId": 325286,
+   "aniListId": 128546,
+   "date": "2021-04-03"
+  },
+  {
+   "titleZh": "世界顶尖的暗杀者转生为异世界贵族",
+   "titleJa": "世界最高の暗殺者、異世界貴族に転生する",
+   "titleEn": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+   "bgmId": 328313,
+   "aniListId": 129898,
+   "date": "2021-10-06"
+  },
+  {
+   "titleZh": "古见同学有交流障碍症",
+   "titleJa": "古見さんは、コミュ症です。",
+   "titleEn": "Komi Can’t Communicate",
+   "bgmId": 335225,
+   "aniListId": 133965,
+   "date": "2021-10-06"
+  },
+  {
+   "titleZh": "异世界迷宫黑心企业",
+   "titleJa": "迷宮ブラックカンパニー",
+   "titleEn": "The Dungeon of Black Company",
+   "bgmId": 309668,
+   "aniListId": 120608,
+   "date": "2021-07-09"
+  },
+  {
+   "titleZh": "致不灭的你",
+   "titleJa": "不滅のあなたへ",
+   "titleEn": "To Your Eternity",
+   "bgmId": 297954,
+   "aniListId": 114535,
+   "date": "2021-04-12"
+  },
+  {
+   "titleZh": "国王排名",
+   "titleJa": "王様ランキング",
+   "titleEn": "Ranking of Kings",
+   "bgmId": 296109,
+   "aniListId": 113717,
+   "date": "2021-10-14"
+  },
+  {
+   "titleZh": "工作细胞BLACK",
+   "titleJa": "はたらく細胞BLACK",
+   "titleEn": "Cells at Work! CODE BLACK",
+   "bgmId": 304065,
+   "aniListId": 117533,
+   "date": "2021-01-09"
+  },
+  {
+   "titleZh": "转生成蜘蛛又怎样！",
+   "titleJa": "蜘蛛ですが、なにか?",
+   "titleEn": "So I'm a Spider, So What?",
+   "bgmId": 252782,
+   "aniListId": 103632,
+   "date": "2021-01-08"
+  },
+  {
+   "titleZh": "打了300年的史莱姆，不知不觉就练到了满级",
+   "titleJa": "スライム倒して300年、知らないうちにレベルMAXになってました",
+   "titleEn": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
+   "bgmId": 292969,
+   "aniListId": 112608,
+   "date": "2021-04-10"
+  },
+  {
+   "titleZh": "我们的重制人生",
+   "titleJa": "ぼくたちのリメイク",
+   "titleEn": "Remake Our Life!",
+   "bgmId": 296870,
+   "aniListId": 114065,
+   "date": "2021-07-03"
+  },
+  {
+   "titleZh": "平稳世代的韦驮天们",
+   "titleJa": "平穏世代の韋駄天達",
+   "titleEn": "The Idaten Deities Know Only Peace",
+   "bgmId": 312723,
+   "aniListId": 122434,
+   "date": "2021-07-22"
+  },
+  {
+   "titleZh": "看得见的女孩",
+   "titleJa": "見える子ちゃん",
+   "titleEn": "Mieruko-chan",
+   "bgmId": 330973,
+   "aniListId": 131083,
+   "date": "2021-10-03"
+  },
+  {
+   "titleZh": "剃须。然后捡到女高中生。",
+   "titleJa": "ひげを剃る。そして女子高生を拾う。",
+   "titleEn": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
+   "bgmId": 297254,
+   "aniListId": 114232,
+   "date": "2021-04-05"
+  },
+  {
+   "titleZh": "关于前辈很烦人的事",
+   "titleJa": "先輩がうざい後輩の話",
+   "titleEn": "My Senpai is Annoying",
+   "bgmId": 309670,
+   "aniListId": 120646,
+   "date": "2021-10-09"
+  },
+  {
+   "titleZh": "巴克·亚罗",
+   "titleJa": "バック・アロウ",
+   "titleEn": "BACK ARROW",
+   "bgmId": 297396,
+   "aniListId": 114307,
+   "date": "2021-01-08"
+  },
+  {
+   "titleZh": "派遣战斗员！",
+   "titleJa": "戦闘員、派遣します！",
+   "titleEn": "Combatants Will Be Dispatched!",
+   "bgmId": 302190,
+   "aniListId": 116588,
+   "date": "2021-04-04"
+  },
+  {
+   "titleZh": "侦探已经死了。",
+   "titleJa": "探偵はもう、死んでいる。",
+   "titleEn": "The Detective Is Already Dead",
+   "bgmId": 325727,
+   "aniListId": 128712,
+   "date": "2021-07-04"
+  },
+  {
+   "titleZh": "宿命回响：命运节拍",
+   "titleJa": "takt op.Destiny",
+   "titleEn": "takt op.Destiny",
+   "bgmId": 331535,
+   "aniListId": 131565,
+   "date": "2021-10-05"
+  },
+  {
+   "titleZh": "女友成堆",
+   "titleJa": "カノジョも彼女",
+   "titleEn": "Girlfriend, Girlfriend",
+   "bgmId": 319513,
+   "aniListId": 126192,
+   "date": "2021-07-02"
+  },
+  {
+   "titleZh": "白沙的水族馆",
+   "titleJa": "白い砂のアクアトープ",
+   "titleEn": "The aquatope on white sand",
+   "bgmId": 325281,
+   "aniListId": 128545,
+   "date": "2021-07-08"
+  },
+  {
+   "titleZh": "弱角友崎同学",
+   "titleJa": "弱キャラ友崎くん",
+   "titleEn": "Bottom-Tier Character Tomozaki",
+   "bgmId": 292527,
+   "aniListId": 112443,
+   "date": "2021-01-08"
+  }
+ ],
+ "2022": [
+  {
+   "titleZh": "孤独摇滚！",
+   "titleJa": "ぼっち・ざ・ろっく！",
+   "titleEn": "BOCCHI THE ROCK!",
+   "bgmId": 328609,
+   "aniListId": 130003,
+   "date": "2022-10-08"
+  },
+  {
+   "titleZh": "间谍过家家",
+   "titleJa": "SPY×FAMILY",
+   "titleEn": "SPY x FAMILY",
+   "bgmId": 329906,
+   "aniListId": 140960,
+   "date": "2022-04-09"
+  },
+  {
+   "titleZh": "夏日重现",
+   "titleJa": "サマータイムレンダ",
+   "titleEn": "Summer Time Rendering",
+   "bgmId": 326895,
+   "aniListId": 129201,
+   "date": "2022-04-14"
+  },
+  {
+   "titleZh": "异世界舅舅",
+   "titleJa": "異世界おじさん",
+   "titleEn": "Uncle from Another World",
+   "bgmId": 339326,
+   "aniListId": 135806,
+   "date": "2022-07-06"
+  },
+  {
+   "titleZh": "莉可丽丝",
+   "titleJa": "リコリス・リコイル",
+   "titleEn": "Lycoris Recoil",
+   "bgmId": 364450,
+   "aniListId": 143270,
+   "date": "2022-07-02"
+  },
+  {
+   "titleZh": "更衣人偶坠入爱河",
+   "titleJa": "その着せ替え人形は恋をする",
+   "titleEn": "My Dress-Up Darling",
+   "bgmId": 333158,
+   "aniListId": 132405,
+   "date": "2022-01-08"
+  },
+  {
+   "titleZh": "链锯人",
+   "titleJa": "チェンソーマン",
+   "titleEn": "Chainsaw Man",
+   "bgmId": 321885,
+   "aniListId": 127230,
+   "date": "2022-10-11"
+  },
+  {
+   "titleZh": "想要成为影之实力者！",
+   "titleJa": "陰の実力者になりたくて！",
+   "titleEn": "The Eminence in Shadow",
+   "bgmId": 329114,
+   "aniListId": 130298,
+   "date": "2022-10-05"
+  },
+  {
+   "titleZh": "彻夜之歌",
+   "titleJa": "よふかしのうた",
+   "titleEn": "Call of the Night",
+   "bgmId": 356774,
+   "aniListId": 141391,
+   "date": "2022-07-07"
+  },
+  {
+   "titleZh": "相合之物",
+   "titleJa": "であいもん",
+   "titleEn": "Deaimon: Recipe for Happiness",
+   "bgmId": 333664,
+   "aniListId": 132532,
+   "date": "2022-04-06"
+  },
+  {
+   "titleZh": "派对浪客诸葛孔明",
+   "titleJa": "パリピ孔明",
+   "titleEn": "Ya Boy Kongming!",
+   "bgmId": 356756,
+   "aniListId": 141774,
+   "date": "2022-04-05"
+  },
+  {
+   "titleZh": "JOJO的奇妙冒险 石之海",
+   "titleJa": "ジョジョの奇妙な冒険 ストーンオーシャン",
+   "titleEn": "JoJo's Bizarre Adventure: STONE OCEAN Part 2",
+   "bgmId": 332261,
+   "aniListId": 146722,
+   "date": "2022-01-07"
+  },
+  {
+   "titleZh": "明日同学的水手服",
+   "titleJa": "明日ちゃんのセーラー服",
+   "titleEn": "Akebi’s Sailor Uniform",
+   "bgmId": 331480,
+   "aniListId": 131548,
+   "date": "2022-01-08"
+  },
+  {
+   "titleZh": "机动战士高达 水星的魔女",
+   "titleJa": "機動戦士ガンダム 水星の魔女",
+   "titleEn": "Mobile Suit Gundam: The Witch from Mercury",
+   "bgmId": 349441,
+   "aniListId": 139274,
+   "date": "2022-10-02"
+  },
+  {
+   "titleZh": "不道德公会",
+   "titleJa": "不徳のギルド",
+   "titleEn": "Immoral Guild",
+   "bgmId": 373712,
+   "aniListId": 146233,
+   "date": "2022-10-05"
+  },
+  {
+   "titleZh": "秋叶原冥途战争",
+   "titleJa": "アキバ冥途戦争",
+   "titleEn": "Akiba Maid War",
+   "bgmId": 389450,
+   "aniListId": 151379,
+   "date": "2022-10-06"
+  },
+  {
+   "titleZh": "恋爱FLOPS",
+   "titleJa": "恋愛フロップス",
+   "titleEn": "LOVE FLOPS",
+   "bgmId": 375735,
+   "aniListId": 146676,
+   "date": "2022-10-12"
+  },
+  {
+   "titleZh": "测不准的阿波连同学",
+   "titleJa": "阿波連さんははかれない",
+   "titleEn": "Aharen-san wa Hakarenai",
+   "bgmId": 343656,
+   "aniListId": 137281,
+   "date": "2022-04-01"
+  },
+  {
+   "titleZh": "继母的拖油瓶是我的前女友",
+   "titleJa": "継母の連れ子が元カノだった",
+   "titleEn": "My Stepmom's Daughter is My Ex",
+   "bgmId": 343106,
+   "aniListId": 136934,
+   "date": "2022-07-06"
+  },
+  {
+   "titleZh": "天才王子的赤字国家振兴术",
+   "titleJa": "天才王子の赤字国家再生術",
+   "titleEn": "The Genius Prince's Guide to Raising a Nation Out of Debt",
+   "bgmId": 326868,
+   "aniListId": 129190,
+   "date": "2022-01-11"
+  },
+  {
+   "titleZh": "平家物语",
+   "titleJa": "平家物語",
+   "titleEn": "The Heike Story",
+   "bgmId": 348335,
+   "aniListId": 138714,
+   "date": "2022-01-12"
+  },
+  {
+   "titleZh": "少女手工",
+   "titleJa": "Do It Yourself!! -どぅー・いっと・ゆあせるふ-",
+   "titleEn": "Do It Yourself!!",
+   "bgmId": 331445,
+   "aniListId": 131516,
+   "date": "2022-10-05"
+  },
+  {
+   "titleZh": "死神 千年血战篇",
+   "titleJa": "BLEACH 千年血戦篇",
+   "titleEn": "BLEACH: Thousand-Year Blood War",
+   "bgmId": 302286,
+   "aniListId": 116674,
+   "date": "2022-10-10"
+  },
+  {
+   "titleZh": "与成为异世界美少女的大叔一起",
+   "titleJa": "異世界美少女受肉おじさんと",
+   "titleEn": "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout",
+   "bgmId": 336458,
+   "aniListId": 134252,
+   "date": "2022-01-11"
+  },
+  {
+   "titleZh": "式守同学不只可爱而已",
+   "titleJa": "可愛いだけじゃない式守さん",
+   "titleEn": "Shikimori's Not Just a Cutie",
+   "bgmId": 324295,
+   "aniListId": 127911,
+   "date": "2022-04-09"
+  },
+  {
+   "titleZh": "处刑少女的生存之道",
+   "titleJa": "処刑少女の生きる道",
+   "titleEn": "The Executioner and Her Way of Life",
+   "bgmId": 326871,
+   "aniListId": 129193,
+   "date": "2022-04-01"
+  },
+  {
+   "titleZh": "秘密内幕～女子警察的逆袭～",
+   "titleJa": "ハコヅメ～交番女子の逆襲～",
+   "titleEn": "Police in a Pod",
+   "bgmId": 344422,
+   "aniListId": 137312,
+   "date": "2022-01-05"
+  },
+  {
+   "titleZh": "女孩的钓鱼慢活",
+   "titleJa": "スローループ",
+   "titleEn": "Slow Loop",
+   "bgmId": 323626,
+   "aniListId": 127549,
+   "date": "2022-01-07"
+  },
+  {
+   "titleZh": "转生就是剑",
+   "titleJa": "転生したら剣でした",
+   "titleEn": "Reincarnated as a Sword",
+   "bgmId": 350224,
+   "aniListId": 139587,
+   "date": "2022-10-05"
+  },
+  {
+   "titleZh": "恋爱游戏世界对路人角色很不友好",
+   "titleJa": "乙女ゲー世界はモブに厳しい世界です",
+   "titleEn": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+   "bgmId": 359980,
+   "aniListId": 142074,
+   "date": "2022-04-03"
+  }
+ ],
+ "2023": [
+  {
+   "titleZh": "葬送的芙莉莲",
+   "titleJa": "葬送のフリーレン",
+   "titleEn": "Frieren: Beyond Journey’s End",
+   "bgmId": 400602,
+   "aniListId": 154587,
+   "date": "2023-09-29"
+  },
+  {
+   "titleZh": "BanG Dream! It's MyGO!!!!!",
+   "titleJa": "BanG Dream! It's MyGO!!!!!",
+   "titleEn": "BanG Dream! It's MyGO!!!!!",
+   "bgmId": 428735,
+   "aniListId": 163571,
+   "date": "2023-06-29"
+  },
+  {
+   "titleZh": "【我推的孩子】",
+   "titleJa": "【推しの子】",
+   "titleEn": "OSHI NO KO",
+   "bgmId": 386809,
+   "aniListId": 150672,
+   "date": "2023-04-12"
+  },
+  {
+   "titleZh": "别当欧尼酱了！",
+   "titleJa": "お兄ちゃんはおしまい！",
+   "titleEn": "ONIMAI: I'm Now Your Sister!",
+   "bgmId": 378862,
+   "aniListId": 147864,
+   "date": "2023-01-05"
+  },
+  {
+   "titleZh": "我心里危险的东西",
+   "titleJa": "僕の心のヤバイやつ",
+   "titleEn": "The Dangers in My Heart",
+   "bgmId": 394260,
+   "aniListId": 153152,
+   "date": "2023-04-01"
+  },
+  {
+   "titleZh": "天国大魔境",
+   "titleJa": "天国大魔境",
+   "titleEn": "Tengoku Daimakyo",
+   "bgmId": 404804,
+   "aniListId": 155783,
+   "date": "2023-04-01"
+  },
+  {
+   "titleZh": "药屋少女的呢喃",
+   "titleJa": "薬屋のひとりごと",
+   "titleEn": "The Apothecary Diaries",
+   "bgmId": 420628,
+   "aniListId": 161645,
+   "date": "2023-10-21"
+  },
+  {
+   "titleZh": "超超超超超喜欢你的100个女朋友",
+   "titleJa": "君のことが大大大大大好きな100人の彼女",
+   "titleEn": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
+   "bgmId": 424379,
+   "aniListId": 162694,
+   "date": "2023-10-08"
+  },
+  {
+   "titleZh": "跃动青春",
+   "titleJa": "スキップとローファー",
+   "titleEn": "Skip and Loafer",
+   "bgmId": 357961,
+   "aniListId": 141911,
+   "date": "2023-04-04"
+  },
+  {
+   "titleZh": "转生公主与天才千金的魔法革命",
+   "titleJa": "転生王女と天才令嬢の魔法革命",
+   "titleEn": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+   "bgmId": 395714,
+   "aniListId": 153629,
+   "date": "2023-01-04"
+  },
+  {
+   "titleZh": "无神世界的神明活动",
+   "titleJa": "神無き世界のカミサマ活動",
+   "titleEn": "KamiKatsu: Working for God in a Godless World",
+   "bgmId": 377607,
+   "aniListId": 148048,
+   "date": "2023-04-05"
+  },
+  {
+   "titleZh": "16bit的感动 ANOTHER LAYER",
+   "titleJa": "16bitセンセーション ANOTHER LAYER",
+   "titleEn": "16bit Sensation: Another Layer",
+   "bgmId": 413741,
+   "aniListId": 159559,
+   "date": "2023-10-04"
+  },
+  {
+   "titleZh": "命运-奇异赝品 黎明低语",
+   "titleJa": "Fate/strange Fake -Whispers of Dawn-",
+   "titleEn": "Fate/strange Fake -Whispers of Dawn-",
+   "bgmId": 402128,
+   "aniListId": 154966,
+   "date": "2023-07-02"
+  },
+  {
+   "titleZh": "僵尸百分百～在成为僵尸前要做的100件事～",
+   "titleJa": "ゾン100～ゾンビになるまでにしたい100のこと～",
+   "titleEn": "Zom 100: Bucket List of the Dead",
+   "bgmId": 414461,
+   "aniListId": 159831,
+   "date": "2023-07-09"
+  },
+  {
+   "titleZh": "白圣女与黑牧师",
+   "titleJa": "白聖女と黒牧師",
+   "titleEn": "Saint Cecilia & Pastor Lawrence",
+   "bgmId": 387822,
+   "aniListId": 150972,
+   "date": "2023-07-12"
+  },
+  {
+   "titleZh": "地狱乐",
+   "titleJa": "地獄楽",
+   "titleEn": "Hell’s Paradise",
+   "bgmId": 325808,
+   "aniListId": 128893,
+   "date": "2023-04-01"
+  },
+  {
+   "titleZh": "不死少女 杀人笑剧",
+   "titleJa": "アンデッドガール・マーダーファルス",
+   "titleEn": "Undead Murder Farce",
+   "bgmId": 425591,
+   "aniListId": 162983,
+   "date": "2023-07-05"
+  },
+  {
+   "titleZh": "家里蹲吸血姬的苦闷",
+   "titleJa": "ひきこまり吸血姫の悶々",
+   "titleEn": "The Vexations of a Shut-In Vampire Princess",
+   "bgmId": 414214,
+   "aniListId": 159808,
+   "date": "2023-10-07"
+  },
+  {
+   "titleZh": "关于邻家的天使大人不知不觉把我惯成了废人这档子事",
+   "titleJa": "お隣の天使様にいつの間にか駄目人間にされていた件",
+   "titleEn": "The Angel Next Door Spoils Me Rotten",
+   "bgmId": 364822,
+   "aniListId": 143338,
+   "date": "2023-01-07"
+  },
+  {
+   "titleZh": "不死不幸",
+   "titleJa": "アンデッドアンラック",
+   "titleEn": "Undead Unluck",
+   "bgmId": 397808,
+   "aniListId": 154116,
+   "date": "2023-10-06"
+  },
+  {
+   "titleZh": "放学后失眠的你",
+   "titleJa": "君は放課後インソムニア",
+   "titleEn": "Insomniacs After School",
+   "bgmId": 365437,
+   "aniListId": 143653,
+   "date": "2023-04-10"
+  },
+  {
+   "titleZh": "赛马娘 Pretty Derby 第三季",
+   "titleJa": "ウマ娘 プリティーダービー Season 3",
+   "titleEn": "Umamusume: Pretty Derby Season 3",
+   "bgmId": 407332,
+   "aniListId": 156632,
+   "date": "2023-10-04"
+  },
+  {
+   "titleZh": "异世界悠闲农家",
+   "titleJa": "異世界のんびり農家",
+   "titleEn": "Farming Life in Another World",
+   "bgmId": 376137,
+   "aniListId": 146850,
+   "date": "2023-01-06"
+  },
+  {
+   "titleZh": "星灵感应",
+   "titleJa": "星屑テレパス",
+   "titleEn": "Stardust Telepath",
+   "bgmId": 404115,
+   "aniListId": 155419,
+   "date": "2023-10-09"
+  },
+  {
+   "titleZh": "久保同学不放过我",
+   "titleJa": "久保さんは僕を許さない",
+   "titleEn": "Kubo Won't Let Me Be Invisible",
+   "bgmId": 381793,
+   "aniListId": 148969,
+   "date": "2023-01-10"
+  },
+  {
+   "titleZh": "物理魔法使马修",
+   "titleJa": "マッシュル-MASHLE-",
+   "titleEn": "MASHLE: MAGIC AND MUSCLES",
+   "bgmId": 389571,
+   "aniListId": 151801,
+   "date": "2023-04-07"
+  },
+  {
+   "titleZh": "无意间变成狗，被喜欢的女生捡回家。",
+   "titleJa": "犬になったら好きな人に拾われた。",
+   "titleEn": "My Life as Inukai-san’s Dog",
+   "bgmId": 374319,
+   "aniListId": 146346,
+   "date": "2023-01-06"
+  },
+  {
+   "titleZh": "尼尔：自动人形 Ver1.1a",
+   "titleJa": "NieR: Automata Ver1.1a",
+   "titleEn": "NieR:Automata Ver1.1a",
+   "bgmId": 368116,
+   "aniListId": 145665,
+   "date": "2023-01-07"
+  },
+  {
+   "titleZh": "万事屋斋藤、到异世界",
+   "titleJa": "便利屋斎藤さん、異世界に行く",
+   "titleEn": "Handyman Saitou in Another World",
+   "bgmId": 366165,
+   "aniListId": 144092,
+   "date": "2023-01-08"
+  },
+  {
+   "titleZh": "拥有超常技能的异世界流浪美食家",
+   "titleJa": "とんでもスキルで異世界放浪メシ",
+   "titleEn": "Campfire Cooking in Another World with my Absurd Skill",
+   "bgmId": 393238,
+   "aniListId": 156067,
+   "date": "2023-01-10"
+  }
+ ],
+ "2024": [
+  {
+   "titleZh": "败犬女主太多了！",
+   "titleJa": "負けヒロインが多すぎる！",
+   "titleEn": "Makeine: Too Many Losing Heroines!",
+   "bgmId": 464376,
+   "aniListId": 171457,
+   "date": "2024-07-13"
+  },
+  {
+   "titleZh": "少女乐队的呐喊",
+   "titleJa": "ガールズバンドクライ",
+   "titleEn": "Girls Band Cry",
+   "bgmId": 431767,
+   "aniListId": 164212,
+   "date": "2024-04-05"
+  },
+  {
+   "titleZh": "迷宫饭",
+   "titleJa": "ダンジョン飯",
+   "titleEn": "Delicious in Dungeon",
+   "bgmId": 395378,
+   "aniListId": 153518,
+   "date": "2024-01-04"
+  },
+  {
+   "titleZh": "胆大党",
+   "titleJa": "ダンダダン",
+   "titleEn": "DAN DA DAN",
+   "bgmId": 467461,
+   "aniListId": 171018,
+   "date": "2024-10-03"
+  },
+  {
+   "titleZh": "不时轻声地以俄语遮羞的邻座艾莉同学",
+   "titleJa": "時々ボソッとロシア語でデレる隣のアーリャさん",
+   "titleEn": "Alya Sometimes Hides Her Feelings in Russian",
+   "bgmId": 424883,
+   "aniListId": 162804,
+   "date": "2024-07-03"
+  },
+  {
+   "titleZh": "义妹生活",
+   "titleJa": "義妹生活",
+   "titleEn": "Days with My Stepsister",
+   "bgmId": 393037,
+   "aniListId": 152681,
+   "date": "2024-07-04"
+  },
+  {
+   "titleZh": "我独自升级",
+   "titleJa": "俺だけレベルアップな件",
+   "titleEn": "Solo Leveling",
+   "bgmId": 390353,
+   "aniListId": 151807,
+   "date": "2024-01-06"
+  },
+  {
+   "titleZh": "夜晚的水母不会游泳",
+   "titleJa": "夜のクラゲは泳げない",
+   "titleEn": "Jellyfish Can’t Swim in the Night",
+   "bgmId": 425909,
+   "aniListId": 163078,
+   "date": "2024-04-06"
+  },
+  {
+   "titleZh": "小市民系列",
+   "titleJa": "小市民シリーズ",
+   "titleEn": "SHOSHIMIN: How to Become Ordinary",
+   "bgmId": 474906,
+   "aniListId": 173295,
+   "date": "2024-07-06"
+  },
+  {
+   "titleZh": "青之箱",
+   "titleJa": "アオのハコ",
+   "titleEn": "Blue Box",
+   "bgmId": 460306,
+   "aniListId": 170942,
+   "date": "2024-10-03"
+  },
+  {
+   "titleZh": "魔都精兵的奴隶",
+   "titleJa": "魔都精兵のスレイブ",
+   "titleEn": "Chained Soldier",
+   "bgmId": 357962,
+   "aniListId": 141821,
+   "date": "2024-01-04"
+  },
+  {
+   "titleZh": "鹿乃子乃子乃子虎视眈眈",
+   "titleJa": "しかのこのこのここしたんたん",
+   "titleEn": "My Deer Friend Nokotan",
+   "bgmId": 484761,
+   "aniListId": 175977,
+   "date": "2024-07-07"
+  },
+  {
+   "titleZh": "末日列车去哪里？",
+   "titleJa": "終末トレインどこへいく？",
+   "titleEn": "Train to the End of the World",
+   "bgmId": 404809,
+   "aniListId": 155657,
+   "date": "2024-04-01"
+  },
+  {
+   "titleZh": "亚托莉 -我挚爱的时光-",
+   "titleJa": "ATRI -My Dear Moments-",
+   "titleEn": "ATRI -My Dear Moments-",
+   "bgmId": 397604,
+   "aniListId": 154963,
+   "date": "2024-07-13"
+  },
+  {
+   "titleZh": "深夜重拳",
+   "titleJa": "真夜中ぱんチ",
+   "titleEn": "MAYONAKA PUNCH",
+   "bgmId": 477207,
+   "aniListId": 174044,
+   "date": "2024-07-08"
+  },
+  {
+   "titleZh": "失忆投捕",
+   "titleJa": "忘却バッテリー",
+   "titleEn": "Oblivion Battery",
+   "bgmId": 448478,
+   "aniListId": 167927,
+   "date": "2024-04-09"
+  },
+  {
+   "titleZh": "擅长逃跑的殿下",
+   "titleJa": "逃げ上手の若君",
+   "titleEn": "The Elusive Samurai",
+   "bgmId": 424573,
+   "aniListId": 162896,
+   "date": "2024-07-06"
+  },
+  {
+   "titleZh": "地。 ―关于地球的运动―",
+   "titleJa": "チ。 ―地球の運動について―",
+   "titleEn": "Orb: On the Movements of the Earth",
+   "bgmId": 389156,
+   "aniListId": 151514,
+   "date": "2024-10-05"
+  },
+  {
+   "titleZh": "乱马1/2",
+   "titleJa": "らんま1/2",
+   "titleEn": "Ranma1/2 (2024)",
+   "bgmId": 489820,
+   "aniListId": 178533,
+   "date": "2024-10-05"
+  },
+  {
+   "titleZh": "2.5次元的诱惑",
+   "titleJa": "2.5次元の誘惑",
+   "titleEn": "2.5 Dimensional Seduction",
+   "bgmId": 410346,
+   "aniListId": 158559,
+   "date": "2024-07-05"
+  },
+  {
+   "titleZh": "怪人的沙拉碗",
+   "titleJa": "変人のサラダボウル",
+   "titleEn": "A Salad Bowl of Eccentrics",
+   "bgmId": 444403,
+   "aniListId": 166828,
+   "date": "2024-04-04"
+  },
+  {
+   "titleZh": "杖与剑的魔剑谭",
+   "titleJa": "杖と剣のウィストリア",
+   "titleEn": "Wistoria: Wand and Sword",
+   "bgmId": 479477,
+   "aniListId": 174576,
+   "date": "2024-07-07"
+  },
+  {
+   "titleZh": "悲喜渔生",
+   "titleJa": "ネガポジアングラー",
+   "titleEn": "Negative Positive Angler",
+   "bgmId": 505895,
+   "aniListId": 179919,
+   "date": "2024-10-03"
+  },
+  {
+   "titleZh": "怪兽8号",
+   "titleJa": "怪獣8号",
+   "titleEn": "Kaiju No. 8",
+   "bgmId": 394623,
+   "aniListId": 153288,
+   "date": "2024-04-13"
+  },
+  {
+   "titleZh": "公主大人“拷问”的时间到了",
+   "titleJa": "姫様“拷問”の時間です",
+   "titleEn": "'Tis Time for \"Torture,\" Princess",
+   "bgmId": 443112,
+   "aniListId": 166522,
+   "date": "2024-01-08"
+  },
+  {
+   "titleZh": "转生为第七王子，随心所欲的魔法学习之路",
+   "titleJa": "転生したら第七王子だったので、気ままに魔術を極めます",
+   "titleEn": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
+   "bgmId": 407133,
+   "aniListId": 156415,
+   "date": "2024-04-01"
+  },
+  {
+   "titleZh": "魔王2099",
+   "titleJa": "魔王2099",
+   "titleEn": "DEMON LORD 2099",
+   "bgmId": 425991,
+   "aniListId": 163135,
+   "date": "2024-10-12"
+  },
+  {
+   "titleZh": "噗妮露是可爱史莱姆",
+   "titleJa": "ぷにるはかわいいスライム",
+   "titleEn": "Puniru is a Kawaii Slime",
+   "bgmId": 470045,
+   "aniListId": 171400,
+   "date": "2024-10-06"
+  },
+  {
+   "titleZh": "疑似后宫",
+   "titleJa": "疑似ハーレム",
+   "titleEn": "Pseudo Harem",
+   "bgmId": 428823,
+   "aniListId": 163623,
+   "date": "2024-07-04"
+  },
+  {
+   "titleZh": "秒杀外挂太强了，异世界的家伙们根本就不是对手。",
+   "titleJa": "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。",
+   "titleEn": "My Instant Death Ability is Overpowered",
+   "bgmId": 409441,
+   "aniListId": 158028,
+   "date": "2024-01-04"
+  }
+ ],
+ "2025": [
+  {
+   "titleZh": "拔作岛",
+   "titleJa": "ぬきたし THE ANIMATION",
+   "titleEn": "Nukitashi THE ANIMATION",
+   "bgmId": 477825,
+   "aniListId": 174188,
+   "date": "2025-07-18"
+  },
+  {
+   "titleZh": "末日后酒店",
+   "titleJa": "アポカリプスホテル",
+   "titleEn": "Apocalypse Hotel",
+   "bgmId": 509986,
+   "aniListId": 180675,
+   "date": "2025-04-08"
+  },
+  {
+   "titleZh": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
+   "titleJa": "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）",
+   "titleEn": "There's No Freaking Way I'll Be Your Lover! Unless…",
+   "bgmId": 524707,
+   "aniListId": 184591,
+   "date": "2025-07-07"
+  },
+  {
+   "titleZh": "金牌得主",
+   "titleJa": "メダリスト",
+   "titleEn": "Medalist",
+   "bgmId": 430699,
+   "aniListId": 165171,
+   "date": "2025-01-04"
+  },
+  {
+   "titleZh": "时光流逝，饭菜依旧美味",
+   "titleJa": "日々は過ぎれど飯うまし",
+   "titleEn": "Food for the Soul",
+   "bgmId": 531159,
+   "aniListId": 185939,
+   "date": "2025-04-12"
+  },
+  {
+   "titleZh": "琉璃的宝石",
+   "titleJa": "瑠璃の宝石",
+   "titleEn": "Ruri Rocks",
+   "bgmId": 512190,
+   "aniListId": 180929,
+   "date": "2025-07-06"
+  },
+  {
+   "titleZh": "小城日常",
+   "titleJa": "CITY THE ANIMATION",
+   "titleEn": "CITY THE ANIMATION",
+   "bgmId": 514358,
+   "aniListId": 181841,
+   "date": "2025-07-06"
+  },
+  {
+   "titleZh": "赛马娘 芦毛灰姑娘",
+   "titleJa": "ウマ娘 シンデレラグレイ",
+   "titleEn": "Umamusume: Cinderella Gray",
+   "bgmId": 509297,
+   "aniListId": 180516,
+   "date": "2025-04-06"
+  },
+  {
+   "titleZh": "薰香花朵凛然绽放",
+   "titleJa": "薫る花は凛と咲く",
+   "titleEn": "The Fragrant Flower Blooms With Dignity",
+   "bgmId": 513345,
+   "aniListId": 181444,
+   "date": "2025-07-05"
+  },
+  {
+   "titleZh": "Silent Witch 沉默魔女的秘密",
+   "titleJa": "サイレント・ウィッチ 沈黙の魔女の隠しごと",
+   "titleEn": "Secrets of the Silent Witch",
+   "bgmId": 506677,
+   "aniListId": 179966,
+   "date": "2025-07-04"
+  },
+  {
+   "titleZh": "mono女孩",
+   "titleJa": "mono",
+   "titleEn": "mono",
+   "bgmId": 485936,
+   "aniListId": 176246,
+   "date": "2025-04-12"
+  },
+  {
+   "titleZh": "魔女与使魔",
+   "titleJa": "ウィッチウォッチ",
+   "titleEn": "WITCH WATCH",
+   "bgmId": 506672,
+   "aniListId": 180367,
+   "date": "2025-04-06"
+  },
+  {
+   "titleZh": "古诺希亚",
+   "titleJa": "グノーシア",
+   "titleEn": "GNOSIA",
+   "bgmId": 526448,
+   "aniListId": 185116,
+   "date": "2025-10-11"
+  },
+  {
+   "titleZh": "明天，美食广场见。",
+   "titleJa": "フードコートで、また明日。",
+   "titleEn": "See You Tomorrow at the Food Court",
+   "bgmId": 528438,
+   "aniListId": 185519,
+   "date": "2025-07-07"
+  },
+  {
+   "titleZh": "摇滚乃是淑女的爱好",
+   "titleJa": "ロックは淑女の嗜みでして",
+   "titleEn": "Rock is a Lady’s Modesty",
+   "bgmId": 504678,
+   "aniListId": 179694,
+   "date": "2025-04-03"
+  },
+  {
+   "titleZh": "全修。",
+   "titleJa": "全修。",
+   "titleEn": "ZENSHU",
+   "bgmId": 486039,
+   "aniListId": 176273,
+   "date": "2025-01-05"
+  },
+  {
+   "titleZh": "忍者与杀手二人组的日常生活",
+   "titleJa": "忍者と殺し屋のふたりぐらし",
+   "titleEn": "A Ninja and an Assassin Under One Roof",
+   "bgmId": 491569,
+   "aniListId": 177120,
+   "date": "2025-04-10"
+  },
+  {
+   "titleZh": "对我垂涎欲滴的非人少女",
+   "titleJa": "私を喰べたい、ひとでなし",
+   "titleEn": "This Monster Wants to Eat Me",
+   "bgmId": 520842,
+   "aniListId": 183385,
+   "date": "2025-10-02"
+  },
+  {
+   "titleZh": "与游戏中心的少女异文化交流的故事",
+   "titleJa": "ゲーセン少女と異文化交流",
+   "titleEn": "Cultural Exchange with a Game Centre Girl",
+   "bgmId": 510256,
+   "aniListId": 180794,
+   "date": "2025-07-06"
+  },
+  {
+   "titleZh": "弹珠汽水瓶里的千岁同学",
+   "titleJa": "千歳くんはラムネ瓶のなか",
+   "titleEn": "Chitose Is in the Ramune Bottle",
+   "bgmId": 507634,
+   "aniListId": 180082,
+   "date": "2025-10-07"
+  },
+  {
+   "titleZh": "拉撒路",
+   "titleJa": "LAZARUS",
+   "titleEn": "LAZARUS",
+   "bgmId": 446296,
+   "aniListId": 167336,
+   "date": "2025-04-06"
+  },
+  {
+   "titleZh": "光死去的夏天",
+   "titleJa": "光が死んだ夏",
+   "titleEn": "The Summer Hikaru Died",
+   "bgmId": 496086,
+   "aniListId": 177689,
+   "date": "2025-07-05"
+  },
+  {
+   "titleZh": "中年上班族转生恶役",
+   "titleJa": "悪役令嬢転生おじさん",
+   "titleEn": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+   "bgmId": 473497,
+   "aniListId": 172453,
+   "date": "2025-01-09"
+  },
+  {
+   "titleZh": "坂本日常",
+   "titleJa": "SAKAMOTO DAYS",
+   "titleEn": "SAKAMOTO DAYS",
+   "bgmId": 496617,
+   "aniListId": 177709,
+   "date": "2025-01-11"
+  },
+  {
+   "titleZh": "九龙大众浪漫",
+   "titleJa": "九龍ジェネリックロマンス",
+   "titleEn": "KOWLOON GENERIC ROMANCE",
+   "bgmId": 518090,
+   "aniListId": 182814,
+   "date": "2025-04-05"
+  },
+  {
+   "titleZh": "Clevatess-魔兽之王与婴儿与尸之勇者-",
+   "titleJa": "クレバテス-魔獣の王と赤子と屍の勇者-",
+   "titleEn": "Clevatess",
+   "bgmId": 502142,
+   "aniListId": 178869,
+   "date": "2025-07-02"
+  },
+  {
+   "titleZh": "不良少女",
+   "titleJa": "ばっどがーる",
+   "titleEn": "Bad Girl",
+   "bgmId": 501614,
+   "aniListId": 178675,
+   "date": "2025-07-05"
+  },
+  {
+   "titleZh": "东岛丹三郎想成为假面骑士",
+   "titleJa": "東島丹三郎は仮面ライダーになりたい",
+   "titleEn": "Tojima Wants to Be a Kamen Rider",
+   "bgmId": 542203,
+   "aniListId": 187464,
+   "date": "2025-10-04"
+  },
+  {
+   "titleZh": "男女之间的友情存在吗？（不，不存在!!）",
+   "titleJa": "男女の友情は成立する？（いや、しないっ!!）",
+   "titleEn": "Can a Boy-Girl Friendship Survive?",
+   "bgmId": 395493,
+   "aniListId": 153554,
+   "date": "2025-04-04"
+  },
+  {
+   "titleZh": "前桥魔女",
+   "titleJa": "前橋ウィッチーズ",
+   "titleEn": "Maebashi Witches",
+   "bgmId": 511207,
+   "aniListId": 180825,
+   "date": "2025-04-06"
+  }
+ ]
+}

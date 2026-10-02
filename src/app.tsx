@@ -9,15 +9,24 @@ import { getPromptTemplate } from "./i18n"
 import type { SearchItem } from "./search-index"
 import { buildPrompt } from "./prompt"
 import { Changelog } from "./changelog"
+import {
+  HomeView,
+  ReviewView,
+  type ReviewItem,
+  type ReviewProgress,
+} from "./review"
 
 type YearRange = "5" | "10" | "15" | "all"
 
-/** 1 = 好评(绿)，2 = 中立(黄)，3 = 差评(红)；没有记录 = 没看过(白) */
-type Rating = 1 | 2 | 3
+/**
+ * 1 = 好评(绿)，2 = 中立(黄)，3 = 差评(红)，0 = 评过、明确没看过。
+ * 没有记录 = 还没处理过 —— 表格里 0 和「没记录」都是白的，但统计和进度能区分。
+ */
+type Rating = 0 | 1 | 2 | 3
 
 const yearRangeOptions: YearRange[] = ["5", "10", "15", "all"]
 const ratingCycle: Rating[] = [1, 2, 3]
-const ratingClassNames: Record<Rating, string> = {
+const ratingClassNames: Record<1 | 2 | 3, string> = {
   1: "bg-green-500",
   2: "bg-yellow-400",
   3: "bg-red-400",
@@ -86,12 +95,42 @@ const loadLegacyRatings = (): Record<string, Rating> => {
   }
 }
 
+/**
+ * 初始评级数据。优先级：V3(含"没看过") → V2(四态) → 更早的 key。
+ * 旧数据原样沿用，所以这次升级不会丢任何已有评级。
+ */
+const loadInitialRatings = (): Record<string, Rating> => {
+  try {
+    const v3 = localStorage.getItem("animeRatingsV3")
+    if (v3) return JSON.parse(v3)
+  } catch {}
+  try {
+    const v2 = localStorage.getItem("animeRatingsV2")
+    if (v2) return JSON.parse(v2)
+  } catch {}
+  return loadLegacyRatings()
+}
+
 export const App = () => {
   const { t, language } = useI18n()
   const [ratings, setRatings] = usePersistState<Record<string, Rating>>(
-    "animeRatingsV2",
-    loadLegacyRatings
+    "animeRatingsV3",
+    loadInitialRatings
   )
+
+  /** 当前视图：首页 / 逐部评测 / 表格总览 */
+  const [view, setView] = useState<"home" | "review" | "table">("home")
+
+  /** 评测池（780 部，约 76 KB）：懒加载，只有进评测模式才拉取 */
+  const [pool, setPool] = useState<Record<string, ReviewItem[]> | null>(null)
+  const poolPromise = useRef<Promise<Record<string, ReviewItem[]>> | null>(null)
+
+  /** 评测进度（做到哪一年的第几部），持久化 */
+  const [reviewProgress, setReviewProgress] =
+    usePersistState<ReviewProgress | null>("animeReviewProgress", null)
+
+  /** 本次进入评测模式的起点 */
+  const [reviewStart, setReviewStart] = useState<ReviewProgress | null>(null)
   const [yearRange, setYearRange] = usePersistState<YearRange>(
     "yearRange",
     "all"
@@ -163,10 +202,13 @@ export const App = () => {
       const base = animeData[year] || []
       const baseKeys = new Set(base.map((item) => item.titleZh))
       const extra = extras.filter((item) => {
+        const r = ratings[year + ":" + item.titleZh]
+        // 只把"评了好/中/差"的追加作品放进表格；明确没看过的(0)不占格子
         return (
           String(item.year) === year &&
           !baseKeys.has(item.titleZh) &&
-          ratings[year + ":" + item.titleZh] !== undefined
+          r !== undefined &&
+          r !== 0
         )
       })
       map.set(year, [
@@ -199,7 +241,8 @@ export const App = () => {
   }, [visibleAnimeKeys])
 
   const ratedVisibleAnimeCount = visibleAnimeKeys.filter((title) => {
-    return ratings[title] !== undefined
+    const r = ratings[title]
+    return r === 1 || r === 2 || r === 3
   }).length
 
   /** 当前表格里已经出现过的作品 */
@@ -263,6 +306,112 @@ export const App = () => {
     )
     setQuery("")
     window.setTimeout(() => flashCell(key), 150)
+  }
+
+  /** 评测池懒加载：进入评测模式前把 780 部拉下来 */
+  const ensurePool = useCallback(() => {
+    if (poolPromise.current) return poolPromise.current
+    const p = import("./review-data").then((m) => {
+      setPool(m.reviewPool)
+      return m.reviewPool
+    })
+    poolPromise.current = p
+    return p
+  }, [])
+
+  const startReview = (year: string) => {
+    setReviewStart({ year, index: 0 })
+    ensurePool().catch(() => {})
+    setView("review")
+  }
+
+  const continueReview = () => {
+    setReviewStart(reviewProgress ?? { year: allYears[0] ?? "2000", index: 0 })
+    ensurePool().catch(() => {})
+    setView("review")
+  }
+
+  /**
+   * 评测模式的一次评级。
+   * 0(没看过)只记录状态，不进表格；1/2/3 且在基础名单之外的作品会追加到对应年份行尾。
+   */
+  const handleRate = (year: string, item: ReviewItem, value: Rating) => {
+    const key = year + ":" + item.titleZh
+    setRatings((prev) => ({ ...prev, [key]: value }))
+    if (value === 0) return
+    const inBase = (animeData[year] || []).some((x) => x.titleZh === item.titleZh)
+    if (inBase) return
+    setExtras((prev) =>
+      prev.some((x) => x.year === Number(year) && x.titleZh === item.titleZh)
+        ? prev
+        : [
+            ...prev,
+            {
+              year: Number(year),
+              id: item.bgmId,
+              titleZh: item.titleZh,
+              titleEn: item.titleEn,
+              titleJa: item.titleJa,
+            },
+          ]
+    )
+  }
+
+  /** 导出：评级 + 追加作品 + 进度，一个 JSON 文件 */
+  const exportData = () => {
+    const payload = {
+      version: 3,
+      exportedAt: new Date().toISOString(),
+      ratings,
+      extras,
+      progress: reviewProgress,
+    }
+    const blob = new Blob([JSON.stringify(payload, null, 2)], {
+      type: "application/json",
+    })
+    const url = URL.createObjectURL(blob)
+    const a = document.createElement("a")
+    a.href = url
+    a.download = `anime-sedai-${new Date().toISOString().slice(0, 10)}.json`
+    a.click()
+    URL.revokeObjectURL(url)
+    toast.success(t("exportDone"))
+  }
+
+  const importFileRef = useRef<HTMLInputElement>(null)
+
+  /** 导入：与现有数据合并，同一个 key 以导入的为准 */
+  const importData = async (file: File) => {
+    try {
+      const parsed: unknown = JSON.parse(await file.text())
+      if (!parsed || typeof parsed !== "object") throw new Error("not an object")
+      const data = parsed as {
+        ratings?: Record<string, Rating>
+        extras?: SearchItem[]
+        progress?: ReviewProgress | null
+      }
+      if (!data.ratings || typeof data.ratings !== "object") {
+        throw new Error("missing ratings")
+      }
+      const incoming = Object.keys(data.ratings).length
+      setRatings((prev) => ({ ...prev, ...data.ratings }))
+      if (Array.isArray(data.extras)) {
+        const add = data.extras
+        setExtras((prev) => {
+          const seen = new Set(prev.map((x) => x.year + ":" + x.titleZh))
+          const fresh = add.filter((x) => x && !seen.has(x.year + ":" + x.titleZh))
+          return fresh.length ? [...prev, ...fresh] : prev
+        })
+      }
+      if (data.progress) setReviewProgress(data.progress)
+      toast.success(t("importDone", { count: incoming }))
+    } catch (e) {
+      toast.error(
+        t("importFailed", {
+          error: e instanceof Error ? e.message : String(e),
+        })
+      )
+    }
   }
 
   const getYearRangeLabel = (option: YearRange) => {
@@ -346,6 +495,35 @@ export const App = () => {
 
   const totalAnime = visibleAnimeKeys.length
 
+  if (view === "home") {
+    return (
+      <HomeView
+        progress={reviewProgress}
+        onStart={startReview}
+        onContinue={continueReview}
+        onOpenTable={() => setView("table")}
+      />
+    )
+  }
+
+  if (view === "review") {
+    if (!pool || !reviewStart) {
+      return <div className="p-16 text-center text-sm text-zinc-400">加载中…</div>
+    }
+    return (
+      <ReviewView
+        pool={pool}
+        years={allYears}
+        initial={reviewStart}
+        ratings={ratings}
+        onRate={handleRate}
+        onProgress={setReviewProgress}
+        onExit={() => setView("home")}
+        onOpenTable={() => setView("table")}
+      />
+    )
+  }
+
   return (
     <>
       <div className="flex flex-col gap-4 pb-10">
@@ -367,6 +545,13 @@ export const App = () => {
                 ))}
               </select>
             </div>
+            <button
+              type="button"
+              className="border rounded px-3 py-1 text-sm bg-white hover:bg-zinc-100 whitespace-nowrap"
+              onClick={continueReview}
+            >
+              {t("continueReview")}
+            </button>
             <LanguageToggle />
             <div className="relative w-full md:w-80">
               <input
@@ -497,7 +682,7 @@ export const App = () => {
                               p-1 overflow-hidden justify-center cursor-pointer 
                               ${language === "en" ? "text-xs" : "text-sm"} 
                               ${
-                                rating
+                                rating === 1 || rating === 2 || rating === 3
                                   ? ratingClassNames[rating]
                                   : "hover:bg-zinc-100"
                               }
@@ -662,6 +847,41 @@ export const App = () => {
             }}
           >
             {t("downloadImage")}
+          </button>
+
+          <button
+            type="button"
+            className="border rounded-md px-4 py-2 inline-flex"
+            onClick={exportData}
+          >
+            {t("exportData")}
+          </button>
+
+          <button
+            type="button"
+            className="border rounded-md px-4 py-2 inline-flex"
+            onClick={() => importFileRef.current?.click()}
+          >
+            {t("importData")}
+          </button>
+          <input
+            ref={importFileRef}
+            type="file"
+            accept="application/json,.json"
+            className="hidden"
+            onChange={(e) => {
+              const file = e.currentTarget.files?.[0]
+              e.currentTarget.value = ""
+              if (file) importData(file)
+            }}
+          />
+
+          <button
+            type="button"
+            className="border rounded-md px-4 py-2 inline-flex"
+            onClick={() => setView("home")}
+          >
+            {t("backHome")}
           </button>
         </div>
 

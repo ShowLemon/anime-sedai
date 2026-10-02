@@ -91,7 +91,50 @@ export const Changelog = () => (
       </section>
 
       <section className="space-y-2">
-        <h3 className="font-semibold text-zinc-800">四、数据来源</h3>
+        <h3 className="font-semibold text-zinc-800">
+          四、逐部评测模式（新增）
+        </h3>
+        <p>
+          表格要在一屏里放下 26 × 20
+          个格子，只靠标题很难立刻想起「这到底是哪一部」；一部部点下来也很费眼。
+          所以在表格之外新增了一条更轻松的录入路径。
+        </p>
+        <ul className="list-disc pl-5 space-y-1">
+          <li>
+            <b>评测池</b>：2000–2025 每年 <b>30 部</b>，共 780 部。前 20
+            部与表格里的名单逐部一致，第 21–30
+            部是热度顺位上的后续候选，只在评测时出现
+          </li>
+          <li>
+            <b>逐部过</b>：一屏一部，展示封面 + 中文名 + 日文原名 + 英文名，下方五个按钮 ——
+            看过好评 / 看过中评 / 看过差评 / 没看过 / 上一个
+          </li>
+          <li>
+            <b>键盘操作</b>：<code>1</code>/<code>2</code>/<code>3</code>/
+            <code>4</code> 对应四种选择，<code>←</code> 或退格回上一个，
+            <code>Esc</code> 退出；选完自动翻到下一部
+          </li>
+          <li>
+            <b>年度小结</b>：每年 30 部走完给一次小结，再决定继续下一年还是先回表格
+          </li>
+          <li>
+            <b>进度可续</b>：中途关掉页面也没关系，首页会出现「继续上次」
+          </li>
+          <li>
+            <b>结果回流表格</b>：评了好 / 中 / 差的第 21–30
+            部会追加到对应年份行尾，之后仍可在表格里改；选「没看过」的只记录状态，不占表格格子
+          </li>
+          <li>
+            <b>导入 / 导出</b>：评级、追加的作品与评测进度可导出为 JSON，用于备份或换设备
+          </li>
+          <li>
+            <b>封面本地化</b>：780 张封面打包在站点内（<code>public/covers/</code>），不依赖外部图床
+          </li>
+        </ul>
+      </section>
+
+      <section className="space-y-2">
+        <h3 className="font-semibold text-zinc-800">五、数据来源</h3>
         <ul className="list-disc pl-5 space-y-1">
           <li>
             榜单与评分：bgm.tv 官方 API（<code>api.bgm.tv/v0/search/subjects</code>）
@@ -101,7 +144,7 @@ export const Changelog = () => (
       </section>
 
       <section className="space-y-1">
-        <h3 className="font-semibold text-zinc-800">五、署名</h3>
+        <h3 className="font-semibold text-zinc-800">六、署名</h3>
         <p>
           表格创意与原始实现归{" "}
           <a

@@ -32,3 +32,11 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
 # Finder (MacOS) folder config
 .DS_Store
+
+# 本地交接文档与可重建的缓存（不同步到 GitHub）
+# 注意：data/pipeline-*.mjs 是流水线脚本，属于项目资产，不再忽略
+HANDOFF.md
+data/vendor/
+data/bgm-cover-urls.json
+data/bgm-search-cache.json
+data/cover-failures.json
