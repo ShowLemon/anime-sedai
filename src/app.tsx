@@ -1003,12 +1003,9 @@ export const App = () => {
             className="bg-white rounded-lg shadow-xl w-full max-w-2xl max-h-[80vh] flex flex-col"
             onClick={(e) => e.stopPropagation()}
           >
-            <div className="flex items-start gap-3 p-3 border-b">
-              <span className="font-semibold whitespace-nowrap">
+            <div className="flex items-center gap-3 p-3 border-b">
+              <span className="font-semibold whitespace-nowrap flex-1">
                 {t("viewData")}
-              </span>
-              <span className="flex-1 text-xs text-zinc-500 leading-relaxed">
-                {t("viewDataHint")}
               </span>
               <button
                 type="button"
