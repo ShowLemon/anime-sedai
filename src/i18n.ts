@@ -4,6 +4,7 @@ export const translations = {
   zh: {
     title: "动画世代",
     subtitle: "点击选择你看过的动画",
+    fillerLabel: "填表人：",
     watchedCount: "我看过 {{count}}/{{total}} 部动画",
     selectAll: "全选",
     clear: "清除",
@@ -86,6 +87,7 @@ export const translations = {
   en: {
     title: "Anime Sedai",
     subtitle: "Click to select anime you have watched",
+    fillerLabel: "Filled in by: ",
     watchedCount: "I have watched {{count}}/{{total}} anime",
     selectAll: "Select All",
     clear: "Clear",
@@ -168,6 +170,7 @@ export const translations = {
   ja: {
     title: "アニメ世代",
     subtitle: "見たアニメをタップして選択する",
+    fillerLabel: "記入者：",
     watchedCount: "{{count}}/{{total}} のアニメを見た",
     selectAll: "すべて選択",
     clear: "クリア",

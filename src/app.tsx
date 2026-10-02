@@ -118,6 +118,9 @@ export const App = () => {
     loadInitialRatings
   )
 
+  /** 表格头部的「填表人」，会跟着表格截图一起导出，所以持久化保存 */
+  const [filler, setFiller] = usePersistState<string>("animeFiller", "")
+
   /** 当前视图：首页 / 逐部评测 / 表格总览 */
   const [view, setView] = useState<"home" | "review" | "table">("home")
 
@@ -407,11 +410,12 @@ export const App = () => {
           ratings,
           extras,
           progress: reviewProgress,
+          filler,
         },
         null,
         2
       ),
-    [ratings, extras, reviewProgress]
+    [ratings, extras, reviewProgress, filler]
   )
 
   /** 导入：与现有数据合并，同一个 key 以导入的为准 */
@@ -423,6 +427,7 @@ export const App = () => {
         ratings?: Record<string, Rating>
         extras?: SearchItem[]
         progress?: ReviewProgress | null
+        filler?: string
       }
       if (!data.ratings || typeof data.ratings !== "object") {
         throw new Error("missing ratings")
@@ -438,6 +443,7 @@ export const App = () => {
         })
       }
       if (data.progress) setReviewProgress(data.progress)
+      if (typeof data.filler === "string") setFiller(data.filler)
       toast.success(t("importDone", { count: incoming }))
     } catch (e) {
       toast.error(
@@ -645,11 +651,27 @@ export const App = () => {
               className="flex flex-col border border-b-0 bg-white w-fit mx-auto"
               ref={wrapper}
             >
-              <div className="border-b justify-between p-2 text-lg  font-bold flex">
-                <h1>
-                  {t("title")}
-                  <span className="remove"> - {t("subtitle")}</span>
-                </h1>
+              <div className="border-b flex items-center justify-between gap-4 p-2 text-lg font-bold">
+                <div className="flex items-center gap-3 min-w-0">
+                  <h1 className="shrink-0">{t("title")}</h1>
+                  <div className="flex items-center gap-1 text-sm font-normal text-zinc-600 min-w-0">
+                    <span className="shrink-0">{t("fillerLabel")}</span>
+                    <span
+                      ref={(el) => {
+                        // 只在内容与已保存值不一致时写回：否则用户每次输入都会被重渲染覆盖、光标跳回开头
+                        if (el && el.textContent !== filler) el.textContent = filler
+                      }}
+                      contentEditable
+                      suppressContentEditableWarning
+                      spellCheck={false}
+                      onInput={(e) => setFiller(e.currentTarget.textContent ?? "")}
+                      onKeyDown={(e) => {
+                        if (e.key === "Enter") e.preventDefault()
+                      }}
+                      className="min-w-[6rem] whitespace-nowrap border-b border-zinc-400 px-1 outline-none focus:border-pink-500"
+                    />
+                  </div>
+                </div>
                 <span className="shrink-0 whitespace-nowrap">
                   {t("watchedCount", {
                     count: ratedVisibleAnimeCount,
