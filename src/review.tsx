@@ -54,6 +54,9 @@ export const HomeView = ({ progress, onStart, onContinue, onOpenTable }: HomeVie
       <div className="text-center">
         <h1 className="text-3xl font-bold">{t("title")}</h1>
         <p className="mt-2 text-sm text-zinc-500">{t("homeIntro")}</p>
+        <p className="mt-2 text-xs text-zinc-400 leading-relaxed">
+          {t("browserHint")}
+        </p>
       </div>
 
       {progress && (
