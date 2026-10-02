@@ -651,33 +651,33 @@ export const App = () => {
               className="flex flex-col border border-b-0 bg-white w-fit mx-auto"
               ref={wrapper}
             >
-              <div className="border-b flex items-center justify-between gap-4 p-2 text-lg font-bold">
-                <div className="flex items-center gap-3 min-w-0">
+              <div className="border-b flex flex-col gap-2 p-2">
+                <div className="flex items-center justify-between gap-4 text-lg font-bold">
                   <h1 className="shrink-0">{t("title")}</h1>
-                  <div className="flex items-center gap-1 text-sm font-normal text-zinc-600 min-w-0">
-                    <span className="shrink-0">{t("fillerLabel")}</span>
-                    <span
-                      ref={(el) => {
-                        // 只在内容与已保存值不一致时写回：否则用户每次输入都会被重渲染覆盖、光标跳回开头
-                        if (el && el.textContent !== filler) el.textContent = filler
-                      }}
-                      contentEditable
-                      suppressContentEditableWarning
-                      spellCheck={false}
-                      onInput={(e) => setFiller(e.currentTarget.textContent ?? "")}
-                      onKeyDown={(e) => {
-                        if (e.key === "Enter") e.preventDefault()
-                      }}
-                      className="min-w-[6rem] whitespace-nowrap border-b border-zinc-400 px-1 outline-none focus:border-pink-500"
-                    />
-                  </div>
+                  <span className="shrink-0 whitespace-nowrap">
+                    {t("watchedCount", {
+                      count: ratedVisibleAnimeCount,
+                      total: totalAnime,
+                    })}
+                  </span>
                 </div>
-                <span className="shrink-0 whitespace-nowrap">
-                  {t("watchedCount", {
-                    count: ratedVisibleAnimeCount,
-                    total: totalAnime,
-                  })}
-                </span>
+                <div className="flex items-center gap-1 text-xl font-bold text-zinc-900">
+                  <span className="shrink-0">{t("fillerLabel")}</span>
+                  <span
+                    ref={(el) => {
+                      // 只在内容与已保存值不一致时写回：否则用户每次输入都会被重渲染覆盖、光标跳回开头
+                      if (el && el.textContent !== filler) el.textContent = filler
+                    }}
+                    contentEditable
+                    suppressContentEditableWarning
+                    spellCheck={false}
+                    onInput={(e) => setFiller(e.currentTarget.textContent ?? "")}
+                    onKeyDown={(e) => {
+                      if (e.key === "Enter") e.preventDefault()
+                    }}
+                    className="min-w-[15rem] whitespace-nowrap border-b-2 border-zinc-700 px-1 outline-none focus:border-pink-500"
+                  />
+                </div>
               </div>
               <div className="border-b flex flex-wrap items-center justify-center gap-x-4 gap-y-1 px-2 py-1.5 text-xs text-zinc-600">
                 <span className="inline-flex items-center gap-1">
