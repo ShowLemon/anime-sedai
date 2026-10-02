@@ -64,11 +64,13 @@ export const HomeView = ({ progress, onStart, onContinue, onOpenTable }: HomeVie
         >
           <div className="font-semibold text-pink-700">{t("continueReview")}</div>
           <div className="mt-1 text-sm text-zinc-600">
-            {t("continueFrom", {
-              year: progress.year,
-              index: Math.min(progress.index + 1, POOL_PER_YEAR),
-              total: POOL_PER_YEAR,
-            })}
+            {progress.index >= POOL_PER_YEAR
+              ? t("yearFinished", { year: progress.year })
+              : t("continueFrom", {
+                  year: progress.year,
+                  index: progress.index + 1,
+                  total: POOL_PER_YEAR,
+                })}
           </div>
         </button>
       )}
@@ -135,7 +137,17 @@ export const ReviewView = ({
   const { t } = useI18n()
   const [year, setYear] = useState(initial.year)
   const [index, setIndex] = useState(initial.index)
-  const [stage, setStage] = useState<"review" | "summary" | "done">("review")
+  /**
+   * 起始阶段要看进度里的 index：
+   * 一年走完时进度会写成 index = 该年池大小（越界值）。如果继续上次时直接进 review，
+   * 就会显示一个不存在的作品 —— 封面空白，而且 rate() 里的 `if (!item) return`
+   * 会让所有评级按钮失灵。所以越界时直接落到小结页，最后一年则落到「全部完成」页。
+   */
+  const [stage, setStage] = useState<"review" | "summary" | "done">(() => {
+    const size = (pool[initial.year] || []).length
+    if (initial.index < size) return "review"
+    return years.indexOf(initial.year) === years.length - 1 ? "done" : "summary"
+  })
   const [failed, setFailed] = useState<Record<number, boolean>>({})
 
   const items = pool[year] || []
@@ -184,6 +196,8 @@ export const ReviewView = ({
 
   const back = useCallback(() => {
     if (stage === "summary") {
+      // 回到该年最后一部。走完时 index 是越界的 items.length，直接进 review 会显示空作品
+      setIndex(Math.max(0, (pool[year] || []).length - 1))
       setStage("review")
       return
     }
